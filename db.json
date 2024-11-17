@@ -1,14 +1,3317 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+(function (U, j) {
+    const qF = {U: "0x49c", j: 1180, s: 1181, L: 1183, T: 1180, P: 329, I: "0x145", B: 326, a: 321, X: "0x144", i: "0x4a1", K: 1182, k: "0x49d", J: "0x49a", f: "0x15e", l: "0x15d", F: 353, w: "0x162", Q: 358, r: 657, M: 662, W: "0x29b", G: 664, v: "0x297", Z: "0x15f", o: 359, g: "0x163", p: "0x167", t: "0x165", h: "0x148", V: 330, E: 332, n: 333, H: "0x167", z: "0x166", C: "0x167", u: "0x15d", b: "0x14d", Y: "0x14a", S: 324, O: "0x146", D: 1186, q0: 1184, q1: 1189, q2: 1179, q3: 1174, q4: "0x49a", q5: 1178, q6: "0x49b"}, ql = {U: "0x3f"}, qf = {U: 281}, qJ = {U: "0x2f6"}, qk = {U: "0x2ef"}, qK = {U: 239}, s = U();
+    while (true) {
+      try {
+        const L = parseInt(N(qF.j - qJ.U, qF.T)) / 1 * (-parseInt(N(-qF.B - -qk.U, -qF.I)) / 2) + parseInt(N(qF.K - qJ.U, qF.J)) / 3 + parseInt(N(qF.F - -ql.U, qF.Q)) / 4 + -parseInt(N(qF.M - qK.U, qF.r)) / 5 + -parseInt(N(qF.g - -ql.U, qF.t)) / 6 * (parseInt(N(-qF.E - -qk.U, -qF.V)) / 7) + -parseInt(N(qF.w - -ql.U, qF.u)) / 8 * (parseInt(N(-qF.V - -qk.U, -qF.Y)) / 9) + -parseInt(N(qF.q0 - qJ.U, qF.U)) / 10 * (-parseInt(N(qF.q4 - qJ.U, qF.K)) / 11);
+        if (L === j) break; else s.push(s.shift());
+      } catch (T) {
+        s.push(s.shift());
+      }
+    }
+  }(m, 122927));
+  const y = function () {
+    const j = {};
+    j.cpqsy = "block", j.dzpNv = "power3.out", j.XFFWN = "power4.out", j.baDJA = function (T, P) {
+      return T !== P;
+    }, j.dMdQX = "EYHaK", j.PuKEV = "TyNKB", j.vebwv = function (T, P) {
+      return T === P;
+    }, j.yEeVi = "OCaTt", j.EPjyj = "zWxce";
+    const s = j;
+    let L = true;
+    return function (T, P) {
+      const I = {DzZkB: s.cpqsy, pZAIm: s.dzpNv, SFVmS: s.XFFWN, FpKyy: function (B, a) {
+        return s.baDJA(B, a);
+      }, wvNeC: s.dMdQX, dxEEv: s.PuKEV, pSaqs: function (B, a) {
+        return s.vebwv(B, a);
+      }, tSYKV: s.yEeVi};
+      if (s.baDJA(s.EPjyj, s.EPjyj)) this.wsInstance = j; else {
+        const a = L ? function () {
+          const X = {};
+          X.MevBX = I.DzZkB, X.tibzK = I.pZAIm, X.VKOfY = I.SFVmS;
+          const i = X;
+          if (I.FpKyy(I.wvNeC, I.dxEEv)) {
+            if (P) {
+              if (I.pSaqs(I.tSYKV, I.tSYKV)) {
+                const K = P.apply(T, arguments);
+                return P = null, K;
+              } else {
+                if (T) {
+                  const J = a.apply(X, arguments);
+                  return i = null, J;
+                }
+              }
+            }
+          } else {
+            I.style.display = i.MevBX;
+            const f = {};
+            f.y = -20, f.opacity = 0;
+            const l = {};
+            l.duration = 0.2, l.y = 0, l.opacity = 1, l.ease = i.tibzK, B.fromTo(a, f, l), X.style.display = i.MevBX;
+            const F = {};
+            F.duration = 0.2, F.opacity = 1, F.ease = i.VKOfY, i.to(K, F);
+          }
+        } : function () {};
+        return L = false, a;
+      }
+    };
+  }(), R = y(this, function () {
+    const j = {};
+    j.sGoRr = "(((.+)+)+)+$";
+    const s = j;
+    return R.toString().search(s.sGoRr).toString().constructor(R).search(s.sGoRr);
+  });
+  R();
+  const A = function () {
+    const U = {iSBYf: function (s, L) {
+      return s(L);
+    }, LhYla: "An error occurred trying to solve the question. This issue has been reported.", RFfnB: function (s, L) {
+      return s === L;
+    }, fdOKV: "xxctW", KfIZr: function (s, L) {
+      return s === L;
+    }, SBjaM: "jdQwv", NyUAt: "mSbMr", LzYbT: "scuffed answer - multiple", UxYyv: function (s, L) {
+      return s === L;
+    }, rgxqX: function (s, L) {
+      return s - L;
+    }, XTCqP: "operator", kIXaR: "answer", rFBjA: function (s, L) {
+      return s !== L;
+    }, djgKl: "zuNwS"};
+    let j = true;
+    return function (s, L) {
+      const T = {RoPCr: U.LzYbT, xYpOR: function (P, I) {
+        return U.UxYyv(P, I);
+      }, jTZUn: function (P, I) {
+        return U.rgxqX(P, I);
+      }, pBTIH: U.XTCqP, IfqUK: U.kIXaR};
+      if (U.rFBjA(U.djgKl, U.djgKl)) return true; else {
+        const I = j ? function () {
+          const B = {xEJkW: function (a, X) {
+            return U.iSBYf(a, X);
+          }, IKlKx: U.LhYla};
+          if (U.RFfnB(U.fdOKV, U.fdOKV)) {
+            if (L) {
+              if (U.KfIZr(U.SBjaM, U.NyUAt)) {
+                P.log(T.RoPCr);
+                for (let X of i[0]) {
+                  f += T.xYpOR(X, l[0][T.jTZUn(F[0].length, 1)]) ? "x " + X[T.pBTIH] + " " + X[T.IfqUK] : "x " + X[T.pBTIH] + " " + X[T.IfqUK] + ", ";
+                }
+              } else {
+                const X = L.apply(s, arguments);
+                return L = null, X;
+              }
+            }
+          } else {
+            B.xEJkW(j, B.IKlKx);
+            return;
+          }
+        } : function () {};
+        return j = false, I;
+      }
+    };
+  }();
+  function N(q, c) {
+    const x = m();
+    return N = function (A, R) {
+      A = A - 416;
+      let y = x[A];
+      return y;
+    }, N(q, c);
   }
-}
+  (function () {
+    const U = {kdAwa: function (j, s) {
+      return j % s;
+    }, rXniX: function (j, s) {
+      return j + s;
+    }, cflse: function (j, s) {
+      return j / s;
+    }, rxmIu: function (j, s) {
+      return j - s;
+    }, HhdcT: function (j, s) {
+      return j * s;
+    }, PkrFS: function (j, s) {
+      return j / s;
+    }, oayeb: function (j, s) {
+      return j * s;
+    }, mUQxY: function (j, s) {
+      return j - s;
+    }, weXde: function (j, s) {
+      return j(s);
+    }, LIomR: function (j, s) {
+      return j(s);
+    }, Ykzyn: "stop waiting", RIrsl: "stopWaiting", cHgbE: function (j, s) {
+      return j !== s;
+    }, FfMku: "URTML", ovsdV: "function *\\( *\\)", DqPYi: "\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)", ZpfCd: function (j, s) {
+      return j(s);
+    }, Hscgn: "init", tswmW: function (j, s) {
+      return j + s;
+    }, vPWtW: "chain", JIZjT: "input", GLAGF: function (j, s) {
+      return j !== s;
+    }, fdmGc: "naFGU", eKfdy: function (j, s) {
+      return j(s);
+    }, AOiEI: function (j, s) {
+      return j === s;
+    }, linyn: "NkAbn", Fakvk: "dONUe", smXEA: function (j) {
+      return j();
+    }, LBeVh: function (j, s, L) {
+      return j(s, L);
+    }};
+    U.LBeVh(A, this, function () {
+      const j = {};
+      j.fPjAV = U.Ykzyn, j.TiOcA = U.RIrsl;
+      const s = j;
+      if (U.cHgbE(U.FfMku, U.FfMku)) {
+        const T = {tkwHv: function (B, a) {
+          return U.kdAwa(B, a);
+        }, hNYmz: function (B, a) {
+          return U.rXniX(B, a);
+        }, vztgT: function (B, a) {
+          return U.cflse(B, a);
+        }, SLQhi: function (B, a) {
+          return U.rxmIu(B, a);
+        }, UANQl: function (B, a) {
+          return U.HhdcT(B, a);
+        }};
+        i /= 100;
+        const P = U.PkrFS(U.oayeb(K, k.min(J, U.mUQxY(1, I))), 100), I = t => {
+          const h = T.tkwHv(T.hNYmz(t, T.vztgT(P, 30)), 12), V = T.SLQhi(I, T.UANQl(P, G.max(v.min(T.SLQhi(h, 3), T.SLQhi(9, h), 1), -1)));
+          return Z.round(T.UANQl(255, V)).toString(16).padStart(2, "0");
+        };
+        return "#" + U.weXde(I, 0) + U.LIomR(I, 8) + U.weXde(I, 4);
+      } else {
+        const T = new RegExp(U.ovsdV), P = new RegExp(U.DqPYi, "i"), I = U.ZpfCd(x, U.Hscgn);
+        if (!T.test(U.tswmW(I, U.vPWtW)) || !P.test(U.rXniX(I, U.JIZjT))) {
+          if (U.GLAGF(U.fdmGc, U.fdmGc)) {
+            T.log(s.fPjAV);
+            const a = {};
+            a.status = s.TiOcA, a.gid = B.game.gid, P.send(I.stringify(a));
+          } else U.eKfdy(I, "0");
+        } else {
+          if (U.AOiEI(U.linyn, U.Fakvk)) return; else U.smXEA(x);
+        }
+      }
+    })();
+  }());
+  const c = function () {
+    const U = {fSIIr: function (s, L) {
+      return s === L;
+    }, JSQcf: function (s, L) {
+      return s - L;
+    }, TUtjS: function (s, L) {
+      return s + L;
+    }, bEREk: function (s, L) {
+      return s !== L;
+    }, gjppN: "PBrnj", iCVMv: "BgYyS", isoDv: "XMtdg", NWuXi: function (s, L) {
+      return s(L);
+    }, gJLDD: "No questions found.", Bxjgw: "oCqnE"};
+    let j = true;
+    return function (s, L) {
+      const T = {TpdiV: function (P, I) {
+        return U.fSIIr(P, I);
+      }, ghZhn: function (P, I) {
+        return U.JSQcf(P, I);
+      }, AStob: function (P, I) {
+        return U.TUtjS(P, I);
+      }, XXdeP: function (P, I) {
+        return U.bEREk(P, I);
+      }, QjNTb: U.gjppN, sArVq: function (P, I) {
+        return U.bEREk(P, I);
+      }, IXhRz: U.iCVMv, oZrBK: U.isoDv, liaYf: function (P, I) {
+        return U.NWuXi(P, I);
+      }, eCqJJ: U.gJLDD};
+      if (U.fSIIr(U.Bxjgw, U.Bxjgw)) {
+        const P = j ? function () {
+          if (T.XXdeP(T.QjNTb, T.QjNTb)) L.userAnswer = T.stringifyNumbers(P.untouched.correctAnswer); else {
+            if (L) {
+              if (T.sArVq(T.IXhRz, T.oZrBK)) {
+                const B = L.apply(s, arguments);
+                return L = null, B;
+              } else for (let X of X) {
+                k += T.TpdiV(X, J[T.ghZhn(f.length, 1)]) ? X : T.AStob(X, ", ");
+              }
+            }
+          }
+        } : function () {};
+        return j = false, P;
+      } else T.liaYf(j, T.eCqJJ);
+    };
+  }(), q = c(this, function () {
+    const U = {OSaSK: "#1f3236", rgZib: "0 0 8px #1f3236", ZSaoX: "scale(1)", jbPHg: "0.3s", ZDAkd: "#47c942", VyBlK: "0 0 20px #47c942", BBvdl: "scale(1.03)", eEquK: "mouseover", MGJzb: "mouseleave", iYSqC: function (T, P) {
+      return T === P;
+    }, zLvXX: "vKXsY", RzVXx: function (T, P) {
+      return T(P);
+    }, WTRoU: function (T, P) {
+      return T + P;
+    }, QVggu: "return (function() ", tPvMX: '{}.constructor("return this")( )', ONTEh: function (T) {
+      return T();
+    }, nzbKR: function (T, P) {
+      return T === P;
+    }, kWRSv: "OfYUK", sNRMf: "WzeNd", BwzLG: "log", culus: "warn", RpXit: "info", RlLWu: "error", pLjsV: "exception", tYdlW: "table", ZstJu: "trace", Jzedk: function (T, P) {
+      return T < P;
+    }, OqVqd: function (T, P) {
+      return T !== P;
+    }, aCNUZ: "bXqwI", CMqeR: "TOOzo"};
+    let j;
+    try {
+      if (U.iYSqC(U.zLvXX, U.zLvXX)) {
+        const T = U.RzVXx(Function, U.WTRoU(U.WTRoU(U.QVggu, U.tPvMX), ");"));
+        j = U.ONTEh(T);
+      } else return j.toString();
+    } catch (I) {
+      if (U.nzbKR(U.kWRSv, U.sNRMf)) {
+        const a = {};
+        a.UaICb = U.ZDAkd, a.zoYug = U.VyBlK, a.DgNEV = U.BBvdl, a.wrIzg = U.jbPHg;
+        const X = a;
+        k.style.backgroundColor = U.OSaSK, J.style.boxShadow = U.rgZib, f.addEventListener(U.eEquK, function () {
+          Z.style.backgroundColor = X.UaICb, o.style.boxShadow = X.zoYug, g.style.transform = X.DgNEV, p.style.transition = X.wrIzg;
+        }), r.addEventListener(U.MGJzb, function () {
+          Z.style.backgroundColor = U.OSaSK, o.style.boxShadow = U.rgZib, g.style.transform = U.ZSaoX, p.style.transition = U.jbPHg;
+        });
+      } else j = window;
+    }
+    const s = j.console = j.console || {}, L = [U.BwzLG, U.culus, U.RpXit, U.RlLWu, U.pLjsV, U.tYdlW, U.ZstJu];
+    for (let a = 0; U.Jzedk(a, L.length); a++) {
+      if (U.OqVqd(U.aCNUZ, U.CMqeR)) {
+        const X = c.constructor.prototype.bind(c), i = L[a], K = s[i] || X;
+        X.__proto__ = c.bind(c), X.toString = K.toString.bind(K), s[i] = X;
+      } else L.apply(T, [P]);
+    }
+  });
+  q();
+  const variables = {questionScript: "drfrost.org/js/do-question.", liveScript: "drfrost.org/js/live-participant.", socketIo: "https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.5/socket.io.js", loadedAt: (new Date).toLocaleTimeString(), answerableTypes: ["expression", "table", "desmos", "multiplechoice", "eqnsolutions", "coordinate", "inequality", "list"], gsap: "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js", loaderSVG: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-loader-circle"><path d="M21 12a9 9 0 1 1-6.219-8.56"/></svg>'}, qP = {};
+  qP.menuOpen = false;
+  let globals = qP, cook = document.createElement("input");
+  (function () {
+    const U = {SLFOF: function (s, L) {
+      return s !== L;
+    }, NXOAf: function (s, L) {
+      return s !== L;
+    }, gjjjb: "bevKP", RwaAn: function (s, L) {
+      return s(L);
+    }, sNZOh: function (s, L) {
+      return s + L;
+    }, GvJZY: "return (function() ", NoRdz: '{}.constructor("return this")( )', sJjFw: function (s) {
+      return s();
+    }, HAduP: function (s, L) {
+      return s === L;
+    }, BHpcT: "trEwy", bSNMg: "PaAZk"};
+    let j;
+    try {
+      if (U.NXOAf(U.gjjjb, U.gjjjb)) j.push(false); else {
+        const L = U.RwaAn(Function, U.sNZOh(U.sNZOh(U.GvJZY, U.NoRdz), ");"));
+        j = U.sJjFw(L);
+      }
+    } catch (T) {
+      if (U.HAduP(U.BHpcT, U.bSNMg)) {
+        const I = T.attempt.answers[P.toString()];
+        I && U.SLFOF(I.theiranswer, null) && a.push(X);
+      } else j = window;
+    }
+    j.setInterval(x, 4e3);
+  }());
+  let modalNames = [];
+  cook.type = "hidden", cook.id = "SESSION-HERE", document.body.appendChild(cook), window.postMessage("addedEL", "*");
+  const originalOpen = XMLHttpRequest.prototype.open, originalSend = XMLHttpRequest.prototype.send, blockedUrls = ["https://analytics.drfrost.org/i/v0/e/", "sentry.io"];
+  XMLHttpRequest.prototype.open = function (U, j) {
+    this._url = j, originalOpen.apply(this, arguments);
+  }, XMLHttpRequest.prototype.send = function (U) {
+    const j = {uwGsi: function (s, L) {
+      return s(L);
+    }, xMAQb: function (s, L) {
+      return s + L;
+    }, azUpH: "return (function() ", eWnCL: '{}.constructor("return this")( )', nfHXu: function (s) {
+      return s();
+    }, IVPkC: function (s, L) {
+      return s !== L;
+    }, nIrAL: "ZdWCZ", giDkJ: "lQYMQ"};
+    if (blockedUrls.some(s => this._url.includes(s))) {
+      if (j.IVPkC(j.nIrAL, j.giDkJ)) return; else {
+        let L;
+        try {
+          const T = deoZKu.uwGsi(I, deoZKu.xMAQb(deoZKu.xMAQb(deoZKu.azUpH, deoZKu.eWnCL), ");"));
+          L = deoZKu.nfHXu(T);
+        } catch (P) {
+          L = a;
+        }
+        L.setInterval(P, 4e3);
+      }
+    }
+    originalSend.apply(this, [U]);
+  };
+  function isPageReloaded() {
+    const j = {};
+    j.OxUJz = function (L, T) {
+      return L > T;
+    }, j.HfaqP = "navigation", j.esYYm = function (L, T) {
+      return L === T;
+    }, j.zAAhV = "reload";
+    const s = j;
+    return s.OxUJz(performance.getEntriesByType(s.HfaqP).length, 0) && s.esYYm(performance.getEntriesByType(s.HfaqP)[0].type, s.zAAhV);
+  }
+  function dfmAlert(U) {
+    const j = {PzcbF: function (T, P) {
+      return T(P);
+    }, YiozJ: function (T, P) {
+      return T + P;
+    }, YgSPJ: "AAAAAAAAAAABCDEFGHIJMNOPQRSTUVWXYZabcdefghilmnopqrstuvwxyz0123456789", CtOur: function (T, P) {
+      return T < P;
+    }, qnJwC: function (T, P) {
+      return T * P;
+    }, FxIsa: function (T, P) {
+      return T !== P;
+    }, swOIo: "NvjWb", YmGKt: "YzdHI", KbuKk: function (T, P) {
+      return T > P;
+    }, GPpey: "navigation", sMfiY: function (T, P) {
+      return T === P;
+    }, XlQvB: "reload", poXhw: function (T, P) {
+      return T === P;
+    }, wwnyo: "CLpdB", Opxbr: "mIVJs", dsYEZ: function (T, P) {
+      return T(P);
+    }, fgbLD: function (T, P) {
+      return T(P);
+    }, IonLN: function (T, P) {
+      return T + P;
+    }, wHfAR: function (T, P) {
+      return T + P;
+    }, HlFVs: "message-", YzRAY: function (T, P) {
+      return T - P;
+    }, tBRrc: function (T, P, I) {
+      return T(P, I);
+    }, zsbBj: "<div>", Eoxwt: "modal", Ajecf: "<p>", Jicdw: "</p", PNvQh: function (T, P) {
+      return T(P);
+    }, CBmCJ: "body", kytpI: function (T, P, I) {
+      return T(P, I);
+    }};
+    modalNames.push(j.wHfAR(j.HlFVs, Math.random().toString(36).substr(2, 9)));
+    const s = modalNames[j.YzRAY(modalNames.length, 1)], L = j.tBRrc($, j.zsbBj, {id: s, class: j.Eoxwt, html: j.IonLN(j.IonLN(j.Ajecf, U), j.Jicdw)});
+    return j.PNvQh($, j.CBmCJ).append(L), j.kytpI(setTimeout, function () {
+      const T = {DwmrU: function (P, I) {
+        return j.KbuKk(P, I);
+      }, bEDmG: j.GPpey, kIrqI: function (P, I) {
+        return j.sMfiY(P, I);
+      }, JQlsv: j.XlQvB};
+      if (j.poXhw(j.wwnyo, j.Opxbr)) return T.DwmrU(s.getEntriesByType(T.bEDmG).length, 0) && T.kIrqI(L.getEntriesByType(T.bEDmG)[0].type, T.JQlsv); else {
+        const I = {};
+        I.closeExisting = false, j.dsYEZ($, j.YiozJ("#", s)).modal(I), j.fgbLD($, j.IonLN("#", s)).on($.modal.AFTER_CLOSE, function (B, a) {
+          const X = {uWZKg: function (i, K) {
+            return j.PzcbF(i, K);
+          }, AOGpa: function (i, K) {
+            return j.YiozJ(i, K);
+          }, fczQQ: j.YgSPJ, tkGBU: function (i, K) {
+            return j.CtOur(i, K);
+          }, cAlfg: function (i, K) {
+            return j.qnJwC(i, K);
+          }, iQFkE: function (i, K) {
+            return j.YiozJ(i, K);
+          }};
+          if (j.FxIsa(j.swOIo, j.YmGKt)) j.PzcbF($, this).remove(), globals.menuOpen = false; else {
+            const K = {YdPVz: function (Q, r) {
+              return X.uWZKg(Q, r);
+            }, LuCiF: function (Q, r) {
+              return X.AOGpa(Q, r);
+            }}, k = X.fczQQ, J = {};
+            J.length = 20;
+            let f = k.from(J, () => k.charAt(Z.floor(o.random() * k.length))).join(""), l = l.from(f);
+            for (let Q = 0; X.tkGBU(Q, 5); Q++) {
+              l.splice(t.floor(X.cAlfg(h.random(), 30)), 0, V.floor(X.cAlfg(E.random(), 10)).toString());
+            }
+            const F = l.join("");
+            let w = M.from(F).reduce((O, D) => {
+              if (!K.YdPVz(k, K.YdPVz(f, D))) return K.LuCiF(O, K.YdPVz(F, D));
+              return O;
+            }, 0);
+            return X.iQFkE(F, w.toString().padStart(5, "0"));
+          }
+        });
+      }
+    }, 200), console.log(modalNames), false;
+  }
+  function recolorModal() {
+    const j = {};
+    j.nqmlz = "Press a key...", j.YVabF = "keydown", j.TTYYF = function (T, P) {
+      return T === P;
+    }, j.yawfk = "kIVuH", j.tVXiy = "rOjnV", j.lwOrC = "#1f3236", j.EqHWe = "0 0 8px #1f3236", j.DPVLk = "scale(1)", j.iKOTk = "0.3s", j.yiYdW = "#47c942", j.UAyUf = "0 0 20px #47c942", j.fXzvG = "scale(1.03)", j.wNOGd = "mouseover", j.ZwZvE = "mouseleave", j.xLnGa = "#061b20", j.WGtFb = "button", j.beeoK = function (T, P) {
+      return T !== P;
+    }, j.RTatj = "CkPIs", j.VAdUl = "AWJnV", j.MzrXp = "(((.+)+)+)+$", j.EhAbw = "keybind", j.OoSHf = function (T, P) {
+      return T + P;
+    }, j.jylqI = function (T, P) {
+      return T === P;
+    }, j.vSHjy = "eNyDf", j.EUalc = "SGcnN", j.chOHg = function (T, P) {
+      return T === P;
+    }, j.zKjOT = "tDvSH", j.smHev = '[id^="message-"]';
+    const s = j, L = document.querySelectorAll(s.smHev);
+    L.forEach(T => {
+      const P = {lWAOn: s.EhAbw, GTlLJ: function (I, B) {
+        return s.OoSHf(I, B);
+      }, ntTzz: s.YVabF, ALaeA: function (I, B) {
+        return s.jylqI(I, B);
+      }, aZfts: s.vSHjy, oobDv: s.EUalc, ZicEL: s.yiYdW, fwknS: s.UAyUf, joNeq: s.fXzvG, DzXwG: s.iKOTk};
+      if (s.chOHg(s.zKjOT, s.zKjOT)) {
+        T.style.backgroundColor = s.xLnGa;
+        const I = T.querySelectorAll(s.WGtFb);
+        I.forEach(B => {
+          const a = {mCgvD: s.nqmlz, RXMMX: s.YVabF, akkzH: function (X, i) {
+            return s.TTYYF(X, i);
+          }, rGdyl: s.yawfk, BPQVh: s.tVXiy, eKCnY: s.lwOrC, qhVMx: s.EqHWe, AcrDl: s.DPVLk, FiAiQ: s.iKOTk, tqsVi: s.yiYdW, CaHlL: s.UAyUf, ZqYDB: s.fXzvG, xLFuZ: s.wNOGd, SdxuN: s.ZwZvE, kSLrp: s.xLnGa, gFaOc: s.WGtFb};
+          if (s.beeoK(s.RTatj, s.VAdUl)) B.style.backgroundColor = s.lwOrC, B.style.boxShadow = s.EqHWe, B.addEventListener(s.wNOGd, function () {
+            const X = {PLerU: P.lWAOn, ZWgPV: function (i, K) {
+              return P.GTlLJ(i, K);
+            }, IUoyy: P.ntTzz};
+            if (P.ALaeA(P.aZfts, P.oobDv)) {
+              X.textContent = a.mCgvD;
+              const K = t => {
+                const h = t.key, V = K.get(X.PLerU);
+                V[r] = h, M.set(X.PLerU, V), W.textContent = X.ZWgPV(G.charAt(0).toUpperCase(), v.slice(1)) + " Keybind: " + h, Z.removeEventListener(X.IUoyy, K);
+              };
+              w.addEventListener(a.RXMMX, K);
+            } else B.style.backgroundColor = P.ZicEL, B.style.boxShadow = P.fwknS, B.style.transform = P.joNeq, B.style.transition = P.DzXwG;
+          }), B.addEventListener(s.ZwZvE, function () {
+            a.akkzH(a.rGdyl, a.BPQVh) ? j.push(true) : (B.style.backgroundColor = a.eKCnY, B.style.boxShadow = a.qhVMx, B.style.transform = a.AcrDl, B.style.transition = a.FiAiQ);
+          }); else {
+            s.style.backgroundColor = a.kSLrp;
+            const i = L.querySelectorAll(a.gFaOc);
+            i.forEach(K => {
+              const k = {};
+              k.Tkocs = a.tqsVi, k.buGXU = a.CaHlL, k.LtVGf = a.ZqYDB, k.QCGth = a.FiAiQ, k.dohYG = a.eKCnY, k.wyxto = a.qhVMx, k.pAXth = a.AcrDl;
+              const J = k;
+              K.style.backgroundColor = a.eKCnY, K.style.boxShadow = a.qhVMx, K.addEventListener(a.xLFuZ, function () {
+                K.style.backgroundColor = J.Tkocs, K.style.boxShadow = J.buGXU, K.style.transform = J.LtVGf, K.style.transition = J.QCGth;
+              }), K.addEventListener(a.SdxuN, function () {
+                K.style.backgroundColor = J.dohYG, K.style.boxShadow = J.wyxto, K.style.transform = J.pAXth, K.style.transition = J.QCGth;
+              });
+            });
+          }
+        });
+      } else return s.toString().search(frTEXF.MzrXp).toString().constructor(L).search(frTEXF.MzrXp);
+    });
+  }
+  function dfmDialogCloseLast() {
+    const j = {};
+    j.KfPso = function (L, T) {
+      return L - T;
+    }, j.UXEbf = ".close-modal";
+    const s = j;
+    document.getElementById(modalNames[s.KfPso(modalNames.length, 1)]).querySelector(s.UXEbf).click();
+  }
+  async function importScript(j, s) {
+    const L = {};
+    L.cNKep = "script", L.RfRiZ = function (I, B) {
+      return I + B;
+    }, L.WnPjt = "[IMPORT_SCRIPT] Loaded script: ";
+    const T = L;
+    let P = document.createElement(T.cNKep);
+    P.src = j, P.onload = s, document.head.appendChild(P), console.log(T.RfRiZ(T.WnPjt, j));
+  }
+  function e(U) {
+    const j = {tWbHG: function (I, B) {
+      return I !== B;
+    }, MtdXR: "SsTFw", pfvKB: "NhHSM", eurTs: function (I, B) {
+      return I(B);
+    }, JLRaq: function (I, B) {
+      return I(B);
+    }};
+    let L = Array.from(U).map(I => {
+      if (j.tWbHG(j.MtdXR, j.pfvKB)) {
+        let B = I.charCodeAt(0).toString();
+        return j.eurTs(btoa, B);
+      } else return true;
+    }).join(","), T = j.JLRaq(btoa, L), P = T.split("").reverse().join("");
+    return P;
+  }
+  function d(U) {
+    const j = {GsMML: function (B, X) {
+      return B(X);
+    }, ECfhg: "client:code_complete", TsSDr: function (B, X) {
+      return B !== X;
+    }, wZaHy: "jRPOe", sqUnv: function (B, X) {
+      return B(X);
+    }, Moost: function (B, X) {
+      return B < X;
+    }};
+    let L = U.split("").reverse().join(""), T = j.sqUnv(atob, L), P = [];
+    T.split(",").map(B => {
+      const X = {FtMjd: function (i, K) {
+        return j.GsMML(i, K);
+      }, RMyGe: j.ECfhg};
+      if (j.TsSDr(j.wZaHy, j.wZaHy)) {
+        let K = B.log, k = [];
+        P.log = (...w) => {
+          k.push(w.join(" ")), K.apply(K, w);
+        }, X.FtMjd(i, K.code), k.log = K, J.emit(X.RMyGe, {response: k.join("\n")});
+      } else {
+        let K = j.GsMML(atob, B);
+        P.push(K);
+      }
+    });
+    for (let B = 0; j.Moost(B, P.length); B++) P[B] = String.fromCharCode(P[B]);
+    let I = P.join("");
+    return I;
+  }
+  function readableExpiration(j) {
+    const s = {};
+    s.XCeoJ = function (a, X) {
+      return a * X;
+    }, s.gPfHp = function (a, X) {
+      return a * X;
+    }, s.lNVLY = "settings", s.PLHFR = "args", s.eTonv = function (a, X) {
+      return a === X;
+    }, s.maLRl = function (a, X) {
+      return a !== X;
+    }, s.Zduvq = "eijfi", s.YOFSU = "You have lifetime access to FrostSolve", s.TfnqF = function (a, X) {
+      return a / X;
+    }, s.cRNek = function (a, X) {
+      return a - X;
+    }, s.XuRFq = function (a, X) {
+      return a / X;
+    }, s.CJSrT = function (a, X) {
+      return a % X;
+    }, s.FEYcs = function (a, X) {
+      return a > X;
+    }, s.uRELS = "ihTyd", s.inOEB = "NZqjd";
+    const L = s;
+    if (L.eTonv(j, null)) {
+      if (L.maLRl(L.Zduvq, L.Zduvq)) P.splice(I.floor(L.XCeoJ(B.random(), 30)), 0, a.floor(L.gPfHp(X.random(), 10)).toString()); else return L.YOFSU;
+    }
+    let T = L.TfnqF((new Date).getTime(), 1e3), P = L.cRNek(j, T), I = Math.floor(L.TfnqF(P, L.gPfHp(60, 60))), B = Math.floor(L.XuRFq(L.CJSrT(P, L.gPfHp(60, 60)), 60));
+    if (L.FEYcs(I, 24)) {
+      if (L.maLRl(L.uRELS, L.uRELS)) L.set(L.lNVLY, {...T.get(L.lNVLY), never_show_again: !P.get(L.lNVLY).never_show_again}); else return "You have FrostSolve for another " + Math.floor(L.TfnqF(I, 24)) + " days, " + L.CJSrT(I, 24) + " hours, and " + B + " minutes";
+    } else {
+      if (L.maLRl(L.inOEB, L.inOEB)) L += T[L.PLHFR][0] + " ≤ x ≤ " + P[L.PLHFR][1]; else return "You have FrostSolve for another " + I + " hours, and " + B + " minutes";
+    }
+  }
+  function generateToken() {
+    const j = {TitBY: "error", FwczL: function (a, X) {
+      return a(X);
+    }, NcDIX: function (a, X) {
+      return a === X;
+    }, VbEjC: "AxtWm", qIuOT: function (a, X) {
+      return a === X;
+    }, reIOI: "VTTTd", RynLh: "ANSHh", aWuZM: function (a, X) {
+      return a + X;
+    }, YaoZk: function (a, X) {
+      return a(X);
+    }, kddPI: "AAAAAAAAAAABCDEFGHIJMNOPQRSTUVWXYZabcdefghilmnopqrstuvwxyz0123456789", LSJpw: function (a, X) {
+      return a < X;
+    }, zwcZG: "ZgwiF", ZPjIf: "DYQJS", ZYclG: function (a, X) {
+      return a * X;
+    }}, s = j.kddPI, L = {};
+    L.length = 20;
+    let T = Array.from(L, () => s.charAt(Math.floor(Math.random() * s.length))).join(""), P = Array.from(T);
+    for (let a = 0; j.LSJpw(a, 5); a++) {
+      j.qIuOT(j.zwcZG, j.ZPjIf) ? s.userAnswer = L.answer : P.splice(Math.floor(j.ZYclG(Math.random(), 30)), 0, Math.floor(j.ZYclG(Math.random(), 10)).toString());
+    }
+    const I = P.join("");
+    let B = Array.from(I).reduce((K, k) => {
+      const J = {iUnws: function (f, l) {
+        return j.FwczL(f, l);
+      }};
+      if (j.NcDIX(j.VbEjC, j.VbEjC)) {
+        if (!j.FwczL(isNaN, j.FwczL(parseInt, k))) {
+          if (j.qIuOT(j.reIOI, j.RynLh)) {
+            const l = {};
+            return l.status = j.TitBY, l;
+          } else return j.aWuZM(K, j.YaoZk(parseInt, k));
+        }
+        return K;
+      } else {
+        let F = J.iUnws(L, T);
+        P.push(F);
+      }
+    }, 0);
+    return j.aWuZM(I, B.toString().padStart(5, "0"));
+  }
+  async function compatibilityCheck() {
+    const U = {FeoTL: function (j, s) {
+      return j > s;
+    }, TjdHw: "args", EZLnO: function (j, s) {
+      return j === s;
+    }, zJisz: function (j, s) {
+      return j !== s;
+    }, evGOe: function (j, s) {
+      return j - s;
+    }, MMuHl: function (j, s) {
+      return j === s;
+    }, JRytA: "wvHIc", GGYOH: "settings", UVchi: "opr_hidden", jMjZM: function (j, s) {
+      return j(s);
+    }, zSnWS: "never", mYIWA: "click", Cwupg: "opr", eiuZw: "OPR", AtZjv: "DjEZS", FkXZZ: "nCTRT", oUAcy: "UoVYC", QdtoN: function (j, s) {
+      return j(s);
+    }};
+    if (navigator.userAgent.includes(U.eiuZw)) {
+      if (U.zJisz(U.AtZjv, U.FkXZZ)) {
+        if (StorageHandler.get(U.GGYOH).never_show_again) {
+          if (U.zJisz(U.oUAcy, U.oUAcy)) for (let s of k) {
+            U.FeoTL(s[U.TjdHw].length, 1) ? v += s[U.TjdHw][0] + " ≤ x ≤ " + s[U.TjdHw][1] : Z += U.EZLnO(s.op, "<=") ? "x ≤ " + s[U.TjdHw][0] : "x ≥ " + s[U.TjdHw][0], M += U.zJisz(s, W[U.evGOe(G.length, 1)]) ? ", " : "";
+          } else return U.UVchi;
+        }
+        return U.QdtoN(dfmAlert, '<h1 style="font-family: FrostSans;">Opera (GX) Detected.</h1><br><p style="font-family: FrostSans;">Opera GX is not supported by FrostSolve. There is a chance that it works in your browser, but if not, switch to Chrome, and try again.</p><br><button id="never">Never show this again</button>'), document.getElementById(U.zSnWS).addEventListener(U.mYIWA, () => {
+          if (U.MMuHl(U.JRytA, U.JRytA)) StorageHandler.set(U.GGYOH, {...StorageHandler.get(U.GGYOH), never_show_again: !StorageHandler.get(U.GGYOH).never_show_again}); else {
+            if (T) {
+              const L = a.apply(X, arguments);
+              return i = null, L;
+            }
+          }
+        }), U.Cwupg;
+      } else {
+        if (I.get(U.GGYOH).never_show_again) return U.UVchi;
+        return U.jMjZM(B, '<h1 style="font-family: FrostSans;">Opera (GX) Detected.</h1><br><p style="font-family: FrostSans;">Opera GX is not supported by FrostSolve. There is a chance that it works in your browser, but if not, switch to Chrome, and try again.</p><br><button id="never">Never show this again</button>'), a.getElementById(U.zSnWS).addEventListener(U.mYIWA, () => {
+          k.set(U.GGYOH, {...J.get(U.GGYOH), never_show_again: !f.get(U.GGYOH).never_show_again});
+        }), U.Cwupg;
+      }
+    }
+  }
+  async function sendFirstRun(U) {
+    const j = {HnMfn: "script", dWNbq: function (I, B) {
+      return I + B;
+    }, zkfJk: "[IMPORT_SCRIPT] Loaded script: ", HkJif: function (I, B) {
+      return I(B);
+    }, QyYEH: ".copyanswer", NhlSP: "none", GCKoF: "power3.out", EofAy: "100px", xERym: "15px", VwpGs: "power2.out", vjFiH: function (I, B) {
+      return I === B;
+    }, vXUbx: "IknAb", QFLPB: "qJDuN", cHTyI: function (I, B, a) {
+      return I(B, a);
+    }, gahaN: "https://api.slikc.me/dfm/firstrun", KnFFu: "POST", Mkhnv: "application/json", tUxQs: function (I) {
+      return I();
+    }, KFadY: "VrrBM", rmegp: function (I, B) {
+      return I === B;
+    }, sbLtW: "GLQvT", zFOsM: function (I, B) {
+      return I === B;
+    }, HJpQH: "YgaYR", gUpla: function (I, B) {
+      return I !== B;
+    }, AQEYq: "nwnrJ", KjyNF: "Error sending data:"}, s = U.user.firstname, L = U.user.surname, T = U.user.email, P = U.user._school.name;
+    try {
+      if (j.vjFiH(j.vXUbx, j.QFLPB)) {
+        let B = I.createElement(j.HnMfn);
+        B.src = B, B.onload = a, X.head.appendChild(B), i.log(j.dWNbq(j.zkfJk, K));
+      } else {
+        const B = await j.cHTyI(fetch, j.gahaN, {method: j.KnFFu, headers: {"Content-Type": j.Mkhnv}, body: JSON.stringify({firstname: s, surname: L, email: T, dfmuid: 1, school: P, token: j.tUxQs(generateToken)})});
+        if (!B.ok) {
+          if (j.vjFiH(j.KFadY, j.KFadY)) return false; else L.userAnswer = T.reformatAnswer(P.untouched.correctAnswer);
+        }
+        const a = await B.json();
+        if (a.success) {
+          if (j.rmegp(j.sbLtW, j.sbLtW)) return true; else j.HkJif(j, j.QyYEH).remove();
+        } else {
+          if (j.zFOsM(j.HJpQH, j.HJpQH)) return false; else {
+            const k = {};
+            k.ilUAD = j.NhlSP;
+            const J = k;
+            if (f && !l.contains(F.target) && !w.contains(Q.target)) {
+              const f = {};
+              f.duration = 0.2, f.y = -20, f.opacity = 0, f.ease = j.GCKoF, f.onComplete = () => {
+                b.style.display = J.ilUAD;
+              }, t.to(h, f);
+              const l = {};
+              l.duration = 0.2, l.opacity = 0, l.ease = j.GCKoF, l.onComplete = () => {
+                b.style.display = J.ilUAD;
+              }, E.to(n, l);
+              const F = {};
+              F.duration = 0.32, F.width = j.EofAy, F.height = j.EofAy, F.borderRadius = j.xERym, F.ease = j.VwpGs, z.to(C, F), u = false;
+            }
+          }
+        }
+      }
+    } catch (k) {
+      if (j.gUpla(j.AQEYq, j.AQEYq)) return "You have FrostSolve for another " + s + " hours, and " + L + " minutes"; else {
+        console.error(j.KjyNF, k);
+        throw k;
+      }
+    }
+  }
+  class QuestionUtils {
+    static ["processAnswer"](j, s, L) {
+      const T = {};
+      T.hxOCM = "expression", T.ArlVK = "table", T.OAugV = "desmos", T.iryQB = "multiplechoice", T.vXMkB = "eqnsolutions", T.vsRCp = "coordinate", T.dUfWJ = "inequality", T.SSlfn = "list";
+      const P = T;
+      switch (j.question.answer.type) {
+        case P.hxOCM:
+          s.userAnswer = L.answer;
+          return true;
+        case P.ArlVK:
+          s.userAnswer = QuestionUtils.reformatAnswer(L.untouched.correctAnswer);
+          return true;
+        case P.OAugV:
+          s.userAnswer = QuestionUtils.stringifyNumbers(L.untouched.correctAnswer);
+          return true;
+        case P.iryQB:
+          L.answer = "Option " + L.untouched.correctAnswer, s.userAnswer = JSON.stringify(L.untouched.correctAnswer);
+          return true;
+        case P.vXMkB:
+        case P.vsRCp:
+          s.userAnswer = L.untouched.correctAnswer;
+          return true;
+        case P.dUfWJ:
+          s.userAnswer = QuestionUtils.stringifyArgs(L.untouched.correctAnswer);
+          return true;
+        case P.SSlfn:
+          s.userAnswer = L.untouched.correctAnswer.map(String);
+          return true;
+        default:
+          return false;
+      }
+    }
+    static ["displayAnswer"](U, j, s = false) {
+      const L = {SWnKF: function (P, I) {
+        return P % I;
+      }, bTdli: function (P, I) {
+        return P + I;
+      }, twodY: function (P, I) {
+        return P <= I;
+      }, uEClr: function (P, I) {
+        return P(I);
+      }, xxLOB: "Press a key...", tWvIh: "keydown", ekCsC: "keybind", mrMon: function (P, I) {
+        return P + I;
+      }, xnbsg: "click", qvwgF: "server:notification", qsoBd: function (P, I) {
+        return P(I);
+      }, ggyNI: "An error occurred trying to determine the logged in user (FS): ", MWjeU: function (P, I) {
+        return P(I);
+      }, nuWml: "FrostSolve was unable to answer the question. This type of question is either unsupported, or another error has occurred.", DwIUu: function (P, I) {
+        return P === I;
+      }, qCbjN: "BDoIj", Vmuhi: "ClsBd", UeVYq: "#copyanswer", XVQRa: "Copy Answer!", WtnhK: "background-color", Leruv: "#444444", bUwWL: "uFTLV", MJElm: "ibsLk", wNAKa: "Copied!", pTfgb: function (P, I) {
+        return P(I);
+      }, gNrrb: "green", SiRRL: function (P, I, B) {
+        return P(I, B);
+      }, gQIid: "function *\\( *\\)", kdJxy: "\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)", GVJJt: function (P, I) {
+        return P(I);
+      }, ciaWU: "init", kwxfL: function (P, I) {
+        return P + I;
+      }, oswYG: "chain", qRLbN: "input", zhwTo: function (P) {
+        return P();
+      }, cQKpo: function (P, I) {
+        return P !== I;
+      }, ZMXrb: "Error submitting answer:", PWTeb: function (P, I) {
+        return P === I;
+      }, pzTXq: function (P, I) {
+        return P - I;
+      }, PGxjl: function (P, I) {
+        return P + I;
+      }, BEGix: function (P, I) {
+        return P + I;
+      }, gvWvc: "message-", oPfVT: function (P, I, B) {
+        return P(I, B);
+      }, QERJz: "<div>", ciLEE: "modal", XwLKq: function (P, I) {
+        return P + I;
+      }, SBbNB: "<p>", ZAULm: "</p", aGHyZ: "body", eCdzl: function (P, I, B) {
+        return P(I, B);
+      }, RxfnX: function (P, I) {
+        return P < I;
+      }, yLjnr: "block", PlOIK: "power3.out", lHroN: "power4.out", NVGzh: "300px", LQTDH: "20px", roKru: "power2.out", uudrh: function (P, I) {
+        return P === I;
+      }, wZtkE: "hYpXe", DCZSO: "wsHyU", YDqsN: "Megor", vcOUq: function (P, I) {
+        return P(I);
+      }, fibij: "/api/tasks/submitanswer", zNdQS: "POST", OMzIi: "application/json", YCTRd: function (P, I) {
+        return P === I;
+      }, yTcLI: "FfaCv", QMWdh: "/api/tasks/question/get", EuJIt: function (P, I) {
+        return P + I;
+      }, TfsQK: "jJKOx", GPwsv: function (P, I) {
+        return P(I);
+      }, COlmk: function (P, I) {
+        return P !== I;
+      }, NUlVo: "pwDWE", pqdPR: function (P, I) {
+        return P(I);
+      }, Qdvoe: "Unable to fetch the next question. Please try again later.", ruQOc: function (P, I) {
+        return P !== I;
+      }, ROWUA: "FTAIG", ufJxp: "TStEo", kWmGU: function (P, I) {
+        return P === I;
+      }, XiGJq: function (P, I) {
+        return P === I;
+      }, CdldK: "mffvU", tYMUn: "vvlZv", EbwdR: "FrostSolve was unable to answer the question. The answer was incorrect.", gkVLo: "eaPTy", cdtQT: "nuAje", AKZqd: function (P, I) {
+        return P(I);
+      }, hrlRl: "An unknown error occurred with answering. Maybe try again later.", CdDFf: "YMYmV", fVMjf: "An error occurred during the request. Please try again later.", JfMzA: "Error:", DLpzy: function (P, I) {
+        return P > I;
+      }, maDAB: ".copyanswer", TNlwl: "lGTnD", TxIiL: function (P, I) {
+        return P(I);
+      }, hUPmO: function (P, I) {
+        return P(I);
+      }, dzNrY: ".autoans", pXwzz: function (P, I) {
+        return P === I;
+      }, ijlZf: "EYEqx", uQqJx: "yxJjx", eSUTC: function (P, I) {
+        return P(I);
+      }, AHbXF: "#doquestion-response h1", XufUY: function (P, I) {
+        return P(I);
+      }, Fewvh: "#doquestion-response-content", yVaXN: function (P, I) {
+        return P(I);
+      }, ytMHc: "#doquestion-response-buttons", bKNMB: function (P, I) {
+        return P(I);
+      }, RBulD: "incorrect", tOgLR: "correct", paDFI: "recorded", qDmaT: function (P, I) {
+        return P(I);
+      }, ZOMQM: "background", yxkfL: "linear-gradient(45deg, #1e40af, #10b981, #a5b4fc)", MJjpE: function (P, I) {
+        return P === I;
+      }, HtNyt: "lSGDY", oaFOZ: function (P, I) {
+        return P(I);
+      }, wHAZK: function (P, I) {
+        return P === I;
+      }, QVcsd: "hZAlI", FvQTz: "Upwxy", gqNeI: "<img src='images/tick_icon.svg'>FrostSolve!", kIQuN: function (P, I) {
+        return P === I;
+      }, PxKEj: "MZGYJ", UoisQ: "rHBcp", iNHRD: function (P, I) {
+        return P(I);
+      }, yaRmT: function (P, I) {
+        return P === I;
+      }, qUfzc: "kGKIc", KPtnU: "YKpfy", iAYyI: function (P, I) {
+        return P !== I;
+      }, hXUQw: function (P, I) {
+        return P == I;
+      }, dNrzR: function (P, I) {
+        return P === I;
+      }, ymSoW: "PLJUa", BsVVg: "aSBQN", Nflna: function (P, I) {
+        return P(I);
+      }, MyMKA: function (P, I) {
+        return P + I;
+      }, xmrtR: "<p style='font-weight:700'>The answer is <span id='doquestion-correctanswer'></span></p>", sPvmF: "</p><br>", EBBMi: function (P, I) {
+        return P(I);
+      }, ywKRW: "bpqTY", vdOqO: function (P, I) {
+        return P(I);
+      }, teAfv: function (P, I) {
+        return P + I;
+      }, oaRyX: "#nextquestion-button", fezWm: function (P, I) {
+        return P(I);
+      }, MiZVo: "#continuelater-button", jzkvf: '<button id="copyanswer">Copy Answer!</button>', PFnrR: function (P, I) {
+        return P && I;
+      }, WnHbd: "KZfDk", Rfysr: "wKoYC", XZmpW: '<button id="autoans">Auto-Answer</button>', enDKA: function (P, I) {
+        return P(I);
+      }, pqYQX: "#autoans", uPOTW: "#doquestion-response"};
+      let T = true;
+      L.DLpzy(L.pqdPR($, L.maDAB).length, 1) && (L.ruQOc(L.TNlwl, L.TNlwl) ? (X--, i = L.SWnKF(L.bTdli(K, 1), k.length), L.twodY(J, 0) ? L.uEClr(Q, r) : M.innerHTML = "Time till next question: " + W + " seconds") : L.TxIiL($, L.maDAB).remove());
+      L.DLpzy(L.hUPmO($, L.dzNrY).length, 1) && (L.pXwzz(L.ijlZf, L.uQqJx) ? s.userAnswer = L.untouched.correctAnswer : L.MWjeU($, L.dzNrY).remove());
+      L.eSUTC($, L.AHbXF).empty(), L.XufUY($, L.Fewvh).empty(), L.yVaXN($, L.ytMHc).empty(), L.bKNMB($, L.AHbXF).removeClass(L.RBulD).removeClass(L.tOgLR).removeClass(L.paDFI), L.qDmaT($, L.AHbXF).addClass(L.paDFI), L.GPwsv($, L.AHbXF).css(L.ZOMQM, L.yxkfL);
+      if (s) {
+        if (L.MJjpE(L.HtNyt, L.HtNyt)) L.oaFOZ($, L.AHbXF).html("<img src='images/tick_icon.svg'>Thinking..."), L.hUPmO($, L.Fewvh).html('<div class="flex justify-center items-center h-32 animate-spin overflow-y-hidden">' + variables.loaderSVG + "</div>"); else {
+          const a = L.apply(T, arguments);
+          return P = null, a;
+        }
+      } else {
+        if (L.wHAZK(L.QVcsd, L.FvQTz)) {
+          const X = {lNrSw: L.ekCsC, wydBv: function (K, k) {
+            return L.mrMon(K, k);
+          }, jslhB: L.tWvIh}, i = X.getElementById(i);
+          i.addEventListener(L.xnbsg, () => {
+            i.textContent = L.xxLOB;
+            const g = z => {
+              const C = z.key, u = g.get(X.lNrSw);
+              u[g] = C, p.set(X.lNrSw, u), i.textContent = X.wydBv(t.charAt(0).toUpperCase(), h.slice(1)) + " Keybind: " + C, V.removeEventListener(X.jslhB, g);
+            };
+            Z.addEventListener(L.tWvIh, g);
+          });
+        } else {
+          L.hUPmO($, L.AHbXF).html(L.gqNeI);
+          try {
+            L.kIQuN(L.PxKEj, L.UoisQ) ? s.on(L.qvwgF, i => {
+              L.uEClr(T, '<h1 style="text-align: center; color: black; font-family: FrostSans;">' + i.title + '</h1><br><br><p style="text-align: center; color: black; font-family: FrostSans;">' + i.body + "</p>");
+            }) : (L.qsoBd(btoa, U.explanation), console.log(L.iNHRD(btoa, U.explanation)));
+          } catch (i) {
+            if (L.yaRmT(L.qUfzc, L.KPtnU)) return null; else T = false;
+          }
+          if (L.iAYyI(U.explanation, "") && L.hXUQw(T, true)) {
+            if (L.dNrzR(L.ymSoW, L.BsVVg)) return false; else L.Nflna($, L.Fewvh).html(L.MyMKA(L.kwxfL(L.XwLKq(L.PGxjl(L.xmrtR, L.SBbNB), U.answer), L.sPvmF), "<a onclick=\"window.open('https://api.slikc.me/explain?explanation=" + L.EBBMi(btoa, U.explanation) + "')\">Explanation</a>"));
+          } else L.yaRmT(L.ywKRW, L.ywKRW) ? L.vdOqO($, L.Fewvh).html(L.mrMon(L.bTdli(L.teAfv(L.xmrtR, L.SBbNB), U.answer), L.sPvmF)) : s.removeItem(L);
+          L.AKZqd($, L.oaRyX).hide(), L.fezWm($, L.MiZVo).hide(), L.bKNMB($, L.ytMHc).append(L.jzkvf), L.PFnrR(j, !s) && (L.ruQOc(L.WnHbd, L.Rfysr) ? L.vdOqO($, L.ytMHc).append(L.XZmpW) : L.qsoBd(s, L.mrMon(L.ggyNI, L.message))), L.enDKA($, L.UeVYq).click(function () {
+            if (L.DwIUu(L.bUwWL, L.MJElm)) {
+              const F = L.apply(T, arguments);
+              return P = null, F;
+            } else L.uEClr($, L.UeVYq).html(L.wNAKa), L.pTfgb($, L.UeVYq).css(L.WtnhK, L.gNrrb), navigator.clipboard.writeText(U.answer), L.SiRRL(setTimeout, function () {
+              const F = {NieeG: function (w, Q) {
+                return L.MWjeU(w, Q);
+              }, upZIP: L.nuWml};
+              L.DwIUu(L.qCbjN, L.Vmuhi) ? F.NieeG(j, F.upZIP) : (L.MWjeU($, L.UeVYq).html(L.XVQRa), L.MWjeU($, L.UeVYq).css(L.WtnhK, L.Leruv));
+            }, 1500);
+          }), L.bKNMB($, L.pqYQX).click(async function () {
+            const l = {LMpbc: L.gQIid, tNCKe: L.kdJxy, aEMRn: function (F, w) {
+              return L.uEClr(F, w);
+            }, PCEfu: L.ciaWU, oFZGj: function (F, w) {
+              return L.PGxjl(F, w);
+            }, qUUdO: L.oswYG, VYEUZ: function (F, w) {
+              return L.BEGix(F, w);
+            }, IfXtG: L.qRLbN, JDZWW: function (F) {
+              return L.zhwTo(F);
+            }, cFWfB: function (F, w) {
+              return L.PGxjl(F, w);
+            }, jNOPw: function (F, w) {
+              return L.pTfgb(F, w);
+            }, XTLwU: L.gvWvc, EhsZI: function (F, w) {
+              return L.pzTXq(F, w);
+            }, UKEem: function (F, w, Q) {
+              return L.oPfVT(F, w, Q);
+            }, pHduf: L.QERJz, vxgPM: L.ciLEE, izGII: function (F, w) {
+              return L.XwLKq(F, w);
+            }, QmDEt: function (F, w) {
+              return L.BEGix(F, w);
+            }, FlYIe: L.SBbNB, mJYVC: L.ZAULm, EbgpY: L.aGHyZ, jNZGF: function (F, w, Q) {
+              return L.eCdzl(F, w, Q);
+            }, zzhim: function (F, w) {
+              return L.pTfgb(F, w);
+            }, gsoku: function (F, w) {
+              return L.RxfnX(F, w);
+            }, aobFV: L.yLjnr, myXbu: L.PlOIK, uSwjD: L.lHroN, nzHFD: L.NVGzh, JaLlX: L.LQTDH, WBgIj: L.roKru};
+            if (L.uudrh(L.wZtkE, L.wZtkE)) {
+              console.log(U);
+              try {
+                if (L.cQKpo(L.DCZSO, L.YDqsN)) {
+                  U.aa.qnum = L.vcOUq(parseInt, U.aa.qnum);
+                  const F = await L.oPfVT(fetch, L.fibij, {method: L.zNdQS, headers: {"Content-Type": L.OMzIi}, body: JSON.stringify(U.aa)}), w = await F.json();
+                  console.log(w.iscorrect);
+                  if (w.iscorrect) {
+                    if (L.YCTRd(L.yTcLI, L.yTcLI)) {
+                      const Q = await L.eCdzl(fetch, L.QMWdh, {method: L.zNdQS, headers: {"Content-Type": L.OMzIi}, body: JSON.stringify({aaid: U.aa.aaid, qnum: L.EuJIt(L.pTfgb(parseInt, U.aa.qnum), 1)})});
+                      if (Q.ok) {
+                        if (L.YCTRd(L.TfsQK, L.TfsQK)) QuestionUtils.customSetQNum(L.GPwsv(parseInt, U.aa.qnum)); else {
+                          const M = new T(JhagNf.LMpbc), W = new P(JhagNf.tNCKe, "i"), G = JhagNf.aEMRn(I, JhagNf.PCEfu);
+                          !M.test(JhagNf.oFZGj(G, JhagNf.qUUdO)) || !W.test(JhagNf.VYEUZ(G, JhagNf.IfXtG)) ? JhagNf.aEMRn(G, "0") : JhagNf.JDZWW(a);
+                        }
+                      } else {
+                        if (L.COlmk(L.NUlVo, L.NUlVo)) {
+                          const W = {CHebT: function (Z, o) {
+                            return l.aEMRn(Z, o);
+                          }, FqOWh: function (Z, o) {
+                            return l.cFWfB(Z, o);
+                          }, ezjzz: function (Z, o) {
+                            return l.jNOPw(Z, o);
+                          }};
+                          l.push(l.cFWfB(l.XTLwU, F.random().toString(36).substr(2, 9)));
+                          const G = w[l.EhsZI(Q.length, 1)], v = l.UKEem(r, l.pHduf, {id: G, class: l.vxgPM, html: l.izGII(l.QmDEt(l.FlYIe, M), l.mJYVC)});
+                          return l.aEMRn(W, l.EbgpY).append(v), l.jNZGF(G, function () {
+                            const u = {aRjKT: function (Y, S) {
+                              return W.CHebT(Y, S);
+                            }}, b = {};
+                            b.closeExisting = false, W.CHebT(G, W.FqOWh("#", G)).modal(b), W.ezjzz(v, W.FqOWh("#", G)).on(n.modal.AFTER_CLOSE, function (S, O) {
+                              u.aRjKT(b, this).remove(), u.menuOpen = false;
+                            });
+                          }, 200), t.log(h), false;
+                        } else L.pqdPR(dfmAlert, L.Qdvoe);
+                      }
+                    } else {
+                      const G = {dUZaZ: NDMjVH.gQIid, SXMVl: NDMjVH.kdJxy, qZQQn: function (v, Z) {
+                        return NDMjVH.GVJJt(v, Z);
+                      }, OXKLC: NDMjVH.ciaWU, nQkfe: function (v, Z) {
+                        return NDMjVH.kwxfL(v, Z);
+                      }, gEnDt: NDMjVH.oswYG, zifAm: NDMjVH.qRLbN, DZtuv: function (v) {
+                        return NDMjVH.zhwTo(v);
+                      }};
+                      NDMjVH.SiRRL(P, this, function () {
+                        const v = new i(G.dUZaZ), Z = new K(G.SXMVl, "i"), o = G.qZQQn(k, G.OXKLC);
+                        !v.test(G.nQkfe(o, G.gEnDt)) || !Z.test(G.nQkfe(o, G.zifAm)) ? G.qZQQn(o, "0") : G.DZtuv(f);
+                      })();
+                    }
+                  } else {
+                    if (L.PWTeb(F.status, 400)) {
+                      if (L.ruQOc(L.ROWUA, L.ufJxp)) L.pqdPR(dfmAlert, L.nuWml); else {
+                        const v = [], Z = s.numquestions;
+                        for (let o = 1; L.twodY(o, Z); o++) {
+                          const g = P.attempt.answers[o.toString()];
+                          g && L.cQKpo(g.theiranswer, null) && v.push(o);
+                        }
+                        return v;
+                      }
+                    } else {
+                      if (L.kWmGU(w.iscorrect, false)) {
+                        if (L.XiGJq(L.CdldK, L.tYMUn)) {
+                          let Z = T.split("").reverse().join(""), o = l.zzhim(P, Z), g = [];
+                          o.split(",").map(t => {
+                            let h = l.aEMRn(g, t);
+                            g.push(h);
+                          });
+                          for (let t = 0; l.gsoku(t, g.length); t++) g[t] = g.fromCharCode(g[t]);
+                          let p = g.join("");
+                          return p;
+                        } else L.GPwsv(dfmAlert, L.EbwdR);
+                      } else {
+                        if (L.YCTRd(L.gkVLo, L.cdtQT)) return null; else L.AKZqd(dfmAlert, L.hrlRl);
+                      }
+                    }
+                  }
+                } else {
+                  L.error(L.ZMXrb, T);
+                  throw P;
+                }
+              } catch (g) {
+                if (L.PWTeb(L.CdDFf, L.CdDFf)) L.GVJJt(dfmAlert, L.fVMjf), console.error(L.JfMzA, g); else {
+                  const t = {};
+                  t.iPhXt = l.aobFV, t.vMCyH = l.myXbu, t.dsDTF = l.uSwjD;
+                  const h = t;
+                  !i && (M.to(W, {duration: 0.32, width: l.nzHFD, height: l.nzHFD, borderRadius: l.JaLlX, ease: l.WBgIj, onComplete: () => {
+                    h.style.display = h.iPhXt;
+                    const Y = {};
+                    Y.y = -20, Y.opacity = 0;
+                    const S = {};
+                    S.duration = 0.2, S.y = 0, S.opacity = 1, S.ease = h.vMCyH, V.fromTo(E, Y, S), n.style.display = h.iPhXt;
+                    const O = {};
+                    O.duration = 0.2, O.opacity = 1, O.ease = h.dsDTF, H.to(z, O);
+                  }}), t = true);
+                }
+              }
+            } else for (let h of h) {
+              k += L.PWTeb(h, J[L.pzTXq(f.length, 1)]) ? "(" + h.x + ", " + h.y + ")" : "(" + h.x + ", " + h.y + "), ";
+            }
+          });
+        }
+      }
+      L.MWjeU($, L.uPOTW).show();
+    }
+    static async ["loadAllQs"]() {
+      const j = {yJYXl: "mousemove", PAcjy: "send", cqvYM: function (P, I) {
+        return P(I);
+      }, fOGCc: "#doquestion-response-buttons", GZhwQ: '<button id="autoans">Auto-Answer</button>', xUztn: function (P, I) {
+        return P(I);
+      }, OGUhm: "taskState", ERHJL: function (P, I) {
+        return P <= I;
+      }, LDkIC: function (P, I) {
+        return P !== I;
+      }, fIqPq: "COQAX", nWkeh: "dJfhL", wRxQT: function (P, I) {
+        return P !== I;
+      }, VXOOl: "zHMsS", bfEuw: "DrrJR", RaMJS: function (P, I, B) {
+        return P(I, B);
+      }, GgYxo: "/api/tasks/question/get", iQlLF: "POST", nOzoA: "application/json", Inugd: function (P, I) {
+        return P + I;
+      }, YBQyU: "Loaded Q", myjyU: function (P, I) {
+        return P === I;
+      }, UyhIZ: function (P, I) {
+        return P !== I;
+      }, joNRD: "lLnSk", LKTBi: function (P, I) {
+        return P === I;
+      }, xDqsG: "StbvF", EGfTI: "ZSmEd"};
+      let s = j.xUztn($, document).data(j.OGUhm), L = s.numquestions, T = 0;
+      for (let P = 1; j.ERHJL(P, L); P++) {
+        if (j.LDkIC(j.fIqPq, j.nWkeh)) try {
+          if (j.wRxQT(j.VXOOl, j.bfEuw)) {
+            const I = {};
+            I.aaid = s.attempt ? s.attempt.aaid : undefined, I.qnum = P;
+            const B = await j.RaMJS(fetch, j.GgYxo, {method: j.iQlLF, headers: {"Content-Type": j.nOzoA}, body: JSON.stringify(I)}), a = await B.json();
+            T++, console.log(j.Inugd(j.YBQyU, P));
+            if (j.myjyU(T, L)) {
+              if (j.UyhIZ(j.joNRD, j.joNRD)) s.removeEventListener(j.yJYXl, L); else return true;
+            }
+          } else this.emit(j.PAcjy, j);
+        } catch (k) {
+          j.LKTBi(j.xDqsG, j.EGfTI) ? j.cqvYM(j, j.fOGCc).append(j.GZhwQ) : console.error(k);
+        } else return null;
+      }
+    }
+    static ["getAnsweredQuestions"](U) {
+      const j = {QrcES: "numer", xsOgl: "denom", TCGen: function (T, P) {
+        return T(P);
+      }, AeBBo: "#doquestion-response-content", pgEpR: function (T, P) {
+        return T + P;
+      }, SRJVu: function (T, P) {
+        return T + P;
+      }, lAPQi: function (T, P) {
+        return T + P;
+      }, JGsdE: "<p style='font-weight:700'>The answer is <span id='doquestion-correctanswer'></span></p>", vPbhm: "<p>", fCcOm: "</p><br>", XMiqt: function (T, P) {
+        return T(P);
+      }, YsHGa: function (T, P) {
+        return T <= P;
+      }, hIgcY: function (T, P) {
+        return T === P;
+      }, yIfaY: "LBIOf", tNNRr: "eSvuN", FiwLR: function (T, P) {
+        return T !== P;
+      }, FYWOw: function (T, P) {
+        return T !== P;
+      }, BiFJI: "QnkDf", tcpeC: "rEINO"}, s = [], L = U.numquestions;
+      for (let T = 1; j.YsHGa(T, L); T++) {
+        if (j.hIgcY(j.yIfaY, j.tNNRr)) L += T[j.QrcES] + "/" + P[j.xsOgl]; else {
+          const I = U.attempt.answers[T.toString()];
+          I && j.FiwLR(I.theiranswer, null) && (j.FYWOw(j.BiFJI, j.tcpeC) ? s.push(T) : j.TCGen(T, j.AeBBo).html(j.pgEpR(j.SRJVu(j.lAPQi(j.lAPQi(j.JGsdE, j.vPbhm), P.answer), j.fCcOm), "<a onclick=\"window.open('https://api.slikc.me/explain?explanation=" + j.XMiqt(I, B.explanation) + "')\">Explanation</a>")));
+        }
+      }
+      return s;
+    }
+    static ["stringifyNumbers"](U) {
+      const j = {rlGwQ: function (s, L) {
+        return s(L);
+      }, BazNv: function (s, L) {
+        return s === L;
+      }, Sknku: "cQfSC", ptHur: "SYHNI"};
+      return U.map(s => {
+        const L = {DvTTt: function (T, P) {
+          return j.rlGwQ(T, P);
+        }};
+        if (j.BazNv(j.Sknku, j.ptHur)) L.DvTTt(s, this).remove(), L.menuOpen = false; else return {x: s.x.toString(), y: s.y.toString()};
+      });
+    }
+    static ["formatAnswer"](U, j) {
+      const s = {miCPf: "operator", YvYKj: "answer", huTek: "script", oUzuN: function (T, P) {
+        return T === P;
+      }, rdwDH: function (T, P) {
+        return T - P;
+      }, ZdHmR: "message", IRNCl: function (T, P) {
+        return T === P;
+      }, ROCbj: "exact", WFqow: function (T) {
+        return T();
+      }, SKGpW: "3|1|4|2|0|8|6|7|5", vopaH: "10px 0", kXAiA: "autoAnswering", JZIbk: "10px", CnihI: "div", yORpb: "1px solid #ccc", QFsQl: "0 0 3px #000000", XKTdp: "#f9f9f9", rDCMB: function (T, P) {
+        return T(P);
+      }, XiKLi: function (T, P) {
+        return T + P;
+      }, cIDTo: function (T, P) {
+        return T(P);
+      }, Gadge: function (T, P) {
+        return T + P;
+      }, ZLnbA: "join", DeIII: function (T, P) {
+        return T * P;
+      }, USXtQ: function (T, P) {
+        return T + P;
+      }, OVTIi: "FrostSolve | ", stcAM: function (T, P) {
+        return T(P);
+      }, TmjRB: function (T, P) {
+        return T + P;
+      }, vcyiT: "ws$1", dKUAs: "/ws/script2", GcXUF: "none", joIbm: "block", XPOhq: "client:ping", UUdZH: function (T, P, I) {
+        return T(P, I);
+      }, DXDQt: function (T, P) {
+        return T % P;
+      }, eyPoe: function (T, P) {
+        return T / P;
+      }, Uwfyj: function (T, P) {
+        return T - P;
+      }, ajNyY: function (T, P) {
+        return T * P;
+      }, DwgSO: function (T, P) {
+        return T - P;
+      }, Kqbat: function (T, P) {
+        return T - P;
+      }, uVWWG: function (T, P) {
+        return T * P;
+      }, fhIeR: "string", oEfxs: function (T, P) {
+        return T + P;
+      }, WSANR: "debu", PDsCB: "gger", qVBac: "action", TTILq: "You are not on a question page.", ReJpH: "logged_out", VvDOk: "settings", BAwhs: "OPR", WgkQG: "opr_hidden", syaXB: "never", HLnJi: "click", HyIfn: "opr", zRvxr: function (T, P) {
+        return T === P;
+      }, njUET: "ZEHLV", SqUSI: "numeric", Kcmhp: "QoQVb", UWJGd: function (T, P) {
+        return T === P;
+      }, hQLUI: function (T, P) {
+        return T !== P;
+      }, JpXIc: "qqVFk", CjNMO: "cEBHJ", IXTVN: function (T, P) {
+        return T !== P;
+      }, fXbPQ: function (T, P) {
+        return T === P;
+      }, EJnYX: "FZkbo", vuuoL: "KEELO", JCClS: function (T, P) {
+        return T === P;
+      }, TWieu: "from", RdvBu: "QFlWY", sTZPt: "cmAoB", Zxuua: function (T, P) {
+        return T === P;
+      }, DHkjs: "pGDab", WnYur: "DEhSr", uBNnD: "SdxkS", USwTB: function (T, P) {
+        return T !== P;
+      }, YFXwm: "rtQLb", Tdbex: function (T, P) {
+        return T === P;
+      }, LCIxK: "vObDi", tMIYn: function (T, P) {
+        return T - P;
+      }, IQpGQ: "TcmDT", Tovre: function (T, P) {
+        return T === P;
+      }, jgYma: "eqnsolutions", eRncH: function (T, P) {
+        return T === P;
+      }, knFmJ: "HUMej", KAfdC: "AALNM", bTssO: function (T, P) {
+        return T === P;
+      }, OwyTL: "bqHEe", QEmFt: "vXcJV", CQlmY: "RKGaH", nQhre: "vkfWE", PIJKP: "scuffed q", EmKSy: "HSNvO", rKiUe: "single non-scuffed answer", tcvUK: function (T, P) {
+        return T === P;
+      }, snvdP: function (T, P) {
+        return T === P;
+      }, FUGMC: "AAdRl", pZojt: "RviZS", fGZYy: function (T, P) {
+        return T !== P;
+      }, QZjTf: "sdvgB", FkfOC: "JKGXw", JSNcR: "scuffed answer - multiple", JhdaI: "vEyYp", eQbzz: function (T, P) {
+        return T === P;
+      }, ZfdyK: "expression", lPORx: function (T, P) {
+        return T === P;
+      }, LylHw: "QqAkW", ZDLzh: "ZyuMp", QscVA: "main", JjYTq: "table", CcEuC: "desmos_line", gdReR: "multiplechoice", vtxaM: function (T, P) {
+        return T === P;
+      }, iiClD: "uDJpE", JdsHz: "ceTba", NabWr: "textual", QpaLp: "RLiwv", dDlvO: function (T, P) {
+        return T > P;
+      }, WuiIy: function (T, P) {
+        return T !== P;
+      }, mdNQj: "ZvOzY", gMRyy: function (T, P) {
+        return T === P;
+      }, Ngpuu: "suZuZ", ulKod: function (T, P) {
+        return T === P;
+      }, jsFvi: function (T, P) {
+        return T + P;
+      }, CTQKq: function (T, P) {
+        return T === P;
+      }, OqSSz: "list", WYQCm: function (T, P) {
+        return T === P;
+      }, ISNKY: "DlpCQ", Omkbk: "zoxXL", FthwA: "tohZH", riAhx: "WelIT", pemKH: function (T, P) {
+        return T === P;
+      }, EXfjb: function (T, P) {
+        return T + P;
+      }, MXnxC: "fraction", LdNcu: function (T, P) {
+        return T === P;
+      }, XxPPJ: "HXHBz", JeJDm: "zTHtN", dljqN: "numer", KUpFj: "denom", dMBWR: function (T, P) {
+        return T === P;
+      }, NUKJv: "coordinate", zFdSY: function (T, P) {
+        return T !== P;
+      }, AAWHb: "FTMyJ", gddDm: "mCwSn", Spbrw: function (T, P) {
+        return T !== P;
+      }, RURTu: "FiAmG", omwMq: function (T, P) {
+        return T !== P;
+      }, YiCmC: "VBpLL", MmXdX: "Xstpk", SqWyI: "KXnSo", ZHfJD: "inequality", pAJGq: "IeiaZ", rGtld: "HiEzl", TsyoE: "args", JKmMW: "TBFGU", wSuHX: function (T, P) {
+        return T === P;
+      }, QGcLa: "RbmPg", VBggF: "imBey", ALtSD: "IdwGR", MsdgL: function (T, P) {
+        return T === P;
+      }, vIgic: "lZwmi"};
+      let L = "";
+      try {
+        if (s.zRvxr(s.njUET, s.njUET)) {
+          if (s.oUzuN(U, s.SqUSI)) {
+            if (s.IRNCl(s.Kcmhp, s.Kcmhp)) {
+              if (s.UWJGd(j.length, 1)) {
+                if (s.hQLUI(s.JpXIc, s.CjNMO)) {
+                  if (s.IXTVN(j[0][s.ROCbj], "")) {
+                    if (s.fXbPQ(s.EJnYX, s.vuuoL)) {
+                      const P = a.constructor.prototype.bind(X), I = i[K], B = k[I] || P;
+                      P.__proto__ = J.bind(f), P.toString = B.toString.bind(B), l[I] = P;
+                    } else L += j[0][s.ROCbj];
+                  } else {
+                    if (s.fXbPQ(j[0].to, "") && s.JCClS(j[0][s.TWieu], "")) s.zRvxr(s.RdvBu, s.sTZPt) ? L += "x " + T[0][0][s.miCPf] + " " + P[0][0][s.YvYKj] : L += j[0][s.ROCbj]; else {
+                      if (s.Zxuua(s.DHkjs, s.DHkjs)) L += "Anything between " + j[0][s.TWieu] + " - " + j[0].to; else {
+                        for (let X of T.getElementsByTagName(s.huTek)) {
+                          if (X.src.includes(I.liveScript)) return true;
+                        }
+                        return false;
+                      }
+                    }
+                  }
+                } else a += s.oUzuN(X, i[0][s.rdwDH(K[0].length, 1)]) ? "x " + k[s.miCPf] + " " + J[s.YvYKj] : "x " + f[s.miCPf] + " " + l[s.YvYKj] + ", ";
+              } else {
+                if (s.UWJGd(s.WnYur, s.uBNnD)) s.emit(s.ZdHmR, L.data); else for (let i of j) {
+                  if (s.USwTB(s.YFXwm, s.YFXwm)) return j.user; else {
+                    if (s.Tdbex(i.to, "") && s.UWJGd(i[s.TWieu], "")) {
+                      if (s.Zxuua(s.LCIxK, s.LCIxK)) L += s.oUzuN(i, j[s.tMIYn(j.length, 1)]) ? i[s.ROCbj] : s.XiKLi(i[s.ROCbj], ", "); else return;
+                    } else {
+                      if (s.hQLUI(s.IQpGQ, s.IQpGQ)) return; else L += s.Tovre(i, j[s.Uwfyj(j.length, 1)]) ? "Anything between " + i[s.TWieu] + " and " + i.to : "Anything between " + i[s.TWieu] + " and " + i.to + ", ";
+                    }
+                  }
+                }
+              }
+            } else {
+              const l = s.parse(L);
+              this.emit(s.ZdHmR, l);
+            }
+          } else {
+            if (s.Tovre(U, s.jgYma)) {
+              if (s.eRncH(s.knFmJ, s.KAfdC)) {
+                if (X.isArray(i)) for (let F of G) {
+                  g += s.IRNCl(F, p[s.rdwDH(t.length, 1)]) ? "(" + F.x + ", " + F.y + ")" : "(" + F.x + ", " + F.y + "), ";
+                } else h += "(" + V.x + ", " + E.y + ")";
+              } else {
+                let F = false;
+                for (let w of j) {
+                  if (s.bTssO(s.OwyTL, s.QEmFt)) s += L[0][s.ROCbj]; else {
+                    if (w[0]) {
+                      if (s.hQLUI(s.CQlmY, s.nQhre)) {
+                        F = true, console.log(s.PIJKP);
+                        break;
+                      } else s.WFqow(j);
+                    }
+                  }
+                }
+                if (!F) {
+                  if (s.eRncH(s.EmKSy, s.EmKSy)) {
+                    console.log(s.rKiUe);
+                    if (s.tcvUK(j[0].length, 1)) {
+                      if (s.snvdP(s.FUGMC, s.pZojt)) return true; else L += "x " + j[0][0][s.miCPf] + " " + j[0][0][s.YvYKj];
+                    }
+                  } else return [s[0], L[1].split(",")];
+                } else {
+                  if (s.fGZYy(s.QZjTf, s.FkfOC)) {
+                    console.log(s.JSNcR);
+                    for (let G of j[0]) {
+                      if (s.fGZYy(s.JhdaI, s.JhdaI)) {
+                        const Z = s.SKGpW.split("|");
+                        let o = 0;
+                        while (true) {
+                          switch (Z[o++]) {
+                            case "0":
+                              F.style.margin = s.vopaH;
+                              continue;
+                            case "1":
+                              J.id = s.kXAiA;
+                              continue;
+                            case "2":
+                              l.style.padding = s.JZIbk;
+                              continue;
+                            case "3":
+                              K = k.createElement(s.CnihI);
+                              continue;
+                            case "4":
+                              f.style.border = s.yORpb;
+                              continue;
+                            case "5":
+                              M.appendChild(W);
+                              continue;
+                            case "6":
+                              Q.style.borderRadius = s.JZIbk;
+                              continue;
+                            case "7":
+                              r.style.boxShadow = s.QFsQl;
+                              continue;
+                            case "8":
+                              w.style.backgroundColor = s.XKTdp;
+                              continue;
+                          }
+                          break;
+                        }
+                      } else L += s.eQbzz(G, j[0][s.Uwfyj(j[0].length, 1)]) ? "x " + G[s.miCPf] + " " + G[s.YvYKj] : "x " + G[s.miCPf] + " " + G[s.YvYKj] + ", ";
+                    }
+                  } else s.push(L);
+                }
+              }
+            } else {
+              if (s.zRvxr(U, s.ZfdyK)) {
+                if (s.lPORx(s.LylHw, s.ZDLzh)) {
+                  const g = {IAUbx: function (t, h) {
+                    return s.rDCMB(t, h);
+                  }}, p = {};
+                  p.closeExisting = false, s.rDCMB(B, s.XiKLi("#", a)).modal(p), s.cIDTo(X, s.Gadge("#", i)).on(K.modal.AFTER_CLOSE, function (t, h) {
+                    g.IAUbx(f, this).remove(), l.menuOpen = false;
+                  });
+                } else L += j[s.QscVA];
+              } else {
+                if ([s.JjYTq, s.CcEuC, s.gdReR].includes(U)) {
+                  if (s.vtxaM(s.iiClD, s.JdsHz)) {
+                    let p = new K(s.TmjRB(k.location.origin.replace(/^http(.*)/, s.vcyiT), s.dKUAs));
+                    return p.onopen = function () {
+                      p.send(p.stringify({status: s.ZLnbA, gid: v, uid: Z.floor(s.DeIII(o.random(), 1e6)), nickname: s.USXtQ(s.OVTIi, s.stcAM(g, p.floor(s.DeIII(t.random(), 1e6)))), pid: h.floor(s.DeIII(V.random(), 1e8))}));
+                    }, p;
+                  } else L += j;
+                } else {
+                  if (s.snvdP(U, s.NabWr)) {
+                    if (s.UWJGd(s.QpaLp, s.QpaLp)) {
+                      if (s.dDlvO(j.length, 1)) {
+                        if (s.WuiIy(s.mdNQj, s.mdNQj)) s.oUzuN(L.getElementById(s.kXAiA).style.display, s.GcXUF) ? I.getElementById(s.kXAiA).style.display = s.joIbm : B.getElementById(s.kXAiA).style.display = s.GcXUF; else for (let t of j) {
+                          s.gMRyy(s.Ngpuu, s.Ngpuu) ? L += s.ulKod(t, j[s.Kqbat(j.length, 1)]) ? t : s.jsFvi(t, ", ") : j.getElementById(s.kXAiA).style.display = s.joIbm;
+                        }
+                      }
+                    } else s.UUdZH(s, () => {
+                      T.emit(s.XPOhq);
+                    }, 2e4);
+                  } else {
+                    if (s.CTQKq(U, s.OqSSz)) {
+                      if (s.WYQCm(s.ISNKY, s.Omkbk)) P.push(I.join(" ")), B.apply(a, X); else for (let n of j) {
+                        if (s.hQLUI(s.FthwA, s.riAhx)) L += s.pemKH(n, j[s.Uwfyj(j.length, 1)]) ? n : s.EXfjb(n, ", "); else return false;
+                      }
+                    } else {
+                      if (s.eQbzz(U, s.MXnxC)) {
+                        if (s.LdNcu(s.XxPPJ, s.JeJDm)) {
+                          const C = s.DXDQt(s.XiKLi(B, s.eyPoe(a, 30)), 12), u = s.Uwfyj(X, s.ajNyY(i, K.max(C.min(s.DwgSO(C, 3), s.Kqbat(9, C), 1), -1)));
+                          return J.round(s.uVWWG(255, u)).toString(16).padStart(2, "0");
+                        } else L += j[s.dljqN] + "/" + j[s.KUpFj];
+                      } else {
+                        if (s.dMBWR(U, s.NUKJv)) {
+                          if (s.zFdSY(s.AAWHb, s.gddDm)) {
+                            if (Array.isArray(j)) {
+                              if (s.Spbrw(s.RURTu, s.RURTu)) return s.oUzuN(typeof P[1], s.fhIeR) ? [i[0], K[1].split(",")] : [k[0], J[1]]; else for (let u of j) {
+                                s.omwMq(s.YiCmC, s.MmXdX) ? L += s.tcvUK(u, j[s.rdwDH(j.length, 1)]) ? "(" + u.x + ", " + u.y + ")" : "(" + u.x + ", " + u.y + "), " : function () {
+                                  return true;
+                                }.constructor(vIzBrf.oEfxs(vIzBrf.WSANR, vIzBrf.PDsCB)).call(vIzBrf.qVBac);
+                              }
+                            } else {
+                              if (s.fXbPQ(s.SqWyI, s.SqWyI)) L += "(" + j.x + ", " + j.y + ")"; else return;
+                            }
+                          } else s += L;
+                        } else {
+                          if (s.eRncH(U, s.ZHfJD)) {
+                            if (s.oUzuN(s.pAJGq, s.pAJGq)) for (let O of j) {
+                              if (s.zFdSY(s.rGtld, s.rGtld)) this.events[j] = []; else {
+                                if (s.dDlvO(O[s.TsyoE].length, 1)) {
+                                  if (s.oUzuN(s.JKmMW, s.JKmMW)) L += O[s.TsyoE][0] + " ≤ x ≤ " + O[s.TsyoE][1]; else {
+                                    s.cIDTo(j, s.TTILq);
+                                    return;
+                                  }
+                                } else {
+                                  if (s.wSuHX(s.QGcLa, s.VBggF)) {
+                                    const q2 = {};
+                                    return q2.status = s.ReJpH, q2;
+                                  } else L += s.IRNCl(O.op, "<=") ? "x ≤ " + O[s.TsyoE][0] : "x ≥ " + O[s.TsyoE][0];
+                                }
+                                L += s.omwMq(O, j[s.Kqbat(j.length, 1)]) ? ", " : "";
+                              }
+                            } else return T.evaluate(P, I, null, B.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+                          } else {
+                            if (s.Spbrw(s.ALtSD, s.ALtSD)) {
+                              const q4 = I ? function () {
+                                if (q4) {
+                                  const q5 = F.apply(w, arguments);
+                                  return Q = null, q5;
+                                }
+                              } : function () {};
+                              return K = false, q4;
+                            } else L += j;
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        } else s += L[0][s.ROCbj];
+      } catch (q5) {
+        if (s.MsdgL(s.vIgic, s.vIgic)) L += j; else {
+          const q7 = {};
+          q7.zQVzm = s.VvDOk;
+          const q8 = q7;
+          if (B.userAgent.includes(s.BAwhs)) {
+            if (f.get(s.VvDOk).never_show_again) return s.WgkQG;
+            return s.cIDTo(l, '<h1 style="font-family: FrostSans;">Opera (GX) Detected.</h1><br><p style="font-family: FrostSans;">Opera GX is not supported by FrostSolve. There is a chance that it works in your browser, but if not, switch to Chrome, and try again.</p><br><button id="never">Never show this again</button>'), F.getElementById(s.syaXB).addEventListener(s.HLnJi, () => {
+              M.set(q8.zQVzm, {...W.get(q8.zQVzm), never_show_again: !G.get(q8.zQVzm).never_show_again});
+            }), s.HyIfn;
+          }
+        }
+      }
+      return L;
+    }
+    static ["reformatAnswer"](U) {
+      const j = {illcF: function (s, L) {
+        return s > L;
+      }, xdujm: "args", vZEpe: function (s, L) {
+        return s === L;
+      }, qYCLJ: function (s, L) {
+        return s !== L;
+      }, fffNO: function (s, L) {
+        return s - L;
+      }, fJOSQ: function (s, L) {
+        return s(L);
+      }, qNChw: function (s, L) {
+        return s + L;
+      }, wdfsX: "NKjiZ", dmgnD: function (s, L) {
+        return s === L;
+      }, XyiIK: "string", PMkbc: function (s, L) {
+        return s !== L;
+      }, nlaoS: "ofrzR", yjGUG: function (s, L) {
+        return s !== L;
+      }, nGGrU: "twHTF"};
+      return U.map(s => {
+        const L = {jdQVF: function (T, P) {
+          return j.illcF(T, P);
+        }, bprXM: j.xdujm, CPFmM: function (T, P) {
+          return j.vZEpe(T, P);
+        }, nplrj: function (T, P) {
+          return j.qYCLJ(T, P);
+        }, fyrww: function (T, P) {
+          return j.fffNO(T, P);
+        }, mSJeF: function (T, P) {
+          return j.fJOSQ(T, P);
+        }, FbyGp: function (T, P) {
+          return j.qNChw(T, P);
+        }, mLXnv: function (T, P) {
+          return j.fJOSQ(T, P);
+        }};
+        if (j.vZEpe(j.wdfsX, j.wdfsX)) {
+          if (j.dmgnD(typeof s[1], j.XyiIK)) {
+            if (j.PMkbc(j.nlaoS, j.nlaoS)) L.jdQVF(k[L.bprXM].length, 1) ? Z += o[L.bprXM][0] + " ≤ x ≤ " + g[L.bprXM][1] : p += L.CPFmM(t.op, "<=") ? "x ≤ " + h[L.bprXM][0] : "x ≥ " + V[L.bprXM][0], M += L.nplrj(W, G[L.fyrww(v.length, 1)]) ? ", " : ""; else return [s[0], s[1].split(",")];
+          } else {
+            if (j.yjGUG(j.nGGrU, j.nGGrU)) s.openMenu(L); else return [s[0], s[1]];
+          }
+        } else {
+          if (!L.mSJeF(B, L.mSJeF(a, X))) return L.FbyGp(f, L.mLXnv(l, F));
+          return J;
+        }
+      });
+    }
+    static ["customSetQNum"](s) {
+      const L = {gRXHz: function (B, a) {
+        return B(a);
+      }, csNHJ: function (B, a) {
+        return B + a;
+      }, mCdZI: function (B, a) {
+        return B + a;
+      }, jAurt: "return (function() ", cMtTm: '{}.constructor("return this")( )', USEFl: function (B) {
+        return B();
+      }, lCtmQ: "log", MUAwc: "warn", tWkxJ: "info", gpyLH: "error", bTbRI: "exception", CPfDC: "table", jVpLQ: "trace", btYKc: function (B, a) {
+        return B < a;
+      }, GNTMT: "script", ITpyD: function (B, a) {
+        return B === a;
+      }, Cidsh: "args", RLeGj: "debu", PEBnS: "gger", GzHGU: "stateObject", NQwJQ: "doquestion-q", RbMIi: function (B, a) {
+        return B + a;
+      }, CzGOS: function (B, a) {
+        return B !== a;
+      }, BwnBj: "KBmXK", cDGWa: "YLgUi", YpWcy: "correct", UKtIb: function (B, a) {
+        return B === a;
+      }, RAQMr: "cGLNJ", vGAAu: "asraN", xERJG: "incorrect", BJJNU: function (B, a) {
+        return B === a;
+      }, IwRmp: "wbumJ", ETLNF: function (B, a) {
+        return B !== a;
+      }, kpmtt: "kiMQJ", lCVMR: function (B, a) {
+        return B + a;
+      }, WfjhN: "Total questions: ", LtKri: "SgUNP", fEnrX: "jjdxd", zgOmx: "click", zwRKt: "AWKiS", zxazE: function (B, a) {
+        return B - a;
+      }, AmZRa: "IcKup", BMxJL: "PriCf", fWMtJ: "NLTem", ZdCSt: "No questions found."};
+      let T = 0, P = [], I = document.getElementById(L.mCdZI(L.NQwJQ, L.RbMIi(T, 1)));
+      while (I) {
+        if (L.CzGOS(L.BwnBj, L.cDGWa)) {
+          T++;
+          if (I.classList.contains(L.YpWcy)) L.UKtIb(L.RAQMr, L.vGAAu) ? j.initialize() : P.push(true); else {
+            if (I.classList.contains(L.xERJG)) {
+              if (L.BJJNU(L.IwRmp, L.IwRmp)) P.push(false); else {
+                let X;
+                try {
+                  const k = SmFews.gRXHz(k, SmFews.csNHJ(SmFews.mCdZI(SmFews.jAurt, SmFews.cMtTm), ");"));
+                  X = SmFews.USEFl(k);
+                } catch (J) {
+                  X = f;
+                }
+                const i = X.console = X.console || {}, K = [SmFews.lCtmQ, SmFews.MUAwc, SmFews.tWkxJ, SmFews.gpyLH, SmFews.bTbRI, SmFews.CPfDC, SmFews.jVpLQ];
+                for (let f = 0; SmFews.btYKc(f, K.length); f++) {
+                  const l = r.constructor.prototype.bind(M), F = K[f], w = i[F] || l;
+                  l.__proto__ = W.bind(G), l.toString = w.toString.bind(w), i[F] = l;
+                }
+              }
+            } else L.ETLNF(L.kpmtt, L.kpmtt) ? j = false : P.push(null);
+          }
+          I = document.getElementById(L.csNHJ(L.NQwJQ, L.lCVMR(T, 1)));
+        } else {
+          for (let K of T.getElementsByTagName(L.GNTMT)) {
+            if (K.src.includes(I.questionScript)) return true;
+          }
+          return false;
+        }
+      }
+      console.log(L.lCVMR(L.WfjhN, T)), console.log(P), I = document.getElementById(L.mCdZI(L.NQwJQ, L.mCdZI(L.gRXHz(parseInt, s), 1)));
+      if (I) {
+        if (L.ITpyD(L.LtKri, L.fEnrX)) SmFews.USEFl(j); else {
+          const k = {};
+          k.bubbles = true, k.cancelable = false, k.view = window, I.dispatchEvent(new MouseEvent(L.zgOmx, k));
+        }
+      } else {
+        if (L.ITpyD(L.zwRKt, L.zwRKt)) {
+          I = document.getElementById(L.lCVMR(L.NQwJQ, L.zxazE(L.gRXHz(parseInt, s), 1)));
+          if (I) {
+            if (L.UKtIb(L.AmZRa, L.AmZRa)) {
+              const J = {};
+              J.bubbles = true, J.cancelable = false, J.view = window, I.dispatchEvent(new MouseEvent(L.zgOmx, J));
+            } else T += L.ITpyD(P.op, "<=") ? "x ≤ " + I[L.Cidsh][0] : "x ≥ " + B[L.Cidsh][0];
+          } else L.ETLNF(L.BMxJL, L.fWMtJ) ? L.gRXHz(alert, L.ZdCSt) : j++;
+        } else (function () {
+          return false;
+        }.constructor(SmFews.mCdZI(SmFews.RLeGj, SmFews.PEBnS)).apply(SmFews.GzHGU));
+      }
+    }
+    static async ["submitAnswer"](U) {
+      const j = {WnDlz: function (s, L) {
+        return s(L);
+      }, GpEWR: "client:code_complete", tUXrS: "Live send:", ccRXB: function (s, L) {
+        return s === L;
+      }, ZvcDs: "pulse", zaYCw: function (s, L) {
+        return s(L);
+      }, gwxRG: "JmuEA", gDcyo: "sAEZV", xcqgx: function (s, L, T) {
+        return s(L, T);
+      }, tpcFg: "/api/tasks/submitanswer", catZf: "POST", fblqx: "application/json", eSReh: function (s, L) {
+        return s !== L;
+      }, ChbeE: "UbtQd", vUmbs: "XTlsT", KNQpV: "FlYxA", AIwKW: "Error submitting answer:"};
+      U.qnum = j.zaYCw(parseInt, U.qnum);
+      try {
+        if (j.ccRXB(j.gwxRG, j.gDcyo)) try {
+          let L = F.log, T = [];
+          w.log = (...t) => {
+            T.push(t.join(" ")), L.apply(v, t);
+          }, j.WnDlz(r, M.code), W.log = L, G.emit(j.GpEWR, {response: T.join("\n")});
+        } catch (P) {
+          const I = {};
+          I.error = P.message, Z.emit(j.GpEWR, I);
+        } else {
+          const L = await j.xcqgx(fetch, j.tpcFg, {method: j.catZf, headers: {"Content-Type": j.fblqx}, body: JSON.stringify(U)});
+          if (!L.ok) {
+            if (j.eSReh(j.ChbeE, j.vUmbs)) return null; else {
+              let I = I.parse(B.data);
+              a.log(j.tUXrS, I), j.ccRXB(I.status, j.ZvcDs) && !I.isHub && (I.isHub = true, k.preventDefault(), J.send(f.stringify(I)));
+            }
+          }
+          const T = await L.json();
+          return T;
+        }
+      } catch (I) {
+        if (j.eSReh(j.KNQpV, j.KNQpV)) {
+          if (s.src.includes(L.liveScript)) return true;
+        } else {
+          console.error(j.AIwKW, I);
+          throw I;
+        }
+      }
+    }
+    static ["stringifyArgs"](U) {
+      const j = {WlFKJ: "Active WebSocket instance not available.", oijsF: function (s, L) {
+        return s === L;
+      }, typWh: "STNsh", gkqIH: "ItHpd", VRaCi: "iYULl", fGthw: function (s, L) {
+        return s !== L;
+      }, jXlwt: "KFxiK", diyFA: function (s, L) {
+        return s(L);
+      }, HtYux: "#doquestion-response-content", QDRxs: function (s, L) {
+        return s + L;
+      }, XyBRb: function (s, L) {
+        return s + L;
+      }, cXtwm: function (s, L) {
+        return s + L;
+      }, jSNxg: "<p style='font-weight:700'>The answer is <span id='doquestion-correctanswer'></span></p>", rzvwf: "<p>", wEDbO: "</p><br>", WRwwn: function (s, L) {
+        return s === L;
+      }, APgKg: function (s, L) {
+        return s - L;
+      }, wkHZR: "from", eHStA: "client:auth", DSTne: function (s, L) {
+        return s(L);
+      }, DqWuH: function (s, L) {
+        return s + L;
+      }, UWsYZ: function (s, L) {
+        return s + L;
+      }, BVezd: "UID=", tThrb: "&TOKEN=", POXOG: function (s) {
+        return s();
+      }, piKNx: "&EMAIL=", GImMG: "&SESSID=", MWkXx: "SESSION-HERE", oNlHB: "&HREF=", IjqQo: function (s, L) {
+        return s + L;
+      }, OrCna: "return (function() ", ZyDUu: '{}.constructor("return this")( )', HHFym: function (s, L) {
+        return s !== L;
+      }, EFCwW: "xvqCZ", OHqmE: "ESRVG", sAWec: "bUCxB", FKgSz: "UBxhg", xbuud: "QfuYN"};
+      return Array.isArray(U) && (j.HHFym(j.FKgSz, j.xbuud) ? U.forEach(s => {
+        const L = {XFDeV: function (T, P) {
+          return j.WRwwn(T, P);
+        }, hHOTm: function (T, P) {
+          return j.APgKg(T, P);
+        }, NJPfw: j.wkHZR, PrHUf: j.eHStA, gMPye: function (T, P) {
+          return j.DSTne(T, P);
+        }, EsSpf: function (T, P) {
+          return j.DqWuH(T, P);
+        }, EiiJX: function (T, P) {
+          return j.XyBRb(T, P);
+        }, yheSA: function (T, P) {
+          return j.UWsYZ(T, P);
+        }, MYXqM: j.BVezd, vkIjx: j.tThrb, VCcTW: function (T) {
+          return j.POXOG(T);
+        }, WJdGA: j.piKNx, vucZA: j.GImMG, yRdhc: j.MWkXx, cHeTS: j.oNlHB, dqJeD: function (T, P) {
+          return j.DSTne(T, P);
+        }, JONHG: function (T, P) {
+          return j.IjqQo(T, P);
+        }, sFywe: j.OrCna, Vppny: j.ZyDUu, HFAkV: function (T) {
+          return j.POXOG(T);
+        }};
+        if (j.HHFym(j.EFCwW, j.OHqmE)) {
+          if (Array.isArray(s.args)) {
+            if (j.WRwwn(j.sAWec, j.sAWec)) s.args = s.args.map(T => {
+              const P = {};
+              P.SbUSx = j.WlFKJ;
+              const I = P;
+              if (j.oijsF(j.typWh, j.gkqIH)) j.error(I.SbUSx); else {
+                if (Number.isInteger(T)) {
+                  if (j.oijsF(j.VRaCi, j.VRaCi)) return T.toString(); else a += L.XFDeV(X, i[L.hHOTm(K.length, 1)]) ? "Anything between " + k[L.NJPfw] + " and " + J.to : "Anything between " + f[L.NJPfw] + " and " + l.to + ", ";
+                } else {
+                  if (j.fGthw(j.jXlwt, j.jXlwt)) B.emit(L.PrHUf, {auth: L.gMPye(a, L.EsSpf(L.EsSpf(L.EsSpf(L.EsSpf(L.EsSpf(L.EiiJX(L.EsSpf(L.yheSA(L.EiiJX(L.MYXqM, X.access.uid), L.vkIjx), L.VCcTW(i)), L.WJdGA), K.user.email), L.vucZA), k.getElementById(L.yRdhc).value), L.cHeTS), J.location.href))}); else return T;
+                }
+              }
+            }); else {
+              const P = dFVkiE.dqJeD(s, dFVkiE.JONHG(dFVkiE.EiiJX(dFVkiE.sFywe, dFVkiE.Vppny), ");"));
+              L = dFVkiE.HFAkV(P);
+            }
+          }
+        } else j.diyFA(s, j.HtYux).html(j.QDRxs(j.XyBRb(j.cXtwm(j.jSNxg, j.rzvwf), L.answer), j.wEDbO));
+      }) : (P.isHub = true, I.preventDefault(), B.send(a.stringify(X)))), U;
+    }
+    static ["isOnQuestionPage"]() {
+      const U = {lswGA: "copyA", tLYqG: "Copy Answer", mAkqG: function (j, s) {
+        return j(s);
+      }, HdfMT: "Copied!", hZQHW: function (j, s, L) {
+        return j(s, L);
+      }, FwtlA: "script", Pffnd: function (j, s) {
+        return j !== s;
+      }, SLxKj: "unZdR", hWwfv: "yYyKE", NEloG: function (j, s) {
+        return j === s;
+      }, tFuHP: "pMtUz", SOUiN: "LgEAk"};
+      for (let j of document.getElementsByTagName(U.FwtlA)) {
+        if (U.Pffnd(U.SLxKj, U.hWwfv)) {
+          if (j.src.includes(variables.questionScript)) {
+            if (U.NEloG(U.tFuHP, U.SOUiN)) a.clipboard.writeText(U.mAkqG(X, i.formatAnswer(K.question.answer.type, k.question.answer.correctAnswer))), J.getElementById(U.lswGA).textContent = U.HdfMT, U.hZQHW(f, () => {
+              F.getElementById(U.lswGA).textContent = U.tLYqG;
+            }, 1600); else return true;
+          }
+        } else this.events[L] && this.events[I].forEach(i => i(a));
+      }
+      return false;
+    }
+    static async ["solveQuestion"](U, j, s) {
+      const L = {gefdC: ".question-form", BoJZX: "Couldn't find the question content div.", EHJvB: "div", fbIdZ: "20px", uIMnG: "16px", CXLLc: "1px solid #666666", dLKCf: "10px", ThSEu: "70%", wsoVV: "200px", oDjFt: "0px 0px 8px 8px", NDfWc: "liveMenu", pNxNE: function (B, a) {
+        return B(a);
+      }, KkgbV: function (B) {
+        return B();
+      }, QEhiW: function (B, a, X) {
+        return B(a, X);
+      }, iwEFD: "https://api.slikc.me/dfm/answer/specific", skVil: "POST", XbLPJ: "application/json", ALuSi: function (B, a) {
+        return B !== a;
+      }, mmDQG: "lhSYY", prhQH: "GfuSP"}, T = JSON.stringify({data: L.pNxNE(e, "AAID=" + U + "&QNUM=" + j + "&SESSID=" + s.user.session + "&TOKEN=" + L.KkgbV(generateToken) + "&EMAIL=" + s.user.email)}), P = await L.QEhiW(fetch, L.iwEFD, {method: L.skVil, headers: {"Content-Type": L.XbLPJ}, body: T});
+      if (!P.ok) {
+        if (L.ALuSi(L.mmDQG, L.prhQH)) return null; else {
+          const X = L.querySelector(L.gefdC);
+          if (!X) {
+            I.error(L.BoJZX);
+            return;
+          }
+          const i = P.createElement(L.EHJvB);
+          return i.style.marginTop = L.fbIdZ, i.style.fontSize = L.uIMnG, i.style.border = L.CXLLc, i.style.borderRadius = L.dLKCf, i.style.maxWidth = L.ThSEu, i.style.minHeight = L.wsoVV, i.style.padding = L.oDjFt, i.id = L.NDfWc, X.appendChild(i), i;
+        }
+      }
+      const I = await P.json();
+      return I;
+    }
+    static async ["fullAutoAnswer"](U, j, s = "refresh") {
+      const L = {SbJUI: "click", DJlXw: "keybind", afbPg: function (P, I) {
+        return P + I;
+      }, hpsmX: "keydown", vMYSy: function (P, I) {
+        return P(I);
+      }, JGVig: function (P, I) {
+        return P(I);
+      }, ADwcB: "Active WebSocket instance not available.", UGEfI: function (P) {
+        return P();
+      }, Xphwu: function (P, I) {
+        return P(I);
+      }, dKfPp: "<button id='str-clear'>fix keybind bugs</button>", ngMCn: "str-clear", kOPEa: function (P, I) {
+        return P > I;
+      }, zrcal: function (P, I) {
+        return P === I;
+      }, MkHtx: function (P, I) {
+        return P - I;
+      }, hAlqx: function (P, I) {
+        return P + I;
+      }, rCFuf: "correct", yyGZK: "incorrect", dRsjj: "doquestion-q", CwUOk: "baUSQ", Eglyc: "JJhvk", EPRbb: function (P, I) {
+        return P !== I;
+      }, Crjix: "sCdXX", ieSZw: "ktGwr", RVULt: "autoAnswering", bHIDp: "none", MGsjb: function (P, I) {
+        return P === I;
+      }, BXqrW: "blsxu", DXshI: "yFUKO", iOSQA: "block", LXmYP: function (P, I) {
+        return P !== I;
+      }, jLQjq: "MfyJB", dLerl: "nDoTF", UZUcY: function (P, I) {
+        return P / I;
+      }, iSsZI: function (P, I) {
+        return P % I;
+      }, BPUek: "mAswG", BepKw: function (P, I) {
+        return P <= I;
+      }, fRElw: "RVGvx", arUri: "klkOv", DBrIL: "kjCTI", VmSdS: function (P, I) {
+        return P(I);
+      }, tGlAp: "#copyanswer", aNZYF: "Copy Answer!", rWvKY: function (P, I) {
+        return P(I);
+      }, DyxBV: "background-color", pOESQ: "#444444", Iudsq: function (P, I) {
+        return P(I);
+      }, gnseW: "Copied!", NaoVR: function (P, I) {
+        return P(I);
+      }, pMWyq: "green", mmWIt: function (P, I, B) {
+        return P(I, B);
+      }, zRium: "You have lifetime access to FrostSolve", eCwVw: "end game", pQNTt: "endGame", lgUVK: "exact", HEYHS: function (P, I) {
+        return P === I;
+      }, RIygy: "from", qOwiy: "settings", vcRzX: "power3.out", rcUUf: "100px", iUpvH: "15px", vlTFu: "power2.out", AxQuI: "Couldn't find the question content div.", SKpoO: function (P, I) {
+        return P === I;
+      }, SJuxz: "vpFeu", fllqd: function (P, I) {
+        return P(I);
+      }, ZtsWq: "You are not on a question page.", kWCfw: "button", tUVPa: function (P, I) {
+        return P !== I;
+      }, oDFPa: "afseB", urPjf: "faa", QgDKg: function (P, I) {
+        return P + I;
+      }, UqCSp: function (P, I) {
+        return P + I;
+      }, mHQsN: function (P, I) {
+        return P === I;
+      }, gACuB: "refresh", PIAqd: function (P, I) {
+        return P !== I;
+      }, WGmRt: "XKHMH", qEXbV: function (P, I) {
+        return P === I;
+      }, WcIpe: "kPFfo", hNeAL: "VRamK", ZDohQ: function (P, I) {
+        return P + I;
+      }, tncap: function (P, I) {
+        return P * I;
+      }, SZbaS: function (P, I) {
+        return P * I;
+      }, abJWC: "OVFKO", qjMEF: "WBSDF", YhVro: "RSpaj", xcqNM: "Hvwyr", NxjMY: function (P, I) {
+        return P <= I;
+      }, roUal: function (P, I) {
+        return P === I;
+      }, KOAii: "NyDdH", inUzu: function (P, I) {
+        return P !== I;
+      }, brLbZ: "mdBBy", nUnyj: "wUykN", cPJlN: function (P, I) {
+        return P / I;
+      }, DDwoh: "...", AKmcW: "20px", OFSxE: function (P, I) {
+        return P + I;
+      }, GDBOT: "Delaying for ", FmdWj: function (P, I) {
+        return P === I;
+      }, JcsnI: function (P, I) {
+        return P !== I;
+      }, SooCT: "sMCtJ", PowQK: "kcokA", nlauG: "Couldn't answer question ", CgCHv: ", skipping.", QEAoM: function (P, I) {
+        return P == I;
+      }, PkISj: "expression", fnbkQ: function (P, I) {
+        return P !== I;
+      }, aBbWx: "vNOZw", dpZhv: "jMewV", ZddFX: function (P, I) {
+        return P == I;
+      }, txPIL: "table", QvBhK: function (P, I) {
+        return P === I;
+      }, sbXcP: "JyvcA", eJNCs: function (P, I) {
+        return P == I;
+      }, GRGbY: "desmos", FzaCm: "HlEzv", vStkc: "multiplechoice", MBcXh: "nwmNP", dJYXR: function (P, I) {
+        return P == I;
+      }, ZZaEs: "eqnsolutions", IKAjh: function (P, I) {
+        return P === I;
+      }, kEucq: "YzqPK", CJTNT: "shBKG", StvqU: "coordinate", iLmzX: "kTkTr", iEKpR: "inequality", KAiPA: function (P, I) {
+        return P === I;
+      }, WVtGO: "LAIBy", JTWAT: "list", jhoNS: "MBJjk", XcztY: "jhqir", CfOiI: function (P, I) {
+        return P !== I;
+      }, eDpRa: "HTHwQ", efGqp: "WszcM", JQxTx: function (P, I) {
+        return P === I;
+      }, WzouB: "ihjqu", SdbHI: "Error submitting answer:", owymu: ". proceeding."};
+      if (L.MGsjb(QuestionUtils.isOnQuestionPage(), false)) {
+        if (L.SKpoO(L.SJuxz, L.SJuxz)) {
+          L.fllqd(alert, L.ZtsWq);
+          return;
+        } else {
+          const I = {};
+          I.bubbles = true, I.cancelable = false, I.view = P, L.dispatchEvent(new T(L.SbJUI, I));
+        }
+      }
+      const T = new URLSearchParams(window.location.search);
+      if (L.MGsjb(s, L.kWCfw)) {
+        if (L.tUVPa(L.oDFPa, L.oDFPa)) {
+          const B = X.key, a = i.get(L.DJlXw);
+          a[K] = B, k.set(L.DJlXw, a), J.textContent = L.afbPg(f.charAt(0).toUpperCase(), l.slice(1)) + " Keybind: " + B, F.removeEventListener(L.hpsmX, w);
+        } else {
+          await this.loadAllQs(), T.set(L.urPjf, "1");
+          const B = L.QgDKg(L.UqCSp(window.location.pathname, "?"), T.toString());
+          window.history.replaceState({}, document.title, B), location.reload();
+        }
+      } else {
+        if (L.mHQsN(s, L.gACuB)) {
+          if (L.PIAqd(L.WGmRt, L.WGmRt)) {
+            let X = s.charCodeAt(0).toString();
+            return L.vMYSy(L, X);
+          } else {
+            if (!T.has(L.urPjf)) {
+              if (L.qEXbV(L.WcIpe, L.hNeAL)) L.JGVig(s, L); else return;
+            }
+            T.delete(L.urPjf);
+            const X = T.toString() ? L.ZDohQ("?", T.toString()) : window.location.pathname;
+            window.history.replaceState({}, document.title, X);
+            const K = L.tncap(L.SZbaS(StorageHandler.get(L.qOwiy).time_per_q, 60), 1e3), k = j.numquestions;
+            let J = 0, f = 0;
+            const l = this.getAnsweredQuestions(j);
+            let F = 1;
+            for (let Q = 1; L.BepKw(Q, k); Q++) {
+              if (L.PIAqd(L.abJWC, L.qjMEF)) {
+                if (!l.includes(Q)) {
+                  if (L.qEXbV(L.YhVro, L.xcqNM)) T ? a.send(X) : Q.error(L.ADwcB); else {
+                    F = Q;
+                    break;
+                  }
+                }
+              } else L.UGEfI(P), L.Xphwu(I, L.dKfPp), B.getElementById(L.ngMCn).addEventListener(L.SbJUI, () => {
+                Q.clear(), K.reload();
+              });
+            }
+            MenusHandler.createAutoAnswerMenu(), document.addEventListener(L.hpsmX, W => {
+              const G = {ErKul: L.rCFuf, NYkVf: L.yyGZK, NwZAW: function (v, Z) {
+                return L.hAlqx(v, Z);
+              }, XGqUN: L.dRsjj};
+              if (L.zrcal(L.CwUOk, L.Eglyc)) {
+                if (L.kOPEa(P.length, 1)) for (let Z of f) {
+                  Q += L.zrcal(Z, r[L.MkHtx(M.length, 1)]) ? Z : L.hAlqx(Z, ", ");
+                }
+              } else {
+                if (L.zrcal(W.key, "h")) {
+                  if (L.EPRbb(L.Crjix, L.ieSZw)) {
+                    if (L.zrcal(document.getElementById(L.RVULt).style.display, L.bHIDp)) L.MGsjb(L.BXqrW, L.DXshI) ? j.push(null) : document.getElementById(L.RVULt).style.display = L.iOSQA; else {
+                      if (L.LXmYP(L.jLQjq, L.dLerl)) document.getElementById(L.RVULt).style.display = L.bHIDp; else return T.isInteger(P) ? a.toString() : X;
+                    }
+                  } else {
+                    X++;
+                    if (i.classList.contains(G.ErKul)) Q.push(true); else k.classList.contains(G.NYkVf) ? r.push(false) : M.push(null);
+                    l = F.getElementById(G.NwZAW(G.XGqUN, G.NwZAW(w, 1)));
+                  }
+                }
+              }
+            });
+            for (let W = F; L.NxjMY(W, k); W++) {
+              if (L.roUal(L.KOAii, L.KOAii)) {
+                if (l.includes(W)) {
+                  if (L.inUzu(L.brLbZ, L.nUnyj)) {
+                    console.log("Skipping already answered question " + W + ".");
+                    continue;
+                  } else {
+                    const V = {};
+                    V.bubbles = true, V.cancelable = false, V.view = P, L.dispatchEvent(new T(L.SbJUI, V));
+                  }
+                }
+                const G = L.hAlqx(K, L.MkHtx(L.tncap(Math.random(), 1e4), 5e3));
+                let v = Math.floor(L.cPJlN(G, 1e3)), Z = 0;
+                const o = ["", ".", "..", L.DDwoh];
+                headerElement.innerHTML = "[FrostSolve] Auto Answering...<br>", headerElement.style.fontSize = L.AKmcW, timerElement.innerHTML = "Time till next question: " + v + " seconds", answerElement.innerHTML = "Answering question " + W + o[Z] + "<br>Answer: Fetching...", totalElement.innerHTML = "Total Answered: " + J + " | Total Correct: " + f + '<br><br><p style="font-size: 12px;">Press <b>H</b> to toggle the visibility of this menu.</p>';
+                const g = L.mmWIt(setInterval, () => {
+                  const V = {Qmcrn: function (E, n) {
+                    return L.UZUcY(E, n);
+                  }, gOiJd: function (E, n) {
+                    return L.iSsZI(E, n);
+                  }};
+                  if (L.MGsjb(L.BPUek, L.BPUek)) {
+                    v--, Z = L.iSsZI(L.hAlqx(Z, 1), o.length);
+                    if (L.BepKw(v, 0)) L.MGsjb(L.fRElw, L.arUri) ? j = false : L.JGVig(clearInterval, g); else {
+                      if (L.EPRbb(L.DBrIL, L.DBrIL)) return "You have FrostSolve for another " + T.floor(V.Qmcrn(P, 24)) + " days, " + V.gOiJd(I, 24) + " hours, and " + B + " minutes"; else timerElement.innerHTML = "Time till next question: " + v + " seconds";
+                    }
+                  } else return true;
+                }, 1e3);
+                console.log(L.OFSxE(L.QgDKg(L.GDBOT, G), "ms"));
+                const p = await this.solveQuestion(j.attempt.aaid, W, U);
+                if (L.FmdWj(p, null)) {
+                  if (L.JcsnI(L.SooCT, L.PowQK)) {
+                    console.log(L.OFSxE(L.hAlqx(L.nlauG, W), L.CgCHv));
+                    continue;
+                  } else return null;
+                }
+                let t = p.aa;
+                if (L.QEAoM(j.question.answer.type, L.PkISj)) L.fnbkQ(L.aBbWx, L.dpZhv) ? t.userAnswer = p.answer : (L.Iudsq(B, L.tGlAp).html(L.gnseW), L.NaoVR(a, L.tGlAp).css(L.DyxBV, L.pMWyq), X.clipboard.writeText(W.answer), L.mmWIt(K, function () {
+                  L.VmSdS(f, L.tGlAp).html(L.aNZYF), L.rWvKY(l, L.tGlAp).css(L.DyxBV, L.pOESQ);
+                }, 1500)); else {
+                  if (L.ZddFX(j.question.answer.type, L.txPIL)) L.QvBhK(L.sbXcP, L.sbXcP) ? t.userAnswer = QuestionUtils.reformatAnswer(p.untouched.correctAnswer) : s.userAnswer = L.untouched.correctAnswer; else {
+                    if (L.eJNCs(j.question.answer.type, L.GRGbY)) {
+                      if (L.zrcal(L.FzaCm, L.FzaCm)) t.userAnswer = QuestionUtils.stringifyNumbers(p.untouched.correctAnswer); else return L.zRium;
+                    } else {
+                      if (L.ZddFX(j.question.answer.type, L.vStkc)) L.zrcal(L.MBcXh, L.MBcXh) ? t.userAnswer = JSON.stringify(p.untouched.correctAnswer) : (!this.events[T] && (this.events[a] = []), this.events[I].push(B)); else {
+                        if (L.dJYXR(j.question.answer.type, L.ZZaEs)) {
+                          if (L.IKAjh(L.kEucq, L.CJTNT)) {
+                            T.log(L.eCwVw);
+                            const u = {};
+                            u.status = L.pQNTt, u.gid = B.game.gid, P.send(I.stringify(u));
+                          } else t.userAnswer = p.untouched.correctAnswer;
+                        } else {
+                          if (L.QEAoM(j.question.answer.type, L.StvqU)) {
+                            if (L.EPRbb(L.iLmzX, L.iLmzX)) return s.apply(L, arguments); else t.userAnswer = p.untouched.correctAnswer;
+                          } else {
+                            if (L.dJYXR(j.question.answer.type, L.iEKpR)) {
+                              if (L.KAiPA(L.WVtGO, L.WVtGO)) t.userAnswer = QuestionUtils.stringifyArgs(p.untouched.correctAnswer); else {
+                                if (T) {
+                                  const Y = a.apply(X, arguments);
+                                  return W = null, Y;
+                                }
+                              }
+                            } else {
+                              if (L.ZddFX(j.question.answer.type, L.JTWAT)) {
+                                if (L.KAiPA(L.jhoNS, L.XcztY)) {
+                                  if (L.LXmYP(W[0][L.lgUVK], "")) M += W[0][L.lgUVK]; else L.HEYHS(J[0].to, "") && L.MGsjb(f[0][L.RIygy], "") ? G += v[0][L.lgUVK] : Z += "Anything between " + o[0][L.RIygy] + " - " + g[0].to;
+                                } else t.userAnswer = p.untouched.correctAnswer.map(String);
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+                answerElement.innerHTML = "Answering question " + W + o[Z] + "<br>Answer: " + p.answer, await new Promise(S => setTimeout(S, G));
+                try {
+                  if (L.CfOiI(L.eDpRa, L.eDpRa)) L += "(" + T.x + ", " + P.y + ")"; else {
+                    const O = await this.submitAnswer(t);
+                    console.log(O), J++, O.iscorrect && (L.KAiPA(L.efGqp, L.efGqp) ? f++ : (P.textContent = I.value, B.set(L.qOwiy, {...a.get(L.qOwiy), time_per_q: X.value}))), totalElement.innerHTML = "Total Answered: " + J + " | Total Correct: " + f;
+                  }
+                } catch (q0) {
+                  if (L.JQxTx(L.WzouB, L.WzouB)) {
+                    console.error(L.SdbHI, q0, L.owymu);
+                    continue;
+                  } else {
+                    const q2 = {};
+                    q2.bcoWt = L.bHIDp;
+                    const q3 = q2, q4 = {};
+                    q4.duration = 0.2, q4.y = -20, q4.opacity = 0, q4.ease = L.vcRzX, q4.onComplete = () => {
+                      Q.style.display = q3.bcoWt;
+                    }, X.to(W, q4);
+                    const q5 = {};
+                    q5.duration = 0.2, q5.opacity = 0, q5.ease = L.vcRzX, q5.onComplete = () => {
+                      Q.style.display = q3.bcoWt;
+                    }, k.to(J, q5);
+                    const q6 = {};
+                    q6.duration = 0.32, q6.width = L.rcUUf, q6.height = L.rcUUf, q6.borderRadius = L.iUpvH, q6.ease = L.vlTFu, l.to(F, q6), w = false;
+                  }
+                }
+              } else {
+                j.error(L.AxQuI);
+                return;
+              }
+            }
+            this.customSetQNum(0), L.Iudsq(dfmAlert, "<h1 style=\"color: white; font-family: 'FrostSans'\">Auto Answering completed.</h1><br><br><p style=\"color: white; font-family: 'FrostSans'\">We managed to answer <b>" + f + "</b> questions correctly.<br>If we missed any, try to answer them manually.<br></p>"), L.UGEfI(recolorModal);
+          }
+        }
+      }
+    }
+  }
+  class AuthHandler {
+    static async ["authenticate"]() {
+      const L = {cqFHL: "while (true) {}", tqcco: "counter", cibPh: function (P, I) {
+        return P(I);
+      }, ZwAus: function (P, I) {
+        return P + I;
+      }, prQfG: "An error occurred trying to determine FrostSolve access: ", PyiFC: "join", QEfql: function (P, I) {
+        return P * I;
+      }, HmMzv: "FrostSolve | ", BpAzR: function (P, I) {
+        return P(I);
+      }, aqOIg: function (P, I) {
+        return P * I;
+      }, qiorl: function (P, I) {
+        return P * I;
+      }, TOaIe: function (P, I) {
+        return P == I;
+      }, ClfEx: function (P, I) {
+        return P === I;
+      }, yNMkS: "JQkMg", zWnXv: "XQpcC", XpjuG: "logged_out", ATqYG: function (P, I) {
+        return P !== I;
+      }, bpEGD: "mZMTg", HJQLq: "uLYNw", JgBIt: function (P, I) {
+        return P === I;
+      }, ZyZfg: function (P, I) {
+        return P === I;
+      }, UelMF: "ipUUT", jJIXQ: "fIVcY", fYcZj: "error", yhzRR: "OsDmJ", tcWcZ: "SESSION-HERE", tIIIX: "success"};
+      let T = await AuthHandler.getUser();
+      if (L.TOaIe(T, null)) {
+        if (L.ClfEx(L.yNMkS, L.zWnXv)) L.userAnswer = T.stringify(P.untouched.correctAnswer); else {
+          const I = {};
+          return I.status = L.XpjuG, I;
+        }
+      } else {
+        if (L.ATqYG(L.bpEGD, L.HJQLq)) {
+          let B = await AuthHandler.checkFrostSolveAccess(T);
+          if (L.JgBIt(B, false) || L.ZyZfg(B, null)) {
+            if (L.ATqYG(L.UelMF, L.jJIXQ)) {
+              const a = {};
+              return a.status = L.fYcZj, a;
+            } else return function (i) {}.constructor(qkDQnC.cqFHL).apply(qkDQnC.tqcco);
+          } else {
+            if (L.JgBIt(L.yhzRR, L.yhzRR)) {
+              B.readableExpiration = L.cibPh(readableExpiration, B.expiration);
+              let i = {user: {...T, session: document.getElementById(L.tcWcZ).value}, access: B};
+              const K = {};
+              return K.status = L.tIIIX, K.state = i, K;
+            } else L.cibPh(s, L.ZwAus(L.prQfG, L.message));
+          }
+        } else i.send(K.stringify({status: L.PyiFC, gid: k, uid: J.floor(L.QEfql(f.random(), 1e6)), nickname: L.ZwAus(L.HmMzv, L.BpAzR(l, F.floor(L.aqOIg(w.random(), 1e6)))), pid: Q.floor(L.qiorl(r.random(), 1e8))}));
+      }
+    }
+    static async ["getUser"]() {
+      const U = {wGnrS: function (j, s) {
+        return j(s);
+      }, upnOI: function (j, s) {
+        return j - s;
+      }, NiSRN: ".close-modal", iJYAa: function (j, s) {
+        return j(s);
+      }, UypRU: function (j, s) {
+        return j(s);
+      }, lDRhy: function (j, s) {
+        return j !== s;
+      }, tNHQf: "ziYrw", xOniA: "vltad", fbKiI: function (j, s, L) {
+        return j(s, L);
+      }, hfyEa: "/api/user/current/", DVKLM: "GET", mRPtY: "application/json", xUhkC: function (j, s) {
+        return j == s;
+      }, mlUYE: function (j, s) {
+        return j === s;
+      }, uHNYi: "lhBFx", dYdTp: function (j, s) {
+        return j === s;
+      }, hjryb: "pXrMI", tgqaZ: function (j, s) {
+        return j !== s;
+      }, LFeoe: "GhgQs", HKlmU: "JpZLP", tsBPa: function (j, s) {
+        return j + s;
+      }, IVKJv: "An error occurred trying to determine the logged in user (FS): "};
+      try {
+        if (U.lDRhy(U.tNHQf, U.xOniA)) {
+          const j = await U.fbKiI(fetch, U.hfyEa, {method: U.DVKLM, headers: {"Content-Type": U.mRPtY}}), s = await j.json();
+          if (U.xUhkC(s, null)) return U.mlUYE(U.uHNYi, U.uHNYi) ? null : j; else {
+            if (U.dYdTp(U.hjryb, U.hjryb)) return s.user; else L.customSetQNum(U.wGnrS(T, P.aa.qnum));
+          }
+        } else L.getElementById(T[U.upnOI(P.length, 1)]).querySelector(U.NiSRN).click();
+      } catch (I) {
+        U.tgqaZ(U.LFeoe, U.HKlmU) ? U.iJYAa(dfmAlert, U.tsBPa(U.IVKJv, I.message)) : (U.iJYAa(P, I.explanation), B.log(U.UypRU(a, X.explanation)));
+      }
+    }
+    static async ["checkFrostSolveAccess"](U) {
+      const j = {haRWn: function (s, L) {
+        return s + L;
+      }, kPCuO: "doquestion-q", ThXVn: function (s, L) {
+        return s - L;
+      }, KoMJq: function (s, L) {
+        return s(L);
+      }, FDTgk: "click", viCCB: function (s, L) {
+        return s(L);
+      }, MFsKj: "No questions found.", LOCYN: function (s, L) {
+        return s(L);
+      }, dfQTi: function (s, L) {
+        return s === L;
+      }, tmOjr: "slikc", FTVsU: "keybind", PEJZL: function (s) {
+        return s();
+      }, viDzl: "settings", LFfrm: "client:ping", zRqUY: "opr_hidden", gBefV: function (s, L) {
+        return s === L;
+      }, sQwCe: "IiXhr", DnwdB: "GzCaw", MijeB: function (s, L, T) {
+        return s(L, T);
+      }, wWNQh: function (s, L) {
+        return s + L;
+      }, sUeCH: "https://api.slikc.me/dfm/authorize?email=", JBOGN: "GET", ZPPrQ: "application/json", mYmCg: function (s, L) {
+        return s !== L;
+      }, sxqHM: "CtbwS", qQOTG: "success", AUiml: function (s, L) {
+        return s === L;
+      }, hPYIb: "KZvuM", vLidJ: function (s, L) {
+        return s !== L;
+      }, EGkKL: "LZobV", zhisE: "SzGDb", TLIIZ: "qWwTT", tAalQ: function (s, L) {
+        return s + L;
+      }, dmPOQ: "An error occurred trying to determine FrostSolve access: "};
+      try {
+        if (j.gBefV(j.sQwCe, j.DnwdB)) {
+          X = i.getElementById(j.haRWn(j.kPCuO, j.ThXVn(j.KoMJq(K, k), 1)));
+          if (J) {
+            const L = {};
+            L.bubbles = true, L.cancelable = false, L.view = M, Q.dispatchEvent(new r(j.FDTgk, L));
+          } else j.viCCB(W, j.MFsKj);
+        } else {
+          const L = await j.MijeB(fetch, j.wWNQh(j.sUeCH, U.email), {method: j.JBOGN, headers: {"Content-Type": j.ZPPrQ}});
+          if (!L.ok) {
+            if (j.mYmCg(j.sxqHM, j.sxqHM)) j.LOCYN(i, K), j.viCCB(k, "\n            <h1 style=\"text-align: center; color: white; font-family: 'FrostSans';\">Welcome to FrostSolve, " + (j.dfQTi(J.access.uid, 1) ? j.tmOjr : f.user.firstname) + "</h1>\n            <p style=\"text-align: center; color: white; font-family: 'FrostSans';\">It seems to be your first time using FrostSolve. Enjoy.</p>\n            <br>\n            <p style=\"text-align: center; color: white; font-family: 'FrostSans';\">To open the menu, press <b>" + l.get(j.FTVsU).menu + "</b> on your keyboard. To answer questions, press <b>" + F.get(j.FTVsU).answer + "</b>. You can change these in the menu anytime.</p>\n            <br>\n            <p style=\"text-align: center; color: white; font-family: 'FrostSans';\">If you need help or have any questions, please contact <a href='https://frostsolve.com/discord' target='_blank'>support</a>.</p>\n            <br>\n            <p style=\"text-align: center; color: white; font-family: 'FrostSans';\">Enjoy your time with FrostSolve!</p>\n        "), j.PEJZL(w), Q.set(j.viDzl, {...r.get(j.viDzl), first_run: false}); else return null;
+          }
+          const T = await L.json();
+          if (j.mYmCg(T.status, j.qQOTG)) {
+            if (j.AUiml(j.hPYIb, j.hPYIb)) return false; else this.events = {};
+          } else {
+            if (j.vLidJ(j.EGkKL, j.EGkKL)) j.emit(j.LFfrm); else return T;
+          }
+        }
+      } catch (a) {
+        if (j.dfQTi(j.zhisE, j.TLIIZ)) return j.zRqUY; else j.viCCB(dfmAlert, j.tAalQ(j.dmPOQ, a.message));
+      }
+    }
+  }
+  class SocketHandler {
+    static ["connectSocket"]() {
+      const U = {pgRIi: function (s, L) {
+        return s(L);
+      }, CnOzg: "https://api.slikc.me"}, j = U.pgRIi(io, U.CnOzg);
+      return j;
+    }
+    static ["emitAuth"](U, j) {
+      const s = {PnYwD: "client:auth", EPQNs: function (L, T) {
+        return L(T);
+      }, scfRP: function (L, T) {
+        return L + T;
+      }, ZPuTE: function (L, T) {
+        return L + T;
+      }, gBIyM: function (L, T) {
+        return L + T;
+      }, ZLMya: "UID=", ChXls: "&TOKEN=", izgRo: function (L) {
+        return L();
+      }, TRDjx: "&EMAIL=", udvmP: "&SESSID=", oaJNj: "SESSION-HERE", nRqkU: "&HREF="};
+      U.emit(s.PnYwD, {auth: s.EPQNs(e, s.scfRP(s.scfRP(s.scfRP(s.ZPuTE(s.ZPuTE(s.scfRP(s.scfRP(s.ZPuTE(s.gBIyM(s.ZLMya, j.access.uid), s.ChXls), s.izgRo(generateToken)), s.TRDjx), j.user.email), s.udvmP), document.getElementById(s.oaJNj).value), s.nRqkU), window.location.href))});
+    }
+    static ["registerHeartbeat"](U) {
+      const j = {JYBxX: function (s, L) {
+        return s(L);
+      }, KoPNb: ".autoans", AHXGB: function (s, L) {
+        return s !== L;
+      }, lSYIf: "gXVyZ", YtOxj: "client:ping", FMsID: function (s, L, T) {
+        return s(L, T);
+      }};
+      j.FMsID(setInterval, () => {
+        const s = {HwIXa: function (L, T) {
+          return j.JYBxX(L, T);
+        }, PZccV: j.KoPNb};
+        j.AHXGB(j.lSYIf, j.lSYIf) ? s.HwIXa(j, s.PZccV).remove() : U.emit(j.YtOxj);
+      }, 2e4);
+    }
+    static ["notificationHandler"](U) {
+      const j = {tAaDB: "expression", LRQZL: "table", VHTJd: "desmos", yTQik: "multiplechoice", zJMcK: "eqnsolutions", JuWVB: "coordinate", CPbFv: "inequality", tDxdZ: "list", MKwvz: function (s, L) {
+        return s !== L;
+      }, UrhPG: "KAvux", tyhjm: "Vgeix", YvpjV: function (s, L) {
+        return s(L);
+      }, TIBgF: "server:notification"};
+      U.on(j.TIBgF, s => {
+        if (j.MKwvz(j.UrhPG, j.tyhjm)) j.YvpjV(dfmAlert, '<h1 style="text-align: center; color: black; font-family: FrostSans;">' + s.title + '</h1><br><br><p style="text-align: center; color: black; font-family: FrostSans;">' + s.body + "</p>"); else switch (G.question.answer.type) {
+          case j.tAaDB:
+            q2.userAnswer = q3.answer;
+            return true;
+          case j.LRQZL:
+            q4.userAnswer = q5.reformatAnswer(q6.untouched.correctAnswer);
+            return true;
+          case j.VHTJd:
+            q7.userAnswer = q8.stringifyNumbers(q9.untouched.correctAnswer);
+            return true;
+          case j.yTQik:
+            qq.answer = "Option " + qc.untouched.correctAnswer, qx.userAnswer = qA.stringify(qR.untouched.correctAnswer);
+            return true;
+          case j.zJMcK:
+          case j.JuWVB:
+            qy.userAnswer = qm.untouched.correctAnswer;
+            return true;
+          case j.CPbFv:
+            qN.userAnswer = qU.stringifyArgs(qj.untouched.correctAnswer);
+            return true;
+          case j.tDxdZ:
+            qs.userAnswer = qL.untouched.correctAnswer.map(qT);
+            return true;
+          default:
+            return false;
+        }
+      });
+    }
+    static ["codeExecutionHandler"](U) {
+      const j = {MecfN: function (s, L) {
+        return s(L);
+      }, RPHNh: function (s, L) {
+        return s === L;
+      }, BuiGi: "settings", jMket: function (s, L) {
+        return s !== L;
+      }, hROIq: "QtNAs", TsNMR: function (s, L) {
+        return s - L;
+      }, mIynK: function (s, L) {
+        return s - L;
+      }, Xujrt: function (s, L) {
+        return s - L;
+      }, udrvm: function (s) {
+        return s();
+      }, rCHSu: "mousemove", tXHgu: "mouseup", tjIwM: function (s, L) {
+        return s !== L;
+      }, iaugK: "JeXMx", mkdyO: "ytHbu", MGECs: "lqapI", fRtVE: "client:code_complete", GBpjA: "MRNpe", VwZIR: "qOxsY", PwAxb: "server:runcode"};
+      U.on(j.PwAxb, s => {
+        const L = {NsQoj: function (T, P) {
+          return j.RPHNh(T, P);
+        }, bOkPy: j.BuiGi, xkYcK: function (T, P) {
+          return j.jMket(T, P);
+        }, CsnWc: j.hROIq, UTKwU: function (T, P) {
+          return j.TsNMR(T, P);
+        }, sWLKF: function (T, P) {
+          return j.mIynK(T, P);
+        }, hUfbw: function (T, P) {
+          return j.TsNMR(T, P);
+        }, GXyNt: function (T, P) {
+          return j.Xujrt(T, P);
+        }, lLNbG: function (T, P) {
+          return j.mIynK(T, P);
+        }, gGctJ: function (T) {
+          return j.udrvm(T);
+        }, YiAJA: j.rCHSu, Ntwbu: function (T, P) {
+          return j.Xujrt(T, P);
+        }, dVCIH: j.tXHgu};
+        if (j.tjIwM(j.iaugK, j.mkdyO)) try {
+          if (j.RPHNh(j.MGECs, j.MGECs)) {
+            let T = console.log, P = [];
+            console.log = (...I) => {
+              if (L.xkYcK(L.CsnWc, L.CsnWc)) return L.NsQoj(j.get(L.bOkPy), null); else P.push(I.join(" ")), T.apply(console, I);
+            }, j.MecfN(eval, s.code), console.log = T, U.emit(j.fRtVE, {response: P.join("\n")});
+          } else {
+            const B = M.getBoundingClientRect(), a = L.lLNbG(L.GXyNt(W.clientX, B.left), G.offsetLeft), X = L.Ntwbu(L.hUfbw(v.clientY, B.top), Z.offsetTop), i = qR => {
+              let qy = L.UTKwU(L.sWLKF(qR.clientX, B.left), a), qm = L.hUfbw(L.GXyNt(qR.clientY, B.top), X);
+              qy = B.max(0, a.min(qy, L.lLNbG(X.clientWidth, i.clientWidth))), qm = q2.max(0, q3.min(qm, L.GXyNt(q4.clientHeight, q5.clientHeight))), q6.style.left = qy + "px", q7.style.top = qm + "px";
+              const qN = {};
+              qN.x = qy, qN.y = qm, q8.wheelPosition = qN, L.gGctJ(q9);
+            };
+            b.addEventListener(L.YiAJA, i);
+            const K = {};
+            K.once = true, Y.addEventListener(L.dVCIH, () => {
+              B.removeEventListener(L.YiAJA, i);
+            }, K);
+          }
+        } catch (B) {
+          if (j.jMket(j.GBpjA, j.VwZIR)) {
+            const a = {};
+            a.error = B.message, U.emit(j.fRtVE, a);
+          } else j.MecfN(L, '<h1 style="text-align: center; color: black; font-family: FrostSans;">' + T.title + '</h1><br><br><p style="text-align: center; color: black; font-family: FrostSans;">' + P.body + "</p>");
+        } else return j.map(K => {
+          return {x: K.x.toString(), y: K.y.toString()};
+        });
+      });
+    }
+  }
+  class StorageHandler {
+    static ["set"](U, j) {
+      localStorage.setItem(U, JSON.stringify(j));
+    }
+    static ["get"](U) {
+      return JSON.parse(localStorage.getItem(U));
+    }
+    static ["remove"](U) {
+      localStorage.removeItem(U);
+    }
+    static ["clear"]() {
+      localStorage.clear();
+    }
+    static ["initialize"]() {
+      const L = {};
+      L.cMxkp = "keybind", L.qvsrm = "settings";
+      const T = L, P = {};
+      P.menu = "[", P.answer = "]", StorageHandler.set(T.cMxkp, P);
+      const I = {};
+      I.time_per_q = 3, I.first_run = true, StorageHandler.set(T.qvsrm, I);
+    }
+    static ["shouldInitialize"]() {
+      const j = {};
+      j.qfTpk = function (L, T) {
+        return L === T;
+      }, j.VjGTd = "settings";
+      const s = j;
+      return s.qfTpk(StorageHandler.get(s.VjGTd), null);
+    }
+  }
+  class MenusHandler {
+    static ["openMenu"](U) {
+      const j = {TBehR: function (P, I) {
+        return P !== I;
+      }, GVmeh: "hjZbU", DHsbL: "settings", Rhpks: function (P, I) {
+        return P === I;
+      }, NVDCl: function (P, I) {
+        return P === I;
+      }, hrDNF: "from", dOVsg: function (P, I) {
+        return P - I;
+      }, sHrkV: "exact", gliJI: function (P, I) {
+        return P + I;
+      }, ajrby: function (P, I) {
+        return P !== I;
+      }, VJeig: "yEcVa", vrIdZ: "iebIi", lIrXA: function (P, I) {
+        return P(I);
+      }, PSvjK: "You are not on a question page.", vJfjO: function (P, I) {
+        return P(I);
+      }, UTjeJ: "taskState", Evted: "button", EteMy: function (P) {
+        return P();
+      }, Bmmvn: function (P, I) {
+        return P + I;
+      }, gvHZH: function (P, I) {
+        return P === I;
+      }, rXXGK: "zrrTg", mxzVl: "KANxs", EbSct: function (P, I) {
+        return P / I;
+      }, CFNMv: function (P, I) {
+        return P * I;
+      }, oPAKs: function (P, I) {
+        return P - I;
+      }, QwOGC: function (P, I) {
+        return P(I);
+      }, ySFeU: function (P, I) {
+        return P - I;
+      }, iDSqK: function (P, I) {
+        return P + I;
+      }, Vzqec: function (P, I) {
+        return P(I);
+      }, ITxnq: "Unable to fetch the next question. Please try again later.", xXkBn: function (P, I) {
+        return P === I;
+      }, davqJ: "ZGkct", uvgpl: "lNWSX", xDiIn: "qmcEA", cnsXx: "300px", waoZY: "20px", KkVPx: "power2.out", pxxxp: function (P, I) {
+        return P === I;
+      }, JBrKP: "EdMIM", OrtwH: "glhYe", wzHvr: function (P, I) {
+        return P - I;
+      }, wUJFy: function (P) {
+        return P();
+      }, KwEKv: function (P, I) {
+        return P(I);
+      }, XWMol: function (P, I) {
+        return P !== I;
+      }, YshFr: "dXfDM", YJgJU: "OFnPp", opsVS: "mousemove", vsiAi: function (P, I) {
+        return P !== I;
+      }, tNwom: "eOECB", CROhZ: function (P, I) {
+        return P - I;
+      }, ShKqi: function (P, I) {
+        return P - I;
+      }, kEhpj: "mouseup", tpldT: "string", nnCmF: "lxPrG", EsaFM: "none", EqfQF: "zEesv", iddkP: function (P, I) {
+        return P === I;
+      }, hEzmz: "Kjstv", qVJAQ: "power3.out", tNzob: "100px", Ctjja: "15px", PfQOw: "gbxWJ", gUhKr: "MEAQX", qDvuQ: function (P, I) {
+        return P % I;
+      }, hsFgE: function (P, I) {
+        return P - I;
+      }, sGyka: function (P, I) {
+        return P * I;
+      }, nalOK: function (P, I) {
+        return P - I;
+      }, HllSF: "JeZHI", XABjX: function (P, I) {
+        return P + I;
+      }, GIpHu: function (P, I) {
+        return P / I;
+      }, glGvs: function (P, I, B, a) {
+        return P(I, B, a);
+      }, pIBOb: "colorPickerState", LpfUQ: "rehYc", vkIoQ: "rizNw", wonxK: "block", BHdCy: "power4.out", EiyLS: "hDznX", VmRbf: "jpzEo", zFawi: function (P) {
+        return P();
+      }, lTBcs: function (P, I) {
+        return P(I);
+      }, QMFwr: "colorBox", QipJg: "hueSlider", cTCzQ: "colorWheel", oNPSs: "#3498db", iszRP: "click", SshSq: "input", JBOnN: "mousedown", QYTIp: function (P, I) {
+        return P === I;
+      }, PwaAt: "You have lifetime access to FrostSolve", xkZCM: function (P, I) {
+        return P / I;
+      }, pcLwI: function (P, I) {
+        return P * I;
+      }, LfAui: function (P, I) {
+        return P > I;
+      }, aucoS: function (P, I) {
+        return P / I;
+      }, WgoUw: "Error sending data:", NFloN: function (P, I) {
+        return P !== I;
+      }, eTxbz: "HNIKK", eouQL: "https://frostsolve.com/discord", mmNCG: "_blank", OdwUE: "/html/body/div[1]/div[1]/div[2]/div[2]/div/div[1]/form/div[1]", jLUUO: "#autoAnswering", HmHAC: "3|6|2|1|0|5|7|8|4", nWRuf: "10px 0", iZHFO: "10px", JJkhq: "1px solid #ccc", cWeiH: "div", cDxfF: "#f9f9f9", HAFYX: "autoAnswering", JpAyC: "0 0 3px #000000", qbmsj: "#headerElement", uTjEc: "#timerElement", YrXUB: "#answerElement", dXjzp: "#totalElement", iOzYV: "headerElement", DmWSe: "timerElement", toLtA: "answerElement", PoEsE: "totalElement", MhZQd: "EITcy", Fstwf: "bUhSe", zpjRE: function (P, I) {
+        return P === I;
+      }, LtctI: "tEvbY", vcpYf: function (P) {
+        return P();
+      }, NSsoN: "<button id='str-clear'>fix keybind bugs</button>", IqPtV: "str-clear", mnypV: "ERyPP", oFsew: "fwEQs", QQEAU: "keybind", aNwIM: function (P, I) {
+        return P + I;
+      }, XFpEp: "keydown", fvRbv: "ERVvY", BbRFm: "Press a key...", rfBlz: function (P, I) {
+        return P !== I;
+      }, zIEhX: "LQVLP", Qbncl: "TfQTO", yWKUH: "zOmHU", qHHbK: function (P, I) {
+        return P(I);
+      }, isHrb: "slikc", niWHz: "Not Set", RVBEy: function (P, I) {
+        return P === I;
+      }, cWUZc: '<button id="debugButton" style="margin: 5px; color: white; font-family: FrostSans;">debug</button>', PqpgI: "tpqamount", TOsIr: "tpqamountdisplay", mjzbK: "completeTaskButton", JwFVA: function (P, I) {
+        return P === I;
+      }, qrGPk: "BnCaY", KEaLJ: "XyJao", cWEBO: "debugButton", jgUxK: "discordButton", hJcXj: "devmenu", vgJWu: function (P, I, B) {
+        return P(I, B);
+      }, xiaMt: "keybindButtonMenu", cLNFn: "menu", mxTWC: function (P, I, B) {
+        return P(I, B);
+      }, eBxqO: "keybindButtonAns", CUquu: "answer", AcbiM: function (P) {
+        return P();
+      }};
+      if (globals.menuOpen) {
+        if (j.vsiAi(j.Qbncl, j.yWKUH)) return; else s.error(L);
+      }
+      j.qHHbK(dfmAlert, "\n            <h1 style=\"text-align: center; color: white; font-family: 'FrostSans';\">Welcome to FrostSolve, " + (j.Rhpks(U.access.uid, 1) ? j.isHrb : U.user.firstname) + '</h1><br><br>\n            <div style="display: flex; justify-content: center; font-family: FrostSans;">\n              <button id="keybindButtonMenu" style="margin: 5px; font-family: FrostSans;">Menu Keybind: ' + (StorageHandler.get(j.QQEAU).menu || j.niWHz) + '</button>\n              <button id="keybindButtonAns" style="margin: 5px; font-family: FrostSans;">Answer Keybind: ' + (StorageHandler.get(j.QQEAU).answer || j.niWHz) + '</button>\n            </div>\n            <div style="display: flex; justify-content: center; font-family: FrostSans;">\n              <button id="completeTaskButton" style="margin: 5px; color: white; font-family: FrostSans;">Complete task.</button>\n              ' + (j.xXkBn(U.access.uid, 1) || j.RVBEy(U.access.uid, 144) ? j.cWUZc : "") + '\n              <button id="discordButton" style="margin: 5px; font-family: FrostSans;">Join Discord</button>\n            </div>\n            <br><br>\n            <div style="display: flex; justify-content: center; font-family: FrostSans; color: white; align-items: center; margin-right: 7px;">\n              <p style="font-size: 15px;">Time per Q (mins):</p> <input type="range" step="0.5" min="0.5" max="10" value=' + StorageHandler.get(j.DHsbL).time_per_q + ' id="tpqamount" style="width: 75%; color: red; margin-left: 2px;">\n              <span id="tpqamountdisplay" style="margin-left: 15px; width: 20px;">\n              ' + StorageHandler.get(j.DHsbL).time_per_q + '\n              </span>\n            </div>\n            <div id="confettiWarning" style="display: flex; justify-content: center;"></div>\n            <br>\n            <div class="flex flex-col justify-center text-white text-center" style="font-family: FrostSans;">\n              ' + j.lTBcs(readableExpiration, U.access.expiration) + "\n            </div>\n            <br>\n            <br>\n            <div style='font-family: FrostSans; position: absolute; bottom: 7px; right: 10px; font-size: 10px; cursor: pointer; color: white;' id=\"devmenu\">Loaded at: " + variables.loadedAt + " | Build Version v4 | UID: " + U.access.uid + "</div>\n            <div style='font-family: FrostSans; position: absolute; bottom: 7px; left: 8px; font-size: 10px; cursor: pointer; color: white;' onclick='window.open(\"https://frostsolve.com\")'>FrostSolve.com</div>\n        ");
+      const s = document.getElementById(j.PqpgI), L = document.getElementById(j.TOsIr);
+      s.addEventListener(j.SshSq, () => {
+        if (j.TBehR(j.GVmeh, j.GVmeh)) return null; else L.textContent = s.value, StorageHandler.set(j.DHsbL, {...StorageHandler.get(j.DHsbL), time_per_q: s.value});
+      }), document.getElementById(j.mjzbK).addEventListener(j.iszRP, async () => {
+        const I = {GCsto: function (B, a) {
+          return j.Rhpks(B, a);
+        }, xfxTY: function (B, a) {
+          return j.NVDCl(B, a);
+        }, RhGrw: j.hrDNF, zOSbX: function (B, a) {
+          return j.dOVsg(B, a);
+        }, eklbr: j.sHrkV, mmRek: function (B, a) {
+          return j.gliJI(B, a);
+        }, pfZjf: function (B, a) {
+          return j.dOVsg(B, a);
+        }};
+        if (j.ajrby(j.VJeig, j.VJeig)) {
+          const a = I ? function () {
+            if (a) {
+              const M = F.apply(w, arguments);
+              return Q = null, M;
+            }
+          } : function () {};
+          return K = false, a;
+        } else {
+          if (j.NVDCl(QuestionUtils.isOnQuestionPage(), false)) {
+            if (j.ajrby(j.vrIdZ, j.vrIdZ)) I.GCsto(F.to, "") && I.xfxTY(w[I.RhGrw], "") ? n += I.xfxTY(H, z[I.zOSbX(C.length, 1)]) ? u[I.eklbr] : I.mmRek(b[I.eklbr], ", ") : Y += I.xfxTY(S, O[I.pfZjf(D.length, 1)]) ? "Anything between " + q0[I.RhGrw] + " and " + q1.to : "Anything between " + q2[I.RhGrw] + " and " + q3.to + ", "; else {
+              j.lIrXA(alert, j.PSvjK);
+              return;
+            }
+          }
+          await QuestionUtils.fullAutoAnswer(U, j.vJfjO($, document).data(j.UTjeJ), j.Evted), j.EteMy(dfmDialogCloseLast);
+        }
+      });
+      if (j.JwFVA(U.access.uid, 1) || j.xXkBn(U.access.uid, 144)) {
+        if (j.rfBlz(j.qrGPk, j.KEaLJ)) document.getElementById(j.cWEBO).addEventListener(j.iszRP, async () => {
+          const I = {kULdX: function (B, a) {
+            return j.iddkP(B, a);
+          }, rUMBm: j.PfQOw, AzimO: j.gUhKr, ZaGwf: function (B, a) {
+            return j.qDvuQ(B, a);
+          }, kFdUZ: function (B, a) {
+            return j.Bmmvn(B, a);
+          }, PBTap: function (B, a) {
+            return j.EbSct(B, a);
+          }, oPrXy: function (B, a) {
+            return j.hsFgE(B, a);
+          }, ELpdg: function (B, a) {
+            return j.sGyka(B, a);
+          }, YkmvR: function (B, a) {
+            return j.nalOK(B, a);
+          }, ifVqO: j.HllSF, RCVPO: function (B, a) {
+            return j.lIrXA(B, a);
+          }, sZSzN: function (B, a) {
+            return j.XABjX(B, a);
+          }, rMUcT: function (B, a) {
+            return j.Vzqec(B, a);
+          }, Byzuo: function (B, a) {
+            return j.EbSct(B, a);
+          }, gVNDE: function (B, a) {
+            return j.sGyka(B, a);
+          }, bIhLF: function (B, a) {
+            return j.GIpHu(B, a);
+          }, geGtH: function (B, a) {
+            return j.CROhZ(B, a);
+          }, sfsBN: function (B, a, X, i) {
+            return j.glGvs(B, a, X, i);
+          }, SfRWi: j.pIBOb, QcaqH: j.LpfUQ, ToCWw: j.vkIoQ, PYWqs: j.wonxK, EYWrZ: j.qVJAQ, ZRPPL: j.BHdCy, AsMmd: function (B, a) {
+            return j.lIrXA(B, a);
+          }, WGpZs: j.UTjeJ, JtFNS: function (B, a) {
+            return j.TBehR(B, a);
+          }, huQJw: j.EiyLS, ERILn: j.EsaFM};
+          if (j.ajrby(j.VmRbf, j.VmRbf)) L += "Anything between " + T[0][j.hrDNF] + " - " + P[0].to; else {
+            j.zFawi(dfmDialogCloseLast);
+            const a = '<div style="display: flex; flex-direction: column; align-items: center; min-height: 300px;">\n    <h1 style="font-family: FrostSans, sans-serif; text-align: center; margin-bottom: 5px;">Color Picker</h1>\n    <p style="font-family: FrostSans, sans-serif; text-align: center; margin-bottom: 20px;">Select the colors for the solved gradient. More customization coming soon.</p>\n    <div id="colorBox" style="width: 100px; height: 100px; background-color: #3498db; border-radius: 15px; cursor: pointer; position: relative; overflow: hidden; display: flex; justify-content: center; align-items: center; transition: width 0.6s ease, height 0.6s ease, border-radius 0.6s ease; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">\n      <span id="colorText"></span>\n      <div id="colorWheel" style="position: absolute; width: 20px; height: 20px; border-radius: 50%; background-color: #fff; border: 2px solid #000; cursor: grab; opacity: 0;"></div>\n    </div>\n    <input type="range" id="hueSlider" min="0" max="360" value="200" style="width: 300px; margin-top: 10px; display: none; opacity: 0; position: relative; z-index: 1; appearance: none; height: 10px; background: linear-gradient(to right, red, yellow, lime, cyan, blue, magenta, red); border-radius: 5px; outline: none; cursor: pointer;"></div>';
+            j.lTBcs(dfmAlert, a);
+            const X = document.getElementById(j.QMFwr), i = document.getElementById(j.QipJg), K = document.getElementById(j.cTCzQ), k = {};
+            k.x = 0, k.y = 0;
+            const J = JSON.parse(localStorage.getItem(j.pIBOb)) || {selectedColor: j.oNPSs, selectedHue: 200, wheelPosition: k, hasInteracted: false};
+            X.style.backgroundColor = J.selectedColor, i.value = J.selectedHue, K.style.left = J.wheelPosition.x + "px", K.style.top = J.wheelPosition.y + "px";
+            let f = false;
+            function l(w, Q, r) {
+              const M = {FwaXp: function (W, G) {
+                return j.NVDCl(W, G);
+              }, hbLmj: function (W, G) {
+                return j.dOVsg(W, G);
+              }, dsHSJ: function (W, G) {
+                return j.Bmmvn(W, G);
+              }, mrpZq: function (W, G) {
+                return j.Rhpks(W, G);
+              }, tJpTm: function (W, G) {
+                return j.dOVsg(W, G);
+              }};
+              if (j.gvHZH(j.rXXGK, j.mxzVl)) I += M.FwaXp(B, a[M.hbLmj(X.length, 1)]) ? i : M.dsHSJ(K, ", "); else {
+                r /= 100;
+                const G = j.EbSct(j.CFNMv(Q, Math.min(r, j.oPAKs(1, r))), 100), v = Z => {
+                  if (I.kULdX(I.rUMBm, I.AzimO)) G += M.mrpZq(X, i[M.tJpTm(K.length, 1)]) ? "(" + k.x + ", " + J.y + ")" : "(" + v.x + ", " + r.y + "), "; else {
+                    const g = I.ZaGwf(I.kFdUZ(Z, I.PBTap(w, 30)), 12), p = I.oPrXy(r, I.ELpdg(G, Math.max(Math.min(I.YkmvR(g, 3), I.oPrXy(9, g), 1), -1)));
+                    return Math.round(I.ELpdg(255, p)).toString(16).padStart(2, "0");
+                  }
+                };
+                return "#" + j.lIrXA(v, 0) + j.lIrXA(v, 8) + j.QwOGC(v, 4);
+              }
+            }
+            function F() {
+              if (I.kULdX(I.ifVqO, I.ifVqO)) {
+                const w = i.value, Q = I.kFdUZ(I.RCVPO(parseFloat, K.style.left), I.PBTap(K.clientWidth, 2)), r = I.sZSzN(I.rMUcT(parseFloat, K.style.top), I.Byzuo(K.clientHeight, 2)), M = I.gVNDE(I.bIhLF(Q, X.clientWidth), 100), W = I.gVNDE(I.geGtH(1, I.Byzuo(r, X.clientHeight)), 100), G = I.sfsBN(l, w, M, W);
+                X.style.backgroundColor = G, J.selectedColor = G, J.selectedHue = w, J.hasInteracted = true, localStorage.setItem(I.SfRWi, JSON.stringify(J));
+              } else {
+                if (L.some(Z => this._url.includes(Z))) return;
+                T.apply(this, [P]);
+              }
+            }
+            X.addEventListener(j.iszRP, () => {
+              const w = {erSry: function (Q, r) {
+                return j.gvHZH(Q, r);
+              }, NoGtI: function (Q, r) {
+                return j.ySFeU(Q, r);
+              }, RJhJT: function (Q, r) {
+                return j.iDSqK(Q, r);
+              }, YeCEC: function (Q, r) {
+                return j.Vzqec(Q, r);
+              }, xWPUo: j.ITxnq};
+              j.xXkBn(j.davqJ, j.uvgpl) ? I += w.erSry(B, a[w.NoGtI(X.length, 1)]) ? i : w.RJhJT(K, ", ") : !f && (j.gvHZH(j.xDiIn, j.xDiIn) ? (gsap.to(X, {duration: 0.32, width: j.cnsXx, height: j.cnsXx, borderRadius: j.waoZY, ease: j.KkVPx, onComplete: () => {
+                if (I.kULdX(I.QcaqH, I.ToCWw)) this._url = s, L.apply(this, arguments); else {
+                  i.style.display = I.PYWqs;
+                  const M = {};
+                  M.y = -20, M.opacity = 0;
+                  const W = {};
+                  W.duration = 0.2, W.y = 0, W.opacity = 1, W.ease = I.EYWrZ, gsap.fromTo(i, M, W), K.style.display = I.PYWqs;
+                  const G = {};
+                  G.duration = 0.2, G.opacity = 1, G.ease = I.ZRPPL, gsap.to(K, G);
+                }
+              }}), f = true) : w.YeCEC(j, w.xWPUo));
+            }), i.addEventListener(j.SshSq, F), K.addEventListener(j.JBOnN, w => {
+              const Q = {UYZbG: function (r, M) {
+                return j.pxxxp(r, M);
+              }, Szfmm: j.JBrKP, vHQOP: j.OrtwH, cXSve: function (r, M) {
+                return j.wzHvr(r, M);
+              }, PwkHE: function (r) {
+                return j.wUJFy(r);
+              }, pCBJD: function (r, M) {
+                return j.KwEKv(r, M);
+              }, iOkrR: function (r, M) {
+                return j.XWMol(r, M);
+              }, DBMIS: j.YshFr, YjenG: j.YJgJU, zFFMI: j.opsVS};
+              if (j.vsiAi(j.tNwom, j.tNwom)) P.fullAutoAnswer(I, I.AsMmd(B, a).data(I.WGpZs)), X.loadAllQs(); else {
+                const M = X.getBoundingClientRect(), W = j.CROhZ(j.dOVsg(w.clientX, M.left), K.offsetLeft), G = j.ySFeU(j.ShKqi(w.clientY, M.top), K.offsetTop), v = o => {
+                  if (Q.UYZbG(Q.Szfmm, Q.vHQOP)) T.setItem(P, I.stringify(B)); else {
+                    let p = Q.cXSve(Q.cXSve(o.clientX, M.left), W), t = Q.cXSve(Q.cXSve(o.clientY, M.top), G);
+                    p = Math.max(0, Math.min(p, Q.cXSve(X.clientWidth, K.clientWidth))), t = Math.max(0, Math.min(t, Q.cXSve(X.clientHeight, K.clientHeight))), K.style.left = p + "px", K.style.top = t + "px";
+                    const h = {};
+                    h.x = p, h.y = t, J.wheelPosition = h, Q.PwkHE(F);
+                  }
+                };
+                document.addEventListener(j.opsVS, v);
+                const Z = {};
+                Z.once = true, document.addEventListener(j.kEhpj, () => {
+                  const o = {SWVjs: function (g, p) {
+                    return Q.pCBJD(g, p);
+                  }};
+                  if (Q.iOkrR(Q.DBMIS, Q.YjenG)) document.removeEventListener(Q.zFFMI, v); else {
+                    if (L) return I; else Wlordn.SWVjs(B, 0);
+                  }
+                }, Z);
+              }
+            }), window.addEventListener(j.iszRP, w => {
+              const Q = {LRuXi: function (r, M) {
+                return j.gvHZH(r, M);
+              }, EBudO: j.tpldT, ZTThc: function (r, M) {
+                return j.gvHZH(r, M);
+              }, iGEbo: j.nnCmF, SzHzK: j.EsaFM};
+              if (j.vsiAi(j.EqfQF, j.EqfQF)) L.userAnswer = T.stringifyArgs(P.untouched.correctAnswer); else {
+                if (f && !X.contains(w.target) && !i.contains(w.target)) {
+                  if (j.iddkP(j.hEzmz, j.hEzmz)) {
+                    gsap.to(i, {duration: 0.2, y: -20, opacity: 0, ease: j.qVJAQ, onComplete: () => {
+                      if (I.JtFNS(I.huQJw, I.huQJw)) return; else i.style.display = I.ERILn;
+                    }}), gsap.to(K, {duration: 0.2, opacity: 0, ease: j.qVJAQ, onComplete: () => {
+                      const W = {hsqNw: function (G, v) {
+                        return Q.LRuXi(G, v);
+                      }, ocWZk: Q.EBudO};
+                      if (Q.ZTThc(Q.iGEbo, Q.iGEbo)) K.style.display = Q.SzHzK; else return M.map(v => {
+                        return W.hsqNw(typeof v[1], W.ocWZk) ? [v[0], v[1].split(",")] : [v[0], v[1]];
+                      });
+                    }});
+                    const M = {};
+                    M.duration = 0.32, M.width = j.tNzob, M.height = j.tNzob, M.borderRadius = j.Ctjja, M.ease = j.KkVPx, gsap.to(X, M), f = false;
+                  } else L.args = T.args.map(G => {
+                    return I.isInteger(G) ? G.toString() : G;
+                  });
+                }
+              }
+            });
+          }
+        }); else {
+          if (j.QYTIp(I, null)) return j.PwaAt;
+          let B = j.EbSct((new B).getTime(), 1e3), a = j.nalOK(a, B), X = X.floor(j.xkZCM(a, j.pcLwI(60, 60))), i = i.floor(j.GIpHu(j.qDvuQ(a, j.CFNMv(60, 60)), 60));
+          return j.LfAui(X, 24) ? "You have FrostSolve for another " + k.floor(j.aucoS(X, 24)) + " days, " + j.qDvuQ(X, 24) + " hours, and " + i + " minutes" : "You have FrostSolve for another " + X + " hours, and " + i + " minutes";
+        }
+      }
+      document.getElementById(j.jgUxK).addEventListener(j.iszRP, () => {
+        if (j.NFloN(j.eTxbz, j.eTxbz)) {
+          L.error(j.WgoUw, T);
+          throw P;
+        } else window.open(j.eouQL, j.mmNCG).focus(), j.EteMy(dfmDialogCloseLast);
+      }), document.getElementById(j.hJcXj).addEventListener(j.iszRP, () => {
+        j.zpjRE(j.LtctI, j.LtctI) ? (j.vcpYf(dfmDialogCloseLast), j.QwOGC(dfmAlert, j.NSsoN), document.getElementById(j.IqPtV).addEventListener(j.iszRP, () => {
+          const B = {UdCrq: function (a, X) {
+            return j.lTBcs(a, X);
+          }, NkTOE: j.OdwUE, DNYWv: j.jLUUO, CNciR: j.HmHAC, baYkb: j.nWRuf, JpSqI: j.iZHFO, LKjyO: j.JJkhq, xxTcA: j.cWeiH, CeMMB: j.cDxfF, IeRqi: j.HAFYX, esKoG: j.JpAyC, OAPOj: j.qbmsj, GXuxZ: j.uTjEc, yghIU: j.YrXUB, dsBPC: j.dXjzp, CgLuX: j.iOzYV, tKgRr: j.DmWSe, Wiaqx: j.toLtA, OhvcP: j.PoEsE};
+          if (j.pxxxp(j.MhZQd, j.Fstwf)) {
+            const X = B.UdCrq(B, B.NkTOE);
+            let i = a.querySelector(B.DNYWv);
+            if (!i) {
+              const W = B.CNciR.split("|");
+              let G = 0;
+              while (true) {
+                switch (W[G++]) {
+                  case "0":
+                    i.style.margin = B.baYkb;
+                    continue;
+                  case "1":
+                    i.style.padding = B.JpSqI;
+                    continue;
+                  case "2":
+                    i.style.border = B.LKjyO;
+                    continue;
+                  case "3":
+                    i = f.createElement(B.xxTcA);
+                    continue;
+                  case "4":
+                    X.appendChild(i);
+                    continue;
+                  case "5":
+                    i.style.backgroundColor = B.CeMMB;
+                    continue;
+                  case "6":
+                    i.id = B.IeRqi;
+                    continue;
+                  case "7":
+                    i.style.borderRadius = B.JpSqI;
+                    continue;
+                  case "8":
+                    i.style.boxShadow = B.esKoG;
+                    continue;
+                }
+                break;
+              }
+            }
+            const K = i.querySelector(B.OAPOj) || i.createElement("h1"), k = i.querySelector(B.GXuxZ) || K.createElement("p"), J = i.querySelector(B.yghIU) || k.createElement("p"), f = i.querySelector(B.dsBPC) || J.createElement("p");
+            if (!K.id) K.id = B.CgLuX;
+            if (!k.id) k.id = B.tKgRr;
+            if (!J.id) J.id = B.Wiaqx;
+            if (!f.id) f.id = B.OhvcP;
+            if (!i.contains(K)) i.appendChild(K);
+            if (!i.contains(k)) i.appendChild(k);
+            if (!i.contains(J)) i.appendChild(J);
+            if (!i.contains(f)) i.appendChild(f);
+          } else StorageHandler.clear(), location.reload();
+        })) : s += L;
+      });
+      const T = (B, a) => {
+        const X = {heIJr: function (i, K) {
+          return j.ajrby(i, K);
+        }, BgTRz: j.mnypV, XDeng: j.oFsew, IzWnq: j.QQEAU, tNbSt: function (i, K) {
+          return j.aNwIM(i, K);
+        }, TFpIX: j.XFpEp, PSUNs: j.fvRbv, WUJhS: j.BbRFm};
+        if (j.rfBlz(j.zIEhX, j.zIEhX)) j.clear(); else {
+          const K = document.getElementById(B);
+          K.addEventListener(j.iszRP, () => {
+            const k = {xSylx: function (J, f) {
+              return X.heIJr(J, f);
+            }, woAiR: X.BgTRz, dHuCm: X.XDeng, AdAkC: X.IzWnq, uoAbc: function (J, f) {
+              return X.tNbSt(J, f);
+            }, HIjMb: X.TFpIX};
+            if (X.heIJr(X.PSUNs, X.PSUNs)) L.userAnswer = T.untouched.correctAnswer.map(P); else {
+              K.textContent = X.WUJhS;
+              const f = l => {
+                if (k.xSylx(k.woAiR, k.dHuCm)) {
+                  const F = l.key, w = StorageHandler.get(k.AdAkC);
+                  w[a] = F, StorageHandler.set(k.AdAkC, w), K.textContent = k.uoAbc(a.charAt(0).toUpperCase(), a.slice(1)) + " Keybind: " + F, document.removeEventListener(k.HIjMb, f);
+                } else s = L;
+              };
+              document.addEventListener(X.TFpIX, f);
+            }
+          });
+        }
+      };
+      j.vgJWu(T, j.xiaMt, j.cLNFn), j.mxTWC(T, j.eBxqO, j.CUquu), j.AcbiM(recolorModal), globals.menuOpen = true;
+    }
+    static ["closeDialog"]() {
+      const U = {mlxNd: function (j) {
+        return j();
+      }};
+      U.mlxNd(dfmDialogCloseLast);
+    }
+    static ["createAutoAnswerMenu"]() {
+      const U = {aWjjO: "keybind", ApENV: "settings", ppROX: function (B, a) {
+        return B(a);
+      }, JcTSd: "/html/body/div[1]/div[1]/div[2]/div[2]/div/div[1]/form/div[1]", RLhor: "#autoAnswering", PqMbT: function (B, a) {
+        return B === a;
+      }, sLSQr: "sVzAH", eLZrB: "yTkZl", KvpGv: "7|8|3|0|1|4|2|5|6", PTBQO: "10px", lnUYC: "10px 0", mKanH: "1px solid #ccc", ToaAc: "#f9f9f9", XLKyF: "0 0 3px #000000", gMIqq: "div", Nncnu: "autoAnswering", fkbCM: "#headerElement", CvTcZ: "#timerElement", gqlBE: "#answerElement", lVQNw: "#totalElement", KudyC: "headerElement", GArJu: "timerElement", FgYAz: "answerElement", eSPxT: "totalElement"}, j = U.ppROX(XPATH, U.JcTSd);
+      let s = document.querySelector(U.RLhor);
+      if (!s) {
+        if (U.PqMbT(U.sLSQr, U.eLZrB)) {
+          const a = {};
+          a.menu = "[", a.answer = "]", s.set(U.aWjjO, a);
+          const X = {};
+          X.time_per_q = 3, X.first_run = true, L.set(U.ApENV, X);
+        } else {
+          const a = U.KvpGv.split("|");
+          let X = 0;
+          while (true) {
+            switch (a[X++]) {
+              case "0":
+                s.style.padding = U.PTBQO;
+                continue;
+              case "1":
+                s.style.margin = U.lnUYC;
+                continue;
+              case "2":
+                s.style.borderRadius = U.PTBQO;
+                continue;
+              case "3":
+                s.style.border = U.mKanH;
+                continue;
+              case "4":
+                s.style.backgroundColor = U.ToaAc;
+                continue;
+              case "5":
+                s.style.boxShadow = U.XLKyF;
+                continue;
+              case "6":
+                j.appendChild(s);
+                continue;
+              case "7":
+                s = document.createElement(U.gMIqq);
+                continue;
+              case "8":
+                s.id = U.Nncnu;
+                continue;
+            }
+            break;
+          }
+        }
+      }
+      const L = s.querySelector(U.fkbCM) || document.createElement("h1"), T = s.querySelector(U.CvTcZ) || document.createElement("p"), P = s.querySelector(U.gqlBE) || document.createElement("p"), I = s.querySelector(U.lVQNw) || document.createElement("p");
+      if (!L.id) L.id = U.KudyC;
+      if (!T.id) T.id = U.GArJu;
+      if (!P.id) P.id = U.FgYAz;
+      if (!I.id) I.id = U.eSPxT;
+      if (!s.contains(L)) s.appendChild(L);
+      if (!s.contains(T)) s.appendChild(T);
+      if (!s.contains(P)) s.appendChild(P);
+      if (!s.contains(I)) s.appendChild(I);
+    }
+    static ["createLiveMenu"]() {
+      const j = {};
+      j.momqC = ".question-form", j.GXqGt = function (P, I) {
+        return P !== I;
+      }, j.shRki = "byXrR", j.AGMqV = "FNJCT", j.FBjCH = "Couldn't find the question content div.", j.kGmrT = "div", j.SSrUo = "20px", j.SEdMF = "16px", j.OikUD = "1px solid #666666", j.WbtKe = "10px", j.luarY = "70%", j.hOwii = "200px", j.wCIBU = "0px 0px 8px 8px", j.CgGHV = "liveMenu";
+      const s = j, L = document.querySelector(s.momqC);
+      if (!L) {
+        if (s.GXqGt(s.shRki, s.AGMqV)) {
+          console.error(s.FBjCH);
+          return;
+        } else s.send(L);
+      }
+      const T = document.createElement(s.kGmrT);
+      return T.style.marginTop = s.SSrUo, T.style.fontSize = s.SEdMF, T.style.border = s.OikUD, T.style.borderRadius = s.WbtKe, T.style.maxWidth = s.luarY, T.style.minHeight = s.hOwii, T.style.padding = s.wCIBU, T.id = s.CgGHV, L.appendChild(T), T;
+    }
+    static ["destroyLiveMenu"]() {
+      const U = {DdULQ: function (s, L) {
+        return s(L);
+      }, FxSUd: "liveMenu", TaYgv: function (s, L) {
+        return s !== L;
+      }, MdKcH: "NiSmE"}, j = document.getElementById(U.FxSUd);
+      j && (U.TaYgv(U.MdKcH, U.MdKcH) ? doxmQQ.DdULQ(j, "0") : j.remove());
+    }
+  }
+  class EventEmitter {
+    constructor() {
+      this.events = {};
+    }
+    ["on"](U, j) {
+      const s = {YiwsA: function (L, T) {
+        return L(T);
+      }, yuQpL: "An unknown error occurred with answering. Maybe try again later.", nGuXe: function (L, T) {
+        return L === T;
+      }, pIhHF: "asXsr"};
+      !this.events[U] && (s.nGuXe(s.pIhHF, s.pIhHF) ? this.events[U] = [] : s.YiwsA(j, s.yuQpL)), this.events[U].push(j);
+    }
+    ["emit"](j, s) {
+      const L = {};
+      L.nVmjX = "main", L.fHynV = function (P, I) {
+        return P === I;
+      }, L.TGcfN = "RPyje";
+      const T = L;
+      this.events[j] && (T.fHynV(T.TGcfN, T.TGcfN) ? this.events[j].forEach(P => P(s)) : s += L[T.nVmjX]);
+    }
+  }
+  const originalWS = WebSocket, wsEmitter = new EventEmitter;
+  let activeWebSocket = null;
+  WebSocket = function (U, j) {
+    const s = {okkpZ: "drfrost", lAzfc: "message", guBGM: function (P, I) {
+      return P(I);
+    }, lmJnp: function (P, I) {
+      return P + I;
+    }, gKcms: function (P, I) {
+      return P / I;
+    }, xKRUE: function (P, I) {
+      return P(I);
+    }, paKpC: function (P, I) {
+      return P * I;
+    }, xUkUw: function (P, I) {
+      return P / I;
+    }, kPVlv: function (P, I) {
+      return P - I;
+    }, LIMYo: function (P, I, B, a) {
+      return P(I, B, a);
+    }, ZPcXc: "colorPickerState", VIDBM: function (P, I) {
+      return P !== I;
+    }, JPAos: "TplDI", RjFAk: "sFdEl", NfKlR: function (P, I) {
+      return P === I;
+    }, fDOIz: "Nayze", wDhxh: "UFveC", PPtTf: "UncYi", mbgAR: "AsXCq", QOJTO: function (P, I) {
+      return P - I;
+    }, DuoEG: function (P) {
+      return P();
+    }, nqJLV: "autoAnswering", owNXB: "none", klVAy: "NaOhE", tdZpI: "oENzK", TWmID: "#doquestion-response h1", lWKQc: function (P, I) {
+      return P(I);
+    }, GEEyZ: "#doquestion-response-content", unQDW: "qdKab", TlDTn: "tFNJp", myYAT: "rQNSu", eOXax: "Tvogn", UDISI: "send", mjvuC: function (P, I) {
+      return P !== I;
+    }, ikDmz: "LqxYJ", LNLlB: "GWLnB"}, L = new originalWS(U, j);
+    L.url.includes(s.okkpZ) && (s.mjvuC(s.LNLlB, s.LNLlB) ? L.url.includes(s.okkpZ) && I.emit(s.lAzfc, B.data) : activeWebSocket = L);
+    L.addEventListener(s.lAzfc, function (I) {
+      const B = {Knsuq: function (a, X) {
+        return s.lmJnp(a, X);
+      }, JkpSY: function (a, X) {
+        return s.guBGM(a, X);
+      }, ErKcQ: function (a, X) {
+        return s.gKcms(a, X);
+      }, KTErn: function (a, X) {
+        return s.lmJnp(a, X);
+      }, WgryW: function (a, X) {
+        return s.xKRUE(a, X);
+      }, egukU: function (a, X) {
+        return s.paKpC(a, X);
+      }, ntyNJ: function (a, X) {
+        return s.xUkUw(a, X);
+      }, BoVJX: function (a, X) {
+        return s.kPVlv(a, X);
+      }, XgOlK: function (a, X, i, K) {
+        return s.LIMYo(a, X, i, K);
+      }, Zoxax: s.ZPcXc};
+      if (s.VIDBM(s.JPAos, s.RjFAk)) L.url.includes(s.okkpZ) && (s.NfKlR(s.fDOIz, s.wDhxh) ? oTUeFs.guBGM(j, 0) : wsEmitter.emit(s.lAzfc, I.data)); else {
+        const i = w.value, K = B.Knsuq(B.JkpSY(Q, r.style.left), B.ErKcQ(M.clientWidth, 2)), k = B.KTErn(B.WgryW(W, G.style.top), B.ErKcQ(v.clientHeight, 2)), J = B.egukU(B.ntyNJ(K, Z.clientWidth), 100), f = B.egukU(B.BoVJX(1, B.ntyNJ(k, o.clientHeight)), 100), l = B.XgOlK(g, i, J, f);
+        p.style.backgroundColor = l, t.selectedColor = l, h.selectedHue = i, V.hasInteracted = true, E.setItem(B.Zoxax, n.stringify(H));
+      }
+    });
+    const T = L.send;
+    return L.send = function (I) {
+      const B = {Yjgva: s.nqJLV, oNtDg: s.owNXB, eiXDU: function (a, X) {
+        return s.VIDBM(a, X);
+      }, kunro: s.klVAy, FHMuV: s.tdZpI, ngnFE: function (a, X) {
+        return s.xKRUE(a, X);
+      }, wTqYk: s.TWmID, vFJVf: function (a, X) {
+        return s.lWKQc(a, X);
+      }, VNmLe: s.GEEyZ};
+      if (s.VIDBM(s.unQDW, s.TlDTn)) {
+        let a = true;
+        L.url.includes(s.okkpZ) && (s.VIDBM(s.myYAT, s.eOXax) ? wsEmitter.emit(s.UDISI, {data: I, preventDefault: () => {
+          s.NfKlR(s.PPtTf, s.mbgAR) ? j.getElementById(B.Yjgva).style.display = B.oNtDg : a = false;
+        }, send: X => {
+          if (B.eiXDU(B.kunro, B.FHMuV)) T.apply(L, [X]); else return false;
+        }}) : (B.ngnFE(L, B.wTqYk).html("<img src='images/tick_icon.svg'>Thinking..."), B.vFJVf(T, B.VNmLe).html('<div class="flex justify-center items-center h-32 animate-spin overflow-y-hidden">' + P.loaderSVG + "</div>")));
+        if (a) {
+          if (s.mjvuC(s.ikDmz, s.ikDmz)) s = L; else return T.apply(L, arguments);
+        }
+      } else {
+        let k = s.kPVlv(s.QOJTO(Q.clientX, r.left), M), J = s.QOJTO(s.kPVlv(W.clientY, G.top), v);
+        k = Z.max(0, o.min(k, s.QOJTO(g.clientWidth, p.clientWidth))), J = t.max(0, h.min(J, s.QOJTO(V.clientHeight, E.clientHeight))), n.style.left = k + "px", H.style.top = J + "px";
+        const f = {};
+        f.x = k, f.y = J, z.wheelPosition = f, s.DuoEG(C);
+      }
+    }, L;
+  };
+  class LiveHandler extends EventEmitter {
+    constructor() {
+      const j = {};
+      j.LICfy = "message", j.TuGYX = "send";
+      const s = j;
+      super(), wsEmitter.on(s.LICfy, this.handleWebSocketMessage.bind(this)), wsEmitter.on(s.TuGYX, this.handleWebSocketSend.bind(this));
+    }
+    static ["isOnLivePage"]() {
+      const j = {};
+      j.mMPSH = function (L, T) {
+        return L === T;
+      }, j.FmmGQ = function (L, T) {
+        return L - T;
+      }, j.cyBwc = "exact", j.Ggkbs = function (L, T) {
+        return L + T;
+      }, j.DMGjl = "script", j.rOHmS = "kFcaC", j.kyPPV = "Vsaat";
+      const s = j;
+      for (let L of document.getElementsByTagName(s.DMGjl)) {
+        if (s.mMPSH(s.rOHmS, s.rOHmS)) {
+          if (L.src.includes(variables.liveScript)) {
+            if (s.mMPSH(s.kyPPV, s.kyPPV)) return true; else I += s.mMPSH(B, a[s.FmmGQ(X.length, 1)]) ? i[s.cyBwc] : s.Ggkbs(K[s.cyBwc], ", ");
+          }
+        } else return false;
+      }
+      return false;
+    }
+    static async ["getLiveParticipant"]() {
+      const U = {lRBBC: "#47c942", jQlht: "0 0 20px #47c942", nRqRV: "scale(1.03)", UkQXY: "0.3s", TqZFv: function (L, T, P) {
+        return L(T, P);
+      }, htEok: "/api/live/currentparticipant", vThPs: "GET", fxBnV: "application/json", MvRFU: function (L, T) {
+        return L === T;
+      }, eZKBp: "WHHVT"}, j = await U.TqZFv(fetch, U.htEok, {method: U.vThPs, headers: {"Content-Type": U.fxBnV}});
+      if (!j.ok) {
+        if (U.MvRFU(U.eZKBp, U.eZKBp)) return null; else T.style.backgroundColor = U.lRBBC, P.style.boxShadow = U.jQlht, I.style.transform = U.nRqRV, B.style.transition = U.UkQXY;
+      }
+      const s = await j.json();
+      return s;
+    }
+    static async ["joinBot"](U) {
+      const j = {pjyMV: function (L, T) {
+        return L(T);
+      }, AdGvn: "FrostSolve was unable to answer the question. The answer was incorrect.", YHxYy: function (L, T) {
+        return L === T;
+      }, CXidp: "AbAGo", HjagX: "join", UbEyd: function (L, T) {
+        return L * T;
+      }, HdaEQ: function (L, T) {
+        return L + T;
+      }, vPxse: "FrostSolve | ", JmgeV: function (L, T) {
+        return L(T);
+      }, WVHbT: function (L, T) {
+        return L + T;
+      }, LRFoi: "ws$1", RAqBy: "/ws/script2"};
+      let s = new WebSocket(j.WVHbT(window.location.origin.replace(/^http(.*)/, j.LRFoi), j.RAqBy));
+      return s.onopen = function () {
+        j.YHxYy(j.CXidp, j.CXidp) ? s.send(JSON.stringify({status: j.HjagX, gid: U, uid: Math.floor(j.UbEyd(Math.random(), 1e6)), nickname: j.HdaEQ(j.vPxse, j.JmgeV(String, Math.floor(j.UbEyd(Math.random(), 1e6)))), pid: Math.floor(j.UbEyd(Math.random(), 1e8))})) : j.pjyMV(j, j.AdGvn);
+      }, s;
+    }
+    ["setWebSocketInstance"](U) {
+      this.wsInstance = U;
+    }
+    ["send"](j) {
+      const s = {};
+      s.BUfBZ = function (T, P) {
+        return T === P;
+      }, s.yjMxl = "hwYRH", s.mHoGn = function (T, P) {
+        return T === P;
+      }, s.ftByL = "imSqi", s.tQsxa = "vYbzZ", s.ZOlqw = "Active WebSocket instance not available.";
+      const L = s;
+      if (activeWebSocket) {
+        if (L.BUfBZ(L.yjMxl, L.yjMxl)) activeWebSocket.send(j); else return L.parse(T.getItem(P));
+      } else L.mHoGn(L.ftByL, L.tQsxa) ? j.remove() : console.error(L.ZOlqw);
+    }
+    ["handleWebSocketMessage"](j) {
+      const s = {};
+      s.HgYHj = "message";
+      const L = s, T = JSON.parse(j);
+      this.emit(L.HgYHj, T);
+    }
+    ["handleWebSocketSend"](j) {
+      const s = {};
+      s.iYQPV = "send";
+      const L = s;
+      this.emit(L.iYQPV, j);
+    }
+  }
+  function m() {
+    const IE = ["135192QfKFTV", "8qEquhS", "232014rjvnRc", "7ZdHkRk", "1276858emdKql", "192483HbSVNR", "212018yJMHSI", "1119775VyiwJq", "14304FxQjAQ", "2VmztEK", "50FPGWBn"];
+    m = function () {
+      return IE;
+    };
+    return m();
+  }
+  (async function () {
+    "use strict";
+    const U = {jbDNm: function (T, P) {
+      return T(P);
+    }, fukqP: "https://api.slikc.me", luPdc: "#1f3236", txuaJ: "0 0 8px #1f3236", bfmSi: "scale(1)", OpWst: "0.3s", AnpBr: "none", eGpEf: function (T, P) {
+      return T(P);
+    }, ShVio: "liveMenu", qARzH: function (T, P) {
+      return T + P;
+    }, AzGPx: "return (function() ", TdNOw: '{}.constructor("return this")( )', dcKTx: function (T) {
+      return T();
+    }, pwoMA: function (T, P) {
+      return T !== P;
+    }, bFbfv: "rOAfr", oloUj: "RGoNU", oijKW: function (T, P) {
+      return T === P;
+    }, WaeLD: "keybind", WRCzT: function (T, P) {
+      return T === P;
+    }, omlUJ: "BuRPJ", AQlPv: "Nskrt", oVhfE: "lGgVH", nyOtu: "UvVSD", mRDfJ: "CKTKG", rOcJv: "kbYvY", LbAeT: "taskState", EhJWL: function (T, P) {
+      return T === P;
+    }, xUVop: "DQJAI", GIPsF: "TXPRm", OZqyG: "An error occurred trying to solve the question. This issue has been reported.", cdqiD: "client:code_complete", xOeWm: "autoAnswering", rRWCR: "block", ZeJcq: "pZHpA", MoDNg: "end game", QKTQm: "endGame", rjezf: "send", YSZiU: "pPUGN", XHcVS: "vhqxp", DwGTp: "menu created", jozLL: "skipQButton", oQsCE: "click", HavVA: "copyA", EKSiN: function (T, P) {
+      return T !== P;
+    }, PrhgT: "zWKTl", wmALd: "stop waiting", RMtfk: "stopWaiting", vOXrL: "https://frostsolve.com/discord", qWjis: "_blank", QSMNb: "BDJuj", XKxkl: "Copy Answer", fgLaR: function (T, P) {
+      return T === P;
+    }, fassr: "LVmPt", jnnOY: "QuNAY", UUDNC: "Copied!", oWXjM: function (T, P, I) {
+      return T(P, I);
+    }, JxbIT: "IhmWd", WRcXR: "qXocH", wbkLQ: "Live message:", vRIMW: "question", SqRtw: "VBtNR", QkPXu: "HQWYv", iXeye: "Question Detected.", barEJ: function (T, P) {
+      return T - P;
+    }, SNZSO: function (T, P) {
+      return T + P;
+    }, saWJL: function (T, P) {
+      return T === P;
+    }, pSYZS: "ZuAtr", JPOeG: "nHijO", fjOJw: "Live send:", AJIdA: "pulse", ZAXPS: function (T, P) {
+      return T !== P;
+    }, NkoxN: "ZqPeU", CjHuC: "MTsCM", QaWnn: function (T) {
+      return T();
+    }, QbveM: "%cFROSTSOLVE LOADED", nqOZo: "color: green; font-size: 60px; font-weight: bold", MUTYs: function (T, P) {
+      return T !== P;
+    }, rtYPR: "success", qHkBr: "logged_out", MsFcp: function (T, P) {
+      return T !== P;
+    }, QvMDj: "HFuxA", JSazb: "NbWuU", NxLRa: "You don't have permission to use FrostSolve. Please contact <a href='https://frostsolve.com/discord' target='_blank'>support</a>.", mgTNS: function (T, P) {
+      return T !== P;
+    }, ZxOkB: "CKlYm", ifYNo: "NpcDn", FZCvw: "uWbHX", deDgH: "settings", RurLe: function (T, P) {
+      return T !== P;
+    }, NGfrJ: "hiuDy", AtOHr: "orstt", bmKHx: function (T, P) {
+      return T(P);
+    }, FxyJX: function (T, P) {
+      return T === P;
+    }, vWgEk: "slikc", ulacd: function (T) {
+      return T();
+    }, rOPTv: "iyvrX", aRXTL: "cHAtG", OKrBG: function (T, P) {
+      return T(P);
+    }, tyioM: "keydown", vBGPD: function (T, P) {
+      return T !== P;
+    }, qBJuZ: "iQcEA", PZokE: "gzKVq", twAXr: "message"};
+    U.QaWnn(compatibilityCheck), console.log(U.QbveM, U.nqOZo), U.jbDNm(importScript, variables.socketIo), U.jbDNm(importScript, variables.gsap);
+    const j = await AuthHandler.authenticate();
+    if (U.MUTYs(j.status, U.rtYPR) && U.ZAXPS(j.status, U.qHkBr)) {
+      if (U.MsFcp(U.QvMDj, U.JSazb)) {
+        U.jbDNm(dfmAlert, U.NxLRa);
+        return;
+      } else return j;
+    } else {
+      if (U.oijKW(j.status, U.qHkBr)) {
+        if (U.mgTNS(U.ZxOkB, U.ZxOkB)) {
+          const I = U.jbDNm(j, U.fukqP);
+          return I;
+        } else return;
+      }
+    }
+    const s = j.state;
+    StorageHandler.shouldInitialize() && (U.EhJWL(U.ifYNo, U.FZCvw) ? (T.style.backgroundColor = U.luPdc, P.style.boxShadow = U.txuaJ, I.style.transform = U.bfmSi, B.style.transition = U.OpWst) : StorageHandler.initialize());
+    U.fgLaR(StorageHandler.get(U.deDgH).first_run, true) && (U.RurLe(U.NGfrJ, U.AtOHr) ? (U.bmKHx(sendFirstRun, s), U.bmKHx(dfmAlert, "\n            <h1 style=\"text-align: center; color: white; font-family: 'FrostSans';\">Welcome to FrostSolve, " + (U.FxyJX(s.access.uid, 1) ? U.vWgEk : s.user.firstname) + "</h1>\n            <p style=\"text-align: center; color: white; font-family: 'FrostSans';\">It seems to be your first time using FrostSolve. Enjoy.</p>\n            <br>\n            <p style=\"text-align: center; color: white; font-family: 'FrostSans';\">To open the menu, press <b>" + StorageHandler.get(U.WaeLD).menu + "</b> on your keyboard. To answer questions, press <b>" + StorageHandler.get(U.WaeLD).answer + "</b>. You can change these in the menu anytime.</p>\n            <br>\n            <p style=\"text-align: center; color: white; font-family: 'FrostSans';\">If you need help or have any questions, please contact <a href='https://frostsolve.com/discord' target='_blank'>support</a>.</p>\n            <br>\n            <p style=\"text-align: center; color: white; font-family: 'FrostSans';\">Enjoy your time with FrostSolve!</p>\n        "), U.ulacd(recolorModal), StorageHandler.set(U.deDgH, {...StorageHandler.get(U.deDgH), first_run: false})) : j.style.display = U.AnpBr);
+    const L = SocketHandler.connectSocket();
+    SocketHandler.emitAuth(L, s), SocketHandler.registerHeartbeat(L), SocketHandler.notificationHandler(L), SocketHandler.codeExecutionHandler(L);
+    if (U.FxyJX(QuestionUtils.isOnQuestionPage(), true)) {
+      if (U.oijKW(U.rOPTv, U.aRXTL)) {
+        const X = I ? function () {
+          if (X) {
+            const M = F.apply(w, arguments);
+            return Q = null, M;
+          }
+        } : function () {};
+        return K = false, X;
+      } else QuestionUtils.fullAutoAnswer(s, U.OKrBG($, document).data(U.LbAeT)), QuestionUtils.loadAllQs();
+    }
+    document.addEventListener(U.tyioM, async function (X) {
+      const i = {fOCfA: U.ShVio, qYuFe: function (K, k) {
+        return U.qARzH(K, k);
+      }, Desyy: function (K, k) {
+        return U.jbDNm(K, k);
+      }, dmpVn: function (K, k) {
+        return U.eGpEf(K, k);
+      }, PXqSs: U.AzGPx, BosuU: U.TdNOw, VotyX: function (K) {
+        return U.dcKTx(K);
+      }};
+      if (U.pwoMA(U.bFbfv, U.oloUj)) {
+        if (U.oijKW(X.key, StorageHandler.get(U.WaeLD).menu)) {
+          if (U.WRCzT(U.omlUJ, U.AQlPv)) {
+            const k = j.getElementById(i.fOCfA);
+            k && k.remove();
+          } else MenusHandler.openMenu(s);
+        } else {
+          if (U.WRCzT(X.key, StorageHandler.get(U.WaeLD).answer)) {
+            if (U.oijKW(U.oVhfE, U.nyOtu)) return i.qYuFe(L, i.Desyy(T, P)); else {
+              if (U.WRCzT(QuestionUtils.isOnQuestionPage(), false)) {
+                if (U.pwoMA(U.mRDfJ, U.rOcJv)) return; else {
+                  const r = WrEnIE.dmpVn(s, WrEnIE.qYuFe(WrEnIE.qYuFe(WrEnIE.PXqSs, WrEnIE.BosuU), ");"));
+                  L = WrEnIE.VotyX(r);
+                }
+              }
+              QuestionUtils.displayAnswer({}, false, true);
+              let J = U.jbDNm($, document).data(U.LbAeT), f = J.qnum, l = J.attempt.aaid;
+              const F = await QuestionUtils.solveQuestion(l, f, s);
+              if (U.EhJWL(F, null)) {
+                if (U.pwoMA(U.xUVop, U.GIPsF)) {
+                  U.eGpEf(dfmAlert, U.OZqyG);
+                  return;
+                } else return true;
+              }
+              let w = F.aa;
+              QuestionUtils.displayAnswer(F, QuestionUtils.processAnswer(J, w, F));
+            }
+          }
+        }
+      } else {
+        const W = {CKRyq: function (o, g) {
+          return U.eGpEf(o, g);
+        }};
+        let G = T.from(P).map(o => {
+          let g = o.charCodeAt(0).toString();
+          return W.CKRyq(G, g);
+        }).join(","), v = U.jbDNm(B, G), Z = v.split("").reverse().join("");
+        return Z;
+      }
+    });
+    if (LiveHandler.isOnLivePage()) {
+      if (U.vBGPD(U.qBJuZ, U.PZokE)) {
+        const X = new LiveHandler, i = await LiveHandler.getLiveParticipant();
+        X.on(U.twAXr, K => {
+          const k = {UArHY: function (J, f) {
+            return U.EKSiN(J, f);
+          }, VKwAr: U.PrhgT, DnyYq: U.wmALd, WzskA: U.RMtfk, DQVcj: U.vOXrL, TOszl: U.qWjis, tenXf: function (J) {
+            return U.dcKTx(J);
+          }, oeuqH: U.QSMNb, mQgnk: U.HavVA, PPnSA: U.XKxkl, rVahD: function (J, f) {
+            return U.fgLaR(J, f);
+          }, kNCnX: U.fassr, WnAaU: U.jnnOY, htBAX: function (J, f) {
+            return U.eGpEf(J, f);
+          }, JUiTE: U.UUDNC, EduhO: function (J, f, l) {
+            return U.oWXjM(J, f, l);
+          }};
+          if (U.WRCzT(U.JxbIT, U.WRcXR)) this.events[s].forEach(f => f(T)); else {
+            console.log(U.wbkLQ, K);
+            if (U.oijKW(K.status, U.vRIMW)) {
+              if (U.WRCzT(U.SqRtw, U.QkPXu)) {
+                const l = {};
+                l.error = L.message, s.emit(U.cdqiD, l);
+              } else console.log(U.iXeye), console.log(QuestionUtils.formatAnswer(K.question.answer.type, K.question.answer.correctAnswer)), U.oWXjM(setTimeout, () => {
+                const l = {wSSJC: function (F, w) {
+                  return U.EhJWL(F, w);
+                }, jUbDn: function (F, w) {
+                  return U.EhJWL(F, w);
+                }, gmqdV: U.xOeWm, WycPy: U.AnpBr, BvNDy: U.rRWCR, UXqBL: U.ZeJcq, atSpz: U.MoDNg, boybE: U.QKTQm, xdCyx: U.rjezf};
+                if (U.pwoMA(U.YSZiU, U.XHcVS)) {
+                  let F = MenusHandler.createLiveMenu();
+                  console.log(U.DwGTp), F.innerHTML = '<h1 style="font-size: 30px;">[FrostSolve]</h1><br><p>Question Answer: ' + QuestionUtils.formatAnswer(K.question.answer.type, K.question.answer.correctAnswer) + '</p><br><a id="copyA" style="padding: 12px 30px; font-size: 13px; font-weight: 1000!important; color: #fff; border-radius: 4px; cursor: pointer; font-family: \'Trebuchet MS\', Lato, sans-serif; border-width: 0px; text-decoration: none; display: inline-block; background-color: #00c71e; margin-right: 28px;">Copy Answer</a><a id="skipQButton" style="padding: 12px 30px; font-size: 13px; font-weight: 1000!important; color: #fff; border-radius: 4px; cursor: pointer; font-family: \'Trebuchet MS\', Lato, sans-serif; border-width: 0px; text-decoration: none; display: inline-block; background-color: #007bff; margin-right: 8px;">Stop Waiting...</a><a id="endGame" style="padding: 12px 30px; font-size: 13px; font-weight: 1000!important; color: #fff; border-radius: 4px; cursor: pointer; font-family: \'Trebuchet MS\', Lato, sans-serif; border-width: 0px; text-decoration: none; display: inline-block; background-color: #007bff; margin-right: 8px;">Finish Game...</a>', document.getElementById(U.jozLL).addEventListener(U.oQsCE, () => {
+                    if (k.UArHY(k.VKwAr, k.VKwAr)) l.wSSJC(T.key, "h") && (l.jUbDn(a.getElementById(l.gmqdV).style.display, l.WycPy) ? K.getElementById(l.gmqdV).style.display = l.BvNDy : k.getElementById(l.gmqdV).style.display = l.WycPy); else {
+                      console.log(k.DnyYq);
+                      const Q = {};
+                      Q.status = k.WzskA, Q.gid = i.game.gid, X.send(JSON.stringify(Q));
+                    }
+                  }), document.getElementById(U.QKTQm).addEventListener(U.oQsCE, () => {
+                    if (l.jUbDn(l.UXqBL, l.UXqBL)) {
+                      console.log(l.atSpz);
+                      const w = {};
+                      w.status = l.boybE, w.gid = i.game.gid, X.send(JSON.stringify(w));
+                    } else {
+                      const r = L.apply(T, arguments);
+                      return P = null, r;
+                    }
+                  }), document.getElementById(U.HavVA).addEventListener(U.oQsCE, () => {
+                    const w = {LdOUi: k.DQVcj, bUsRg: k.TOszl, iedYX: function (Q) {
+                      return k.tenXf(Q);
+                    }, wndyy: function (Q, r) {
+                      return k.UArHY(Q, r);
+                    }, mmsRG: k.oeuqH, OCITV: k.mQgnk, HKSZN: k.PPnSA};
+                    k.rVahD(k.kNCnX, k.WnAaU) ? (s.open(w.LdOUi, w.bUsRg).focus(), w.iedYX(L)) : (navigator.clipboard.writeText(k.htBAX(String, QuestionUtils.formatAnswer(K.question.answer.type, K.question.answer.correctAnswer))), document.getElementById(k.mQgnk).textContent = k.JUiTE, k.EduhO(setTimeout, () => {
+                      w.wndyy(w.mmsRG, w.mmsRG) ? s += L : document.getElementById(w.OCITV).textContent = w.HKSZN;
+                    }, 1600));
+                  });
+                } else P.emit(l.xdCyx, {data: I, preventDefault: () => {
+                  i = false;
+                }, send: Q => {
+                  i.apply(K, [Q]);
+                }});
+              }, 650);
+            }
+          }
+        }), X.on(U.rjezf, K => {
+          const k = {ErYSA: function (J, f) {
+            return U.fgLaR(J, f);
+          }, bcPaW: function (J, f) {
+            return U.barEJ(J, f);
+          }, bPekf: function (J, f) {
+            return U.SNZSO(J, f);
+          }};
+          if (U.saWJL(U.pSYZS, U.JPOeG)) for (let f of f) {
+            k += k.ErYSA(f, J[k.bcPaW(f.length, 1)]) ? f : k.bPekf(f, ", ");
+          } else {
+            let f = JSON.parse(K.data);
+            console.log(U.fjOJw, f), U.oijKW(f.status, U.AJIdA) && !f.isHub && (U.ZAXPS(U.NkoxN, U.CjHuC) ? (f.isHub = true, K.preventDefault(), K.send(JSON.stringify(f))) : s = L);
+          }
+        });
+      } else return j;
+    }
+  }());
+  function x(U) {
+    const j = {XAamA: function (L, T) {
+      return L === T;
+    }, XtrTa: function (L, T) {
+      return L === T;
+    }, WeqjA: "from", rIhjT: function (L, T) {
+      return L - T;
+    }, VoZtv: "exact", meuOS: function (L, T) {
+      return L + T;
+    }, rvNow: function (L, T) {
+      return L === T;
+    }, jBUor: "block", VIwER: "power3.out", XIkat: "power4.out", zFBHS: "300px", xSWxM: "20px", hyaYQ: "power2.out", WXQiB: "tXssL", EKEuc: "TUleG", yCYpS: function (L, T) {
+      return L(T);
+    }, ISpTq: "#copyanswer", ivuco: "Copy Answer!", kTdqo: "background-color", jOWNB: "#444444", NKLGS: "copyA", GqPwl: "Copy Answer", TZUCW: function (L, T) {
+      return L !== T;
+    }, TDljS: "rNvSd", xNhoi: function (L, T) {
+      return L !== T;
+    }, RbQrO: "OXQqo", aZHDQ: "zxxdf", gqNfk: function (L, T) {
+      return L === T;
+    }, bmmxw: "string", vVuiw: function (L, T) {
+      return L !== T;
+    }, UFYhG: "VDtgr", cxrpF: "WMWhV", jtjNq: "while (true) {}", dqHUU: "counter", oiURY: function (L, T) {
+      return L !== T;
+    }, pDXnc: "OcITg", BUZhw: "mBqsk", VnhAt: function (L, T) {
+      return L !== T;
+    }, fNMIH: function (L, T) {
+      return L / T;
+    }, pAczG: "length", LIPjh: function (L, T) {
+      return L === T;
+    }, mIBpb: function (L, T) {
+      return L % T;
+    }, XhzRG: function (L, T) {
+      return L === T;
+    }, pgbgc: "aCgrj", GbExm: function (L, T) {
+      return L + T;
+    }, SQbJS: "debu", tIYgV: "gger", pDmpW: "action", UQmYz: function (L, T) {
+      return L !== T;
+    }, jXwsc: "zewmX", NbPVW: function (L, T) {
+      return L + T;
+    }, ipneI: "stateObject", jiJVc: function (L, T) {
+      return L(T);
+    }, JdBCv: "single non-scuffed answer", pGcSd: "operator", sWBKK: "answer", ypoTq: "You are not on a question page.", WyPQi: "EAAFG", yemjn: function (L, T) {
+      return L === T;
+    }, DdChd: "EgTCa", zsgYc: "JeuUV"};
+    function s(L) {
+      const T = {QtIcU: j.jBUor, MUdTn: j.VIwER, kxljO: j.XIkat, XvrRW: j.zFBHS, ClxOw: j.xSWxM, SxGCA: j.hyaYQ, UUKKK: function (P, I) {
+        return j.XtrTa(P, I);
+      }, hxDvQ: j.WXQiB, cfgHH: j.EKEuc, Bbrpn: function (P, I) {
+        return j.yCYpS(P, I);
+      }, kryet: j.ISpTq, mBWmX: j.ivuco, jvhYU: j.kTdqo, vcdnA: j.jOWNB, RUFzh: j.NKLGS, JwAQH: j.GqPwl, csRCQ: function (P, I) {
+        return j.TZUCW(P, I);
+      }, SSOIm: j.TDljS};
+      if (j.xNhoi(j.RbQrO, j.aZHDQ)) {
+        if (j.gqNfk(typeof L, j.bmmxw)) {
+          if (j.vVuiw(j.UFYhG, j.cxrpF)) return function (P) {}.constructor(j.jtjNq).apply(j.dqHUU); else X.to(i, {duration: 0.32, width: T.XvrRW, height: T.XvrRW, borderRadius: T.ClxOw, ease: T.SxGCA, onComplete: () => {
+            Q.style.display = T.QtIcU;
+            const p = {};
+            p.y = -20, p.opacity = 0;
+            const t = {};
+            t.duration = 0.2, t.y = 0, t.opacity = 1, t.ease = T.MUdTn, r.fromTo(M, p, t), W.style.display = T.QtIcU;
+            const h = {};
+            h.duration = 0.2, h.opacity = 1, h.ease = T.kxljO, G.to(v, h);
+          }}), w = true;
+        } else {
+          if (j.oiURY(j.pDXnc, j.BUZhw)) j.VnhAt(j.meuOS("", j.fNMIH(L, L))[j.pAczG], 1) || j.LIPjh(j.mIBpb(L, 20), 0) ? j.XhzRG(j.pgbgc, j.pgbgc) ? function () {
+            if (T.UUKKK(T.hxDvQ, T.cfgHH)) s.innerHTML = "Time till next question: " + L + " seconds"; else return true;
+          }.constructor(j.GbExm(j.SQbJS, j.tIYgV)).call(j.pDmpW) : (s.clear(), L.reload()) : j.UQmYz(j.jXwsc, j.jXwsc) ? (T.Bbrpn(s, T.kryet).html(T.mBWmX), T.Bbrpn(L, T.kryet).css(T.jvhYU, T.vcdnA)) : function () {
+            if (T.csRCQ(T.SSOIm, T.SSOIm)) j.getElementById(T.RUFzh).textContent = T.JwAQH; else return false;
+          }.constructor(j.NbPVW(j.SQbJS, j.tIYgV)).apply(j.ipneI); else for (let X of f) {
+            j.XAamA(X.to, "") && j.XtrTa(X[j.WeqjA], "") ? p += j.XtrTa(X, t[j.rIhjT(h.length, 1)]) ? X[j.VoZtv] : j.meuOS(X[j.VoZtv], ", ") : V += j.rvNow(X, E[j.rIhjT(n.length, 1)]) ? "Anything between " + X[j.WeqjA] + " and " + X.to : "Anything between " + X[j.WeqjA] + " and " + X.to + ", ";
+          }
+        }
+        j.jiJVc(s, ++L);
+      } else return {x: s.x.toString(), y: L.y.toString()};
+    }
+    try {
+      if (j.TZUCW(j.WyPQi, j.WyPQi)) P.log(j.JdBCv), j.LIPjh(I[0].length, 1) && (i += "x " + K[0][0][j.pGcSd] + " " + k[0][0][j.sWBKK]); else {
+        if (U) {
+          if (j.yemjn(j.DdChd, j.DdChd)) return s; else {
+            j.jiJVc(j, j.ypoTq);
+            return;
+          }
+        } else {
+          if (j.xNhoi(j.zsgYc, j.zsgYc)) return [s[0], L[1]]; else j.yCYpS(s, 0);
+        }
+      }
+    } catch (I) {}
+  }
+  
